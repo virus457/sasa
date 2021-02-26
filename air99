@@ -23,7 +23,40 @@ https://bit.ly/34udaMv
 https://bit.ly/39MNnTW
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/2NShtgo" group-title="1قنوات بين سبور BEIN SPORT",0تعمل وقت المبارات المهمه
 http://live.btv2020.com:1935/live/btv/chunklist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT NEWS HD" tvg-logo="https://i.ibb.co/FBg9xDq/news.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT NEWS HD
+http://95.216.15.51:80/airmaxtv/gJJeZVQy4V/238
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS HD" tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORTS HD
+http://95.216.15.51:80/airmaxtv/gJJeZVQy4V/239
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT LOW 1" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT LOW 1
+http://95.216.15.51:80/airmaxtv/gJJeZVQy4V/208
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT LOW 2" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT LOW 2
+http://95.216.15.51:80/airmaxtv/gJJeZVQy4V/209
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT LOW 3" tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT LOW 3
+http://95.216.15.51:80/airmaxtv/gJJeZVQy4V/210
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT LOW 4" tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT LOW 4
+http://95.216.15.51:80/airmaxtv/gJJeZVQy4V/211
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT LOW 5" tvg-logo="https://i.ibb.co/C1Jt1n0/HD5.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT LOW 5
+http://95.216.15.51:80/airmaxtv/gJJeZVQy4V/212
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT 1 SD  1M" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT 1 SD  1M
+http://95.216.15.51:80/airmaxtv/gJJeZVQy4V/198
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT2 SD  1M" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT2 SD  1M
+http://95.216.15.51:80/airmaxtv/gJJeZVQy4V/199
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT3 SD  1M" tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT3 SD  1M
+http://95.216.15.51:80/airmaxtv/gJJeZVQy4V/200
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT4 SD  1M" tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT4 SD  1M
+http://95.216.15.51:80/airmaxtv/gJJeZVQy4V/201
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT5 SD  1M" tvg-logo="https://i.ibb.co/C1Jt1n0/HD5.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT5 SD  1M
+http://95.216.15.51:80/airmaxtv/gJJeZVQy4V/202
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT6 SD  1M" tvg-logo="https://i.ibb.co/4RSKRsZ/HD6.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT6 SD  1M
+http://95.216.15.51:80/airmaxtv/gJJeZVQy4V/203
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT7 SD  1M" tvg-logo="https://i.ibb.co/hYfQFGh/HD7.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT7 SD  1M
+http://95.216.15.51:80/airmaxtv/gJJeZVQy4V/204
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT8 SD  1M" tvg-logo="https://i.ibb.co/YXC7Wgy/HD8.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT8 SD  1M
+http://95.216.15.51:80/airmaxtv/gJJeZVQy4V/205
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT9 SD  1M" tvg-logo="https://i.ibb.co/zX4TC60/HD9.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT9 SD  1M
+http://95.216.15.51:80/airmaxtv/gJJeZVQy4V/206
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT10SD  1M" tvg-logo="https://i.ibb.co/T8Gw0JT/HD10.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT10SD  1M
+http://95.216.15.51:80/airmaxtv/gJJeZVQy4V/207
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3tecbMr" group-title="1قنوات بين سبور BEIN SPORT",beIN Sport Extra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MI09dC" group-title="1قنوات بين سبور BEIN SPORT",BEIN​ SPORT​1 HD
