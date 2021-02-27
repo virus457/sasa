@@ -159,10 +159,6 @@ http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/397
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/398
 #EXTINF:-1 tvg-id="" tvg-name="OSN ART HIKAYAT 2" tvg-logo="http://www.teledunet.com/logo.php?id=102270" group-title="او اس انOSN",OSN ART HIKAYAT 2
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/399
-#EXTINF:-1 tvg-id="" tvg-name="OSN FANN" tvg-logo="http://www.teledunet.com/logo.php?id=102276" group-title="او اس انOSN",OSN FANN
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/400
-#EXTINF:-1 tvg-id="" tvg-name="OSN MEZZE" tvg-logo="http://www.teledunet.com/logo.php?id=1052" group-title="او اس انOSN",OSN MEZZE
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/401
 #EXTINF:-1 tvg-id="" tvg-name="OSN STAR MOVIES" tvg-logo="http://www.teledunet.com/logo.php?id=20330" group-title="او اس انOSN",OSN STAR MOVIES
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/402
 #EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES" tvg-logo="http://www.teledunet.com/logo.php?id=1053" group-title="او اس انOSN",OSN MOVIES
@@ -190,91 +186,93 @@ http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/413
 #EXTINF:-1 tvg-id="" tvg-name="OSN ANIMAL PLANET" tvg-logo="http://www.teledunet.com/logo.php?id=1056" group-title="او اس انOSN",OSN ANIMAL PLANET
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/414
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Action 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Action 1
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/263
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/507
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID ACTION 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",SHAHID ACTION 2
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/264
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/508
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID ARABIA 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",SHAHID ARABIA 1
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/265
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/509
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Arabia" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Arabia
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/266
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/510
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Drama 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Drama 1
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/267
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/511
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Drama 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Drama 2
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/268
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/512
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID DRAMA 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",SHAHID DRAMA 1
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/269
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/513
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID DRAMA 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",SHAHID DRAMA 2
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/270
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/514
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Comedy 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Comedy 1
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/271
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/515
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Comedy 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Comedy 2
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/272
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/516
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID COMEDY 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",SHAHID COMEDY 1
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/273
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/517
 #EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID ADVENTURE 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| SHAHID ADVENTURE 2
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/274
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/518
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID ADVENTURE" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",SHAHID ADVENTURE
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/275
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/519
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Adventure 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Adventure 1
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/276
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/520
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Adventure 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Adventure 2
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/277
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/521
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Bollywood 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Bollywood 1
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/278
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/522
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID BOLLYWOOD 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",SHAHID BOLLYWOOD 2
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/279
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/523
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Bollywood" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Bollywood
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/280
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/524
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Crime 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Crime 1
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/281
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/525
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Crime 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Crime 2
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/282
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/526
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Arabia 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Arabia 2
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/283
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/527
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Family 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Family 1
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/284
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/528
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID HORROR 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",SHAHID HORROR 1
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/285
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/529
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Horror 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Horror 1
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/286
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/530
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Horror 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Horror 2
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/287
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/531
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID THRILLER 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",SHAHID THRILLER 1
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/288
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/532
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Thriller 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Thriller 1
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/289
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/533
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Thriller 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Thriller 2
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/290
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/534
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID SCI-FI 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",SHAHID SCI-FI 1
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/291
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/535
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID SCI-FI 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",SHAHID SCI-FI 2
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/292
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/536
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Kids" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Kids
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/293
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/537
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID DOCUMENTARY 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",SHAHID DOCUMENTARY 1
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/294
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/538
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID DOCUMENTARY 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",SHAHID DOCUMENTARY 2
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/295
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/539
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Crime" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Crime
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/296
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/540
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid COMEDY" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid COMEDY
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/297
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/541
 #EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID FAMILY" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| SHAHID FAMILY
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/298
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/542
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID FAMILY 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",SHAHID FAMILY 1
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/299
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/543
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID FAMILY 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",SHAHID FAMILY 2
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/300
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/544
 #EXTINF:-1 tvg-id="" tvg-name="AR:SHAHID_AFLAM_1" tvg-logo="https://i.ibb.co/12Pcv64/shahid.png" group-title="باقة شاهد نت",AR:SHAHID_AFLAM_1
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/301
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/545
 #EXTINF:-1 tvg-id="" tvg-name="AR:SHAHID_AFLAM_2" tvg-logo="https://i.ibb.co/12Pcv64/shahid.png" group-title="باقة شاهد نت",AR:SHAHID_AFLAM_2
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/302
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/546
 #EXTINF:-1 tvg-id="" tvg-name="AR:SHAHID:CINEMA" tvg-logo="https://i.ibb.co/12Pcv64/shahid.png" group-title="باقة شاهد نت",AR:SHAHID:CINEMA
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/303
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/547
 #EXTINF:-1 tvg-id="" tvg-name="AR:SHAHID_ZAMAN" tvg-logo="https://i.ibb.co/12Pcv64/shahid.png" group-title="باقة شاهد نت",AR:SHAHID_ZAMAN
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/304
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/548
 #EXTINF:-1 tvg-id="" tvg-name="AR:SHAHID_ROAP" tvg-logo="https://i.ibb.co/12Pcv64/shahid.png" group-title="باقة شاهد نت",AR:SHAHID_ROAP
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/305
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/549
+#EXTINF:-1 tvg-id="" tvg-name="AR:SHAHID_ACTION" tvg-logo="https://i.ibb.co/12Pcv64/shahid.png" group-title="باقة شاهد نت",AR:SHAHID_ACTION
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/550
 #EXTINF:-1 tvg-id="ext" group-title="3قنوات نتفليكسNETFLIX",NETFLIX CHANNELS
 https://bit.ly/39MNnTW
 #EXTINF:-1 tvg-id="ext" group-title="3قنوات نتفليكسNETFLIX",النسخة المدفوعة AirMax TV
@@ -286,49 +284,59 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://i.imgur.com/CulLL7e.png" group-title="3قنوات نتفليكسNETFLIX",Nas Tv
 http://vstream3.hadara.ps:8081/NasRadio_web/web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Action" tvg-logo="https://i.ibb.co/S56x0vx/netflix-ac.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Action
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/241
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/551
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Horror" tvg-logo="https://i.ibb.co/3hsDZBD/horrnr.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Horror
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/242
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/552
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Thriller" tvg-logo="https://i.ibb.co/4SMqytZ/Netflix-Thriller.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Thriller
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/243
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/553
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX SCI" tvg-logo="https://i.ibb.co/W6SSNQy/netflix-SCI.png" group-title="3قنوات نتفليكسNETFLIX",NETFLIX SCI
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/244
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/554
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX Animation" tvg-logo="https://i.ibb.co/1ZmJhWT/NETFLIX-Animation.png" group-title="3قنوات نتفليكسNETFLIX",NETFLIX Animation
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/245
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/555
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy" tvg-logo="https://i.ibb.co/DYvYcF1/netflix-comedy.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Comedy
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/246
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/556
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Bollywood" tvg-logo="https://i.ibb.co/cwm8CHf/netflix-bollywood.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Bollywood
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/247
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/557
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Drama" tvg-logo="https://i.ibb.co/wB9SYNt/netflix-Drama.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Drama
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/248
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/558
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Classic" tvg-logo="https://i.ibb.co/XkD8shb/Classic.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Classic
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/249
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/559
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Arabic" tvg-logo="https://i.ibb.co/PgzFmkN/Netflix-arabic.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Arabic
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/250
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/560
 #EXTINF:-1 tvg-id="" tvg-name="Shahed Aflam" tvg-logo="https://i.ibb.co/ZLQm57V/Shahid.png" group-title="3قنوات نتفليكسNETFLIX",Shahed Aflam
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/251
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/561
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Boxoffice 1" tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Boxoffice 1
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/252
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/562
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Boxoffice 2" tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Boxoffice 2
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/253
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/563
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Boxoffice 3" tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Boxoffice 3
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/254
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/564
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Boxoffice 4" tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Boxoffice 4
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/255
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/565
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Boxoffice 5" tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Boxoffice 5
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/256
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/566
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Boxoffice 6" tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Boxoffice 6
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/257
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/567
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Boxoffice 7" tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Boxoffice 7
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/258
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/568
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Boxoffice 8" tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Boxoffice 8
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/259
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/569
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Action" tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Action
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/260
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/570
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Drama" tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Drama
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/261
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/571
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy" tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Comedy
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/262
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/572
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror" tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Horror
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/573
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 1" tvg-logo="https://i.ibb.co/g7TZD57/BOXOFFIC-removebg-preview.png" group-title="3قنوات نتفليكسNETFLIX",BOX OFFICE 1
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/574
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 2" tvg-logo="https://i.ibb.co/g7TZD57/BOXOFFIC-removebg-preview.png" group-title="3قنوات نتفليكسNETFLIX",BOX OFFICE 2
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/575
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 3" tvg-logo="https://i.ibb.co/g7TZD57/BOXOFFIC-removebg-preview.png" group-title="3قنوات نتفليكسNETFLIX",BOX OFFICE 3
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/576
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 4" tvg-logo="https://i.ibb.co/g7TZD57/BOXOFFIC-removebg-preview.png" group-title="3قنوات نتفليكسNETFLIX",BOX OFFICE 4
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/577
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3anMkdB" group-title="3قنوات نتفليكسNETFLIX",Violet TV
 https://5e98ac1ed3cd4.streamlock.net/violet.tv/violet2/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qsIF3N" group-title="3قنوات نتفليكسNETFLIX",Canadian Arab TV
@@ -1136,7 +1144,6 @@ http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/316
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/317
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Syria Alam" tvg-logo="https://i.ibb.co/pdJy1g0/syria-al3alam.png" group-title="10قنوات سوريةSyria",|AR| Syria Alam
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/318
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cRDOoO" group-title="10قنوات سوريةSyria",SYR-ALalam Syria
 https://live2.presstv.com/live/alam/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="10قنوات سوريةSyria",SYR-HALAB TODAY SD
@@ -1177,16 +1184,12 @@ http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/319
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/320
 #EXTINF:-1 tvg-id="" tvg-name="|AR| AL JADEED" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| AL JADEED
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/321
-#EXTINF:-1 tvg-id="" tvg-name="|AR| LBC International HD" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| LBC International HD
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/322
 #EXTINF:-1 tvg-id="" tvg-name="|AR| LBC HD" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| LBC HD
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/323
 #EXTINF:-1 tvg-id="" tvg-name="|AR| HEYA TV" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| HEYA TV
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/324
 #EXTINF:-1 tvg-id="" tvg-name="|AR|  LB2" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR|  LB2
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/325
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Future TV" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| Future TV
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/326
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OTV HD" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| OTV HD
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/327
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Tl Lebanon" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| Tl Lebanon
@@ -1197,8 +1200,6 @@ http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/329
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/330
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Arabicatv" tvg-logo="https://i.ibb.co/ZL7mcV0/unnamed.png" group-title="11قنوات لبنانLEBANON",|AR| Arabicatv
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/331
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MANAR HD" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| MANAR HD
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/332
 #EXTINF:-1 tvg-id="" tvg-name="|AR| AL Mayadeen" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| AL Mayadeen
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/333
 #EXTINF:-1 tvg-id="" tvg-name="|AR| ALAAN HD" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| ALAAN HD
@@ -1398,30 +1399,16 @@ http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/415
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/416
 #EXTINF:-1 tvg-id="" tvg-name="ALHAYAT EGYPT" tvg-logo="http://www.teledunet.com/logo.php?id=10205" group-title="15قنوات المصرية Egypt",ALHAYAT EGYPT
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/417
-#EXTINF:-1 tvg-id="" tvg-name="ALHAYAT MUSALSALAT" tvg-logo="http://www.teledunet.com/logo.php?id=50384" group-title="15قنوات المصرية Egypt",ALHAYAT MUSALSALAT
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/418
 #EXTINF:-1 tvg-id="" tvg-name="ON E" tvg-logo="http://www.teledunet.com/logo.php?id=10170" group-title="15قنوات المصرية Egypt",ON E
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/419
-#EXTINF:-1 tvg-id="" tvg-name="ON DRAMA" tvg-logo="http://www.teledunet.com/logo.php?id=10171" group-title="15قنوات المصرية Egypt",ON DRAMA
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/420
-#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORTS 1" tvg-logo="http://www.teledunet.com/logo.php?id=10172" group-title="15قنوات المصرية Egypt",ON TIME SPORTS 1
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/421
-#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORTS 2" tvg-logo="http://www.teledunet.com/logo.php?id=1159" group-title="15قنوات المصرية Egypt",ON TIME SPORTS 2
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/422
-#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORTS 3" tvg-logo="" group-title="15قنوات المصرية Egypt",ON TIME SPORTS 3
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/423
 #EXTINF:-1 tvg-id="" tvg-name="TIME SPORTS" tvg-logo="http://www.teledunet.com/logo.php?id=1160" group-title="15قنوات المصرية Egypt",TIME SPORTS
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/424
 #EXTINF:-1 tvg-id="" tvg-name="ZAMALEK" tvg-logo="http://www.teledunet.com/logo.php?id=1014607" group-title="15قنوات المصرية Egypt",ZAMALEK
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/425
 #EXTINF:-1 tvg-id="" tvg-name="ALAHLY" tvg-logo="http://www.teledunet.com/logo.php?id=10203" group-title="15قنوات المصرية Egypt",ALAHLY
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/426
-#EXTINF:-1 tvg-id="" tvg-name="MAZZIKA" tvg-logo="http://www.teledunet.com/logo.php?id=1014490" group-title="15قنوات المصرية Egypt",MAZZIKA
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/427
 #EXTINF:-1 tvg-id="" tvg-name="FREE MUSIC" tvg-logo="http://www.teledunet.com/logo.php?id=1161" group-title="15قنوات المصرية Egypt",FREE MUSIC
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/428
-#EXTINF:-1 tvg-id="" tvg-name="MASPERO ZAMAN" tvg-logo="http://www.teledunet.com/logo.php?id=1162" group-title="15قنوات المصرية Egypt",MASPERO ZAMAN
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/429
 #EXTINF:-1 tvg-id="" tvg-name="ALNAHAR" tvg-logo="http://www.teledunet.com/logo.php?id=10188" group-title="15قنوات المصرية Egypt",ALNAHAR
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/430
 #EXTINF:-1 tvg-id="" tvg-name="ALNAHAR DRAMA" tvg-logo="http://www.teledunet.com/logo.php?id=10189" group-title="15قنوات المصرية Egypt",ALNAHAR DRAMA
@@ -1468,12 +1455,6 @@ http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/450
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/451
 #EXTINF:-1 tvg-id="" tvg-name="NILE SPORTS" tvg-logo="http://www.teledunet.com/logo.php?id=10183" group-title="15قنوات المصرية Egypt",NILE SPORTS
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/452
-#EXTINF:-1 tvg-id="" tvg-name="STAR CINEMA 1" tvg-logo="http://www.teledunet.com/logo.php?id=1014496" group-title="15قنوات المصرية Egypt",STAR CINEMA 1
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/453
-#EXTINF:-1 tvg-id="" tvg-name="STAR CINEMA 2" tvg-logo="http://www.teledunet.com/logo.php?id=1014504" group-title="15قنوات المصرية Egypt",STAR CINEMA 2
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/454
-#EXTINF:-1 tvg-id="" tvg-name="AL MASRIYA" tvg-logo="http://www.teledunet.com/logo.php?id=10168" group-title="15قنوات المصرية Egypt",AL MASRIYA
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/455
 #EXTINF:-1 tvg-id="" tvg-name="ALTHANIYA EGYPT" tvg-logo="http://www.teledunet.com/logo.php?id=12285" group-title="15قنوات المصرية Egypt",ALTHANIYA EGYPT
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/456
 #EXTINF:-1 tvg-id="" tvg-name="ALKAHERA W NESS" tvg-logo="http://www.teledunet.com/logo.php?id=10177" group-title="15قنوات المصرية Egypt",ALKAHERA W NESS
@@ -1494,50 +1475,18 @@ http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/463
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/464
 #EXTINF:-1 tvg-id="" tvg-name="AL MASRAWIA" tvg-logo="http://www.teledunet.com/logo.php?id=1166" group-title="15قنوات المصرية Egypt",AL MASRAWIA
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/465
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PRO" tvg-logo="http://www.teledunet.com/logo.php?id=1167" group-title="15قنوات المصرية Egypt",CINEMA PRO
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/466
 #EXTINF:-1 tvg-id="" tvg-name="CIMA ALI BABA" tvg-logo="http://www.teledunet.com/logo.php?id=10198" group-title="15قنوات المصرية Egypt",CIMA ALI BABA
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/467
 #EXTINF:-1 tvg-id="" tvg-name="M CINEMA" tvg-logo="http://www.teledunet.com/logo.php?id=1168" group-title="15قنوات المصرية Egypt",M CINEMA
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/468
 #EXTINF:-1 tvg-id="" tvg-name="TOKTOK AFLAM" tvg-logo="http://www.teledunet.com/logo.php?id=50350" group-title="15قنوات المصرية Egypt",TOKTOK AFLAM
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/469
-#EXTINF:-1 tvg-id="" tvg-name="SHABABIK CINEMA" tvg-logo="http://www.teledunet.com/logo.php?id=1169" group-title="15قنوات المصرية Egypt",SHABABIK CINEMA
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/470
-#EXTINF:-1 tvg-id="" tvg-name="SHABABIK AFLAM" tvg-logo="http://www.teledunet.com/logo.php?id=1170" group-title="15قنوات المصرية Egypt",SHABABIK AFLAM
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/471
-#EXTINF:-1 tvg-id="" tvg-name="SHABABIK CLASSIC" tvg-logo="http://www.teledunet.com/logo.php?id=1171" group-title="15قنوات المصرية Egypt",SHABABIK CLASSIC
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/472
-#EXTINF:-1 tvg-id="" tvg-name="SHABABIK DRAMA" tvg-logo="http://www.teledunet.com/logo.php?id=1172" group-title="15قنوات المصرية Egypt",SHABABIK DRAMA
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/473
-#EXTINF:-1 tvg-id="" tvg-name="SHABABIK MOSALSALAT" tvg-logo="http://www.teledunet.com/logo.php?id=1173" group-title="15قنوات المصرية Egypt",SHABABIK MOSALSALAT
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/474
-#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME CINEMA" tvg-logo="http://www.teledunet.com/logo.php?id=1174" group-title="15قنوات المصرية Egypt",SHOWTIME CINEMA
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/475
-#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME AFLAM" tvg-logo="http://www.teledunet.com/logo.php?id=1175" group-title="15قنوات المصرية Egypt",SHOWTIME AFLAM
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/476
 #EXTINF:-1 tvg-id="" tvg-name="SHOWTIME COMEDY" tvg-logo="http://www.teledunet.com/logo.php?id=1176" group-title="15قنوات المصرية Egypt",SHOWTIME COMEDY
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/477
-#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME DRAMA" tvg-logo="http://www.teledunet.com/logo.php?id=1177" group-title="15قنوات المصرية Egypt",SHOWTIME DRAMA
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/478
 #EXTINF:-1 tvg-id="" tvg-name="SHOWTIME MOSALSALAT" tvg-logo="http://www.teledunet.com/logo.php?id=1178" group-title="15قنوات المصرية Egypt",SHOWTIME MOSALSALAT
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/479
-#EXTINF:-1 tvg-id="" tvg-name="APPLE FILM" tvg-logo="http://www.teledunet.com/logo.php?id=1179" group-title="15قنوات المصرية Egypt",APPLE FILM
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/480
-#EXTINF:-1 tvg-id="" tvg-name="APPLE CINEMA" tvg-logo="http://www.teledunet.com/logo.php?id=1180" group-title="15قنوات المصرية Egypt",APPLE CINEMA
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/481
-#EXTINF:-1 tvg-id="" tvg-name="APPLE COMEDY" tvg-logo="http://www.teledunet.com/logo.php?id=1181" group-title="15قنوات المصرية Egypt",APPLE COMEDY
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/482
-#EXTINF:-1 tvg-id="" tvg-name="APPLE HEKAYAT" tvg-logo="http://www.teledunet.com/logo.php?id=1182" group-title="15قنوات المصرية Egypt",APPLE HEKAYAT
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/483
 #EXTINF:-1 tvg-id="" tvg-name="APPLE MOSLSALAT" tvg-logo="http://www.teledunet.com/logo.php?id=1183" group-title="15قنوات المصرية Egypt",APPLE MOSLSALAT
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/484
-#EXTINF:-1 tvg-id="" tvg-name="APPLE TODAY" tvg-logo="http://www.teledunet.com/logo.php?id=1184" group-title="15قنوات المصرية Egypt",APPLE TODAY
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/485
-#EXTINF:-1 tvg-id="" tvg-name="MODERN AFLAM" tvg-logo="http://www.teledunet.com/logo.php?id=1185" group-title="15قنوات المصرية Egypt",MODERN AFLAM
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/486
-#EXTINF:-1 tvg-id="" tvg-name="MODERN ALYOOM" tvg-logo="http://www.teledunet.com/logo.php?id=1186" group-title="15قنوات المصرية Egypt",MODERN ALYOOM
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/487
 #EXTINF:-1 tvg-id="" tvg-name="MODERN CINEMA" tvg-logo="http://www.teledunet.com/logo.php?id=1187" group-title="15قنوات المصرية Egypt",MODERN CINEMA
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/488
 #EXTINF:-1 tvg-id="" tvg-name="MODERN COMEDY" tvg-logo="http://www.teledunet.com/logo.php?id=1188" group-title="15قنوات المصرية Egypt",MODERN COMEDY
@@ -1636,12 +1585,8 @@ http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/500
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/501
 #EXTINF:-1 tvg-id="" tvg-name="|AR| AL HAYAT rtm" tvg-logo="" group-title="18 قنوات الجزائرALGERIEN",|AR| AL HAYAT rtm
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/502
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Chaine Nord-Africaine" tvg-logo="" group-title="18 قنوات الجزائرALGERIEN",|AR| Chaine Nord-Africaine
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/503
 #EXTINF:-1 tvg-id="" tvg-name="AR| Al Fajer" tvg-logo="" group-title="18 قنوات الجزائرALGERIEN",AR| Al Fajer
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/504
-#EXTINF:-1 tvg-id="" tvg-name="AR| Algeria Quran" tvg-logo="" group-title="18 قنوات الجزائرALGERIEN",AR| Algeria Quran
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/505
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Alhayat Algeria" tvg-logo="" group-title="18 قنوات الجزائرALGERIEN",|AR| Alhayat Algeria
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/506
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o7ZAXp" group-title="19 قنوات ليبياLIBYA",19 قنوات ليبياLIBYA
@@ -1866,6 +1811,7 @@ http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/361
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/362
 #EXTINF:-1 tvg-id="" tvg-name="ALMASIRAH YAMEN" tvg-logo="http://www.teledunet.com/logo.php?id=10247" group-title="27قنوات اليمن Yemen",ALMASIRAH YAMEN
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/363
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.elahmad.com/tv/images/somali_channels.jpg" group-title="28 قنوات الصومالSomalia‎",28 قنوات الصومالSomalia
 https://bit.ly/39MNnTW
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/HCTV_LOGO.png" group-title="28 قنوات الصومالSomalia‎",Horn Cable TV
