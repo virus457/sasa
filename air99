@@ -1725,6 +1725,10 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="" tvg-name="SBC" tvg-logo="" group-title="25قنوات السعودية Saudi-Arabia",SBC
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/240
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qBLAqC" group-title="25قنوات السعودية Saudi-Arabia",SAU-THIKRAYAT HD
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/578
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39RerQN" group-title="25قنوات السعودية Saudi-Arabia",Saudi الإخبارية
+http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/579
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="25قنوات السعودية Saudi-Arabia",Saudi TV 1
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="25قنوات السعودية Saudi-Arabia",Iqraa
