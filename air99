@@ -389,6 +389,14 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XxIQQ" group-title="4قنوات رياضية SPORT",DubaiRacing 3
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 1 Full-HD" tvg-logo="https://i.ibb.co/rtQgxx0/ksa-sports-1.png" group-title="4قنوات رياضية SPORT",|AR| KSA SPORTS 1 Full-HD
+http://95.216.15.51:80/usaairmaxtv/TjyLbfXZSB/580
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 2 Full-HD" tvg-logo="http://nooritv.live:25461/images/0588ec79ed14fbbdf282d2e686f6beee.png" group-title="4قنوات رياضية SPORT",|AR| KSA SPORTS 2 Full-HD
+http://95.216.15.51:80/usaairmaxtv/TjyLbfXZSB/581
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 3 Full-HD" tvg-logo="http://nooritv.live:25461/images/f0bf833e473abea6f9be140e8dda268e.png" group-title="4قنوات رياضية SPORT",|AR| KSA SPORTS 3 Full-HD
+http://95.216.15.51:80/usaairmaxtv/TjyLbfXZSB/582
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 4 Full-HD" tvg-logo="http://nooritv.live:25461/images/b747b1bb273910d05de469d4ea2687bd.png" group-title="4قنوات رياضية SPORT",|AR| KSA SPORTS 4 Full-HD
+http://95.216.15.51:80/usaairmaxtv/TjyLbfXZSB/583
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364Yl52" group-title="4قنوات رياضية SPORT",kuwait S.plus FHD
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cbhOEW" group-title="4قنوات رياضية SPORT",KTV Sport FHD
