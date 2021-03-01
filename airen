@@ -1392,6 +1392,8 @@ http://82.212.74.100:8000/live/hls/8131.m3u8
 rtmp://93.95.207.36:9201/livepkgr/livestream2
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NtI6br" group-title="14قنوات العراق IRAQ",14قنوات العراق IRAQ
 https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r3lKwp" group-title="14قنوات العراق IRAQ",Al Sumaria
+http://iptv.repl.co/Arabic/Al_summaria/
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o9Fg7Z" group-title="14قنوات العراق IRAQ",IRQ-Al Fallujah
 https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="14قنوات العراق IRAQ",قناة دجلة Dijlah TV
