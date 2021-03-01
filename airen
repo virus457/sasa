@@ -660,9 +660,9 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tclpF" group-title="5قنوات الاخبارNEWS",AL HADATH SD
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/2CDKh6w" group-title="5قنوات الاخبارNEWS",AL Asharq HD 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Zwnsi" group-title="5قنوات الاخبارNEWS",AL Asharq HD 
 https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/2CDKh6w" group-title="5قنوات الاخبارNEWS",AL Asharq SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/37Zwnsi" group-title="5قنوات الاخبارNEWS",AL Asharq SD
 https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MphckC" group-title="5قنوات الاخبارNEWS",ALMAMLKA (الدقة التلقائية)
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
