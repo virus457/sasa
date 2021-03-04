@@ -1366,6 +1366,22 @@ http://htvpalsat.mada.ps:8888/najah/tracks-v1a1/mono.m3u8
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36817Xs" group-title="12 قنوات فلسطينPALESTINE",PAL-AlQuds
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3bZWbG7" group-title="12 قنوات فلسطينPALESTINE",rayatv 1 VPN
+http://vstream3.hadara.ps:8081/RayaHD_web/web/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3bZWbG7" group-title="12 قنوات فلسطينPALESTINE",rayatv 2 VPN
+http://vstream3.hadara.ps:8081/RayaHD_web/web1/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3bZWbG7" group-title="12 قنوات فلسطينPALESTINE",rayatv 3 VPN
+http://vstream3.hadara.ps:8081/RayaHD2_web/web/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sH4w8i" group-title="12 قنوات فلسطينPALESTINE",AL Fajer TV 1 VPN
+http://217.21.0.14:8081/AlfajertvHD1_web/web/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sH4w8i" group-title="12 قنوات فلسطينPALESTINE",AL Fajer TV FHD 1 VPN
+http://217.66.230.226:8081/AlfajertvHD1_web/web/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sH4w8i" group-title="12 قنوات فلسطينPALESTINE",AL Fajer TV 3 VPN
+http://217.21.0.14:8081/AlfajertvHD2_web/web/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sH4w8i" group-title="12 قنوات فلسطينPALESTINE",AL Fajer TV 4 VPN
+http://217.21.0.14:8081/AlfajertvHD1_web/web1/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sH4w8i" group-title="12 قنوات فلسطينPALESTINE",AL Fajer TV 5 VPN
+http://217.21.0.14:8081/AlfajertvHD2_web/web1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oaeb4K" group-title="13قنوات الاردنJORDAN",13قنوات الاردنJORDAN
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MbqtfQ" group-title="13قنوات الاردنJORDAN",Roya TV SD
