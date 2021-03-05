@@ -138,9 +138,9 @@ https://cdn.alarab.com/h264/162382_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sFl4ya" group-title="مسلسل التركي المؤسس عثمان",الحلقةS01E46
 https://cdn.alarab.com/h264/162502_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sFl4ya" group-title="مسلسل التركي المؤسس عثمان",الحلقةS01E47
-http://bob.ipsat.me/Turky/0000/KURULUSOSMAN/KURULUSOSMAN.E.S2.Ep20.mp4
+http://bob.ipsat.me/Turky/0000/KURULUSOSMAN/KURULUSOSMAN.E.S2.Ep20.mp4?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sFl4ya" group-title="مسلسل التركي المؤسس عثمان",الحلقةS01E48
-http://bob.ipsat.me/Turky/0000/KURULUSOSMAN/KURULUSOSMAN.E.S2.Ep21.mp4
+http://bob.ipsat.me/Turky/0000/KURULUSOSMAN/KURULUSOSMAN.E.S2.Ep21.mp4?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2LO20xb" group-title="مسلسل التركي الحفرة",الحلقةS01E01
 https://cdn.alarab.com/numeric/115871.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2LO20xb" group-title="مسلسل التركي الحفرة",الحلقةS01E02
@@ -907,6 +907,8 @@ https://cdn.alarab.com/h264/162386_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/162480_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3bUy1hM" group-title="مسلسل التركي شقة الأبرياء",الحلقةS01E23
 https://cdn.alarab.com/h264/162618_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3bUy1hM" group-title="مسلسل التركي شقة الأبرياء",الحلقةS01E24
+https://cdn.alarab.com/h264/162723_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sFtfKU" group-title="مسلسل التركي إسطنبول الظالمة",الحلقة S01E01
 https://cdn.alarab.com/numeric/127884.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sFtfKU" group-title="مسلسل التركي إسطنبول الظالمة",الحلقة S01E02
@@ -1445,6 +1447,8 @@ https://cdn.alarab.com/h264/162385_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/162504_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2LXGiql" group-title="مسلسل التركي الخائن",الحلقةS01E19
 https://cdn.alarab.com/h264/162620_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2LXGiql" group-title="مسلسل التركي الخائن",الحلقةS01E20
+https://cdn.alarab.com/h264/162746_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3qNF6Fl" group-title="مسلسل التركي ألف",الحلقةS01E01
 https://cdn.alarab.com/h264/154125_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nXAAlI" group-title="مسلسل التركي السد",الحلقةS01E01
@@ -1503,6 +1507,8 @@ https://cdn.alarab.com/h264/162359_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/162482_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nXAAlI" group-title="مسلسل التركي السد",الحلقةS01E28
 https://cdn.alarab.com/h264/162607_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nXAAlI" group-title="مسلسل التركي السد",الحلقةS01E29
+https://cdn.alarab.com/h264/162724_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2XShaE9" group-title="مسلسل التركي التوبة",الحلقةS01E01
 https://cdn.alarab.com/h264/158544_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2XShaE9" group-title="مسلسل التركي التوبة",الحلقةS01E02
