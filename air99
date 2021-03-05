@@ -1208,24 +1208,22 @@ http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 https://live.alittihad.tv/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| MTV HD" tvg-logo="https://bit.ly/3ecmdIW" group-title="11قنوات لبنانLEBANON",|AR| MTV HD
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/319
-#EXTINF:-1 tvg-id="" tvg-name="|AR| NBN HD" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| NBN HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NBN HD" tvg-logo="https://bit.ly/3rmSVuM" group-title="11قنوات لبنانLEBANON",|AR| NBN HD
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/320
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL JADEED" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| AL JADEED
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL JADEED" tvg-logo="https://bit.ly/2LQixAW" group-title="11قنوات لبنانLEBANON",|AR| AL JADEED
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/321
-#EXTINF:-1 tvg-id="" tvg-name="|AR| LBC HD" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| LBC HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| LBC HD" tvg-logo="https://bit.ly/3sUmfJp" group-title="11قنوات لبنانLEBANON",|AR| LBC HD
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/323
-#EXTINF:-1 tvg-id="" tvg-name="|AR|  LB2" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR|  LB2
+#EXTINF:-1 tvg-id="" tvg-name="|AR|  LB2" tvg-logo="https://bit.ly/3bmxNQ5" group-title="11قنوات لبنانLEBANON",|AR|  LB2
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/325
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OTV HD" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| OTV HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OTV HD" tvg-logo="https://bit.ly/3bhCOZQ" group-title="11قنوات لبنانLEBANON",|AR| OTV HD
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/327
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ONE" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| ONE
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ONE" tvg-logo="https://bit.ly/3biRvfy" group-title="11قنوات لبنانLEBANON",|AR| ONE
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/329
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Aghani" tvg-logo="https://bit.ly/3v6giLE" group-title="11قنوات لبنانLEBANON",|AR| Aghani
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/330
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Ifilm Tv" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| Ifilm Tv
 https://live.presstv.com/ifilmlive/smil:ifilmar.smil/chunklistb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| NabaaTv" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| NabaaTv
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/339
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LQixAW" group-title="11قنوات لبنانLEBANON",AL JADEED
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/aa56cdba0538a0e.m3u8
@@ -1281,7 +1279,7 @@ http://streamer.clickadia.ps/halaramallah/tracks-v1a1/mono.m3u8
 http://streaming.zaytonatube.com:8080/nb/nb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2N3DDwc" group-title="12 قنوات فلسطينPALESTINE",Rehan TV
 http://vstream3.hadara.ps:8081/rehan_web/web/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3jMEYDy" group-title="12 قنوات فلسطينPALESTINE",شبكة فلسطين الاخبارية
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MMUxiu" group-title="12 قنوات فلسطينPALESTINE",شبكة فلسطين الاخبارية
 http://217.21.0.15:8081/pnn/pnn/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36xb7K2" group-title="12 قنوات فلسطينPALESTINE", Watar tv
 http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8
@@ -1295,9 +1293,9 @@ https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
 http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5bmBL" group-title="12 قنوات فلسطينPALESTINE",PAL-Musawa tv HD
 https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPlG4I" group-title="12 قنوات فلسطينPALESTINE",PAL-Palestine live
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qjOoIc" group-title="12 قنوات فلسطينPALESTINE",PAL-Palestine live
 http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPlG4I" group-title="12 قنوات فلسطينPALESTINE",PAL-Palestine live HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qjOoIc" group-title="12 قنوات فلسطينPALESTINE",PAL-Palestine live HD
 https://pbc.furrera.ps/palestinelivehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZFWYq" group-title="12 قنوات فلسطينPALESTINE",PAL-Palestinee TV
 http://51.255.84.28:8081/palestiniantv_source/live/playlist.m3u8
@@ -1315,9 +1313,9 @@ http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8
 http://htvmada.mada.ps:8888/maannews/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p9P1EL" group-title="12 قنوات فلسطينPALESTINE",PAL-Nbc Alnajah TV
 http://htvpalsat.mada.ps:8888/najah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/366n6Oh" group-title="12 قنوات فلسطينPALESTINE",قناه مكان
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/38dBhCh" group-title="12 قنوات فلسطينPALESTINE",قناه مكان
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36817Xs" group-title="12 قنوات فلسطينPALESTINE",PAL-AlQuds
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2OpNXig" group-title="12 قنوات فلسطينPALESTINE",PAL-AlQuds
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oaeb4K" group-title="13قنوات الاردنJORDAN",13قنوات الاردنJORDAN
 https://bit.ly/3pWtmPO
