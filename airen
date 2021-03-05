@@ -1226,13 +1226,15 @@ http://82.137.248.16:1935/RTartus/RTartusLive/chunklist_w1067743634.m3u8
 https://radioshamfm.grtvstream.com:8400/;
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="11قنوات لبنانLEBANON",11قنوات لبنانLEBANON
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="11قنوات لبنانLEBANON",LBN-ldc lebanon LOW
-https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="11قنوات لبنانLEBANON",LBN-ldc lebanon SD
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="11قنوات لبنانLEBANON",LBN-ldc lebanon (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="11قنوات لبنانLEBANON",LBN-ldc lebanon 
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MTV HD" tvg-logo="https://www.watania.net/storage/698x433/uploads/uploadCenter/2020/04/1588072561nrZg5.png" group-title="11قنوات لبنانLEBANON",|AR| MTV HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YxzvqA" group-title="11قنوات لبنانLEBANON",Tele Liban SD
+http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2L69BXD" group-title="11قنوات لبنانLEBANON",Al Ittihad SD
+https://live.alittihad.tv/ittihad/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MTV HD" tvg-logo="https://bit.ly/3ecmdIW" group-title="11قنوات لبنانLEBANON",|AR| MTV HD
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/319
 #EXTINF:-1 tvg-id="" tvg-name="|AR| NBN HD" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| NBN HD
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/320
@@ -1240,39 +1242,18 @@ http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/320
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/321
 #EXTINF:-1 tvg-id="" tvg-name="|AR| LBC HD" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| LBC HD
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/323
-#EXTINF:-1 tvg-id="" tvg-name="|AR| HEYA TV" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| HEYA TV
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/324
 #EXTINF:-1 tvg-id="" tvg-name="|AR|  LB2" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR|  LB2
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/325
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OTV HD" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| OTV HD
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/327
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Tl Lebanon" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| Tl Lebanon
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/328
 #EXTINF:-1 tvg-id="" tvg-name="|AR| ONE" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| ONE
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/329
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Aghani" tvg-logo="https://www.lebanonchannels.com/sites/default/files/2A8ANI21.png" group-title="11قنوات لبنانLEBANON",|AR| Aghani
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/330
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Arabicatv" tvg-logo="https://i.ibb.co/ZL7mcV0/unnamed.png" group-title="11قنوات لبنانLEBANON",|AR| Arabicatv
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/331
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL Mayadeen" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| AL Mayadeen
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/333
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ALAAN HD" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| ALAAN HD
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/334
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Nabaa" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| Nabaa
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/335
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Aletihad" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| Aletihad
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/336
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Eman Tv" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| Eman Tv
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/337
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Ifilm Tv" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| Ifilm Tv
-http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/338
+https://live.presstv.com/ifilmlive/smil:ifilmar.smil/chunklistb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| NabaaTv" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| NabaaTv
 http://95.216.15.51:80/airmaxtvpro/MPqM0354LU/339
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YxzvqA" group-title="11قنوات لبنانLEBANON",Tele Liban SD
-http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2L69BXD" group-title="11قنوات لبنانLEBANON",Al Ittihad SD
-https://live.alittihad.tv/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LQixAW" group-title="11قنوات لبنانLEBANON",AL JADEED
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/aa56cdba0538a0e.m3u8
@@ -1288,7 +1269,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/fb11fc0f5b0f3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Zcf02P" group-title="11قنوات لبنانLEBANON",OTV
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/eac45d939d7d91a.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pG9TDG" group-title="11قنوات لبنانLEBANON",TV Seventeen SD (مشغل GSE)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pG9TDG" group-title="11قنوات لبنانLEBANON",TV Seventeen SD 
 https://cdn.tvseventeen.com/test_tv_seventeen/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oBT0Zi" group-title="11قنوات لبنانLEBANON",Newv SD
 https://master.starmena-cloud.com/hls/newv.m3u8
