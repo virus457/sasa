@@ -32,6 +32,12 @@ https://m3u-editor.com/serve/ec42d3b0-7eb7-11eb-b4c9-732e1b830b41/231889150
 http://95.216.15.51:80/airmaxtv/WPoOnANA9u/238
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS HD" tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORTS HD
 http://95.216.15.51:80/airmaxtv/WPoOnANA9u/239
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 LOW PREMIUM" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 1 LOW PREMIUM
+http://95.216.15.51:80/airmaxtv/WPoOnANA9u/588
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 2 LOW PREMIUM" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 2 LOW PREMIUM
+http://95.216.15.51:80/airmaxtv/WPoOnANA9u/589
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 3 LOW PREMIUM" tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 3 LOW PREMIUM
+http://95.216.15.51:80/airmaxtv/WPoOnANA9u/590
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT LOW 1" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT LOW 1
 http://95.216.15.51:80/airmaxtv/WPoOnANA9u/208
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT LOW 2" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT LOW 2
@@ -42,6 +48,12 @@ http://95.216.15.51:80/airmaxtv/WPoOnANA9u/210
 http://95.216.15.51:80/airmaxtv/WPoOnANA9u/211
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT LOW 5" tvg-logo="https://i.ibb.co/C1Jt1n0/HD5.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT LOW 5
 http://95.216.15.51:80/airmaxtv/WPoOnANA9u/212
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 SD PREMIUM" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 1 SD PREMIUM
+http://95.216.15.51:80/airmaxtv/WPoOnANA9u/585
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 2 SD PREMIUM" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 2 SD PREMIUM
+http://95.216.15.51:80/airmaxtv/WPoOnANA9u/586
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 3 SD PREMIUM" tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 3 SD PREMIUM
+http://95.216.15.51:80/airmaxtv/WPoOnANA9u/587
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT 1 SD  1M" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT 1 SD  1M
 http://95.216.15.51:80/airmaxtv/WPoOnANA9u/198
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT2 SD  1M" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT2 SD  1M
