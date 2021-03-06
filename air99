@@ -201,6 +201,27 @@ http://95.216.15.51:80/airmaxtvpro/UxqDkVJiOy/412
 http://95.216.15.51:80/airmaxtvpro/UxqDkVJiOy/413
 #EXTINF:-1 tvg-id="" tvg-name="OSN ANIMAL PLANET" tvg-logo="http://www.teledunet.com/logo.php?id=1056" group-title="او اس انOSN",OSN ANIMAL PLANET
 http://95.216.15.51:80/airmaxtvpro/UxqDkVJiOy/414
+
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein Movies 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/5a0f1340d9c4e60.m3u8
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein Movies 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/6d5bf778cf11266.m3u8
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein Movies 3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/2824447f7324c81.m3u8
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Bein Movies 4
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/1588f9894a5e712.m3u8
+#EXTINF:0 tvg-id="ARTAflam1.net" group-title="او اس انOSN",Art Aflam 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/f744cc423d89df0.m3u8
+#EXTINF:0 tvg-id="ARTAflam2.net" group-title="او اس انOSN",Art Aflam 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/36cd52129f5a9d4.m3u8
+#EXTINF:0 tvg-id="ARTCinema.net" group-title="او اس انOSN",Art Cinema
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/8c532dbaad48cef.m3u8
+#EXTINF:0 tvg-id="ARTHekayat.net" group-title="او اس انOSN",Art Hekayat
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/31d670a74f2e137.m3u8
+#EXTINF:0 tvg-id="ARTHekayat2.net" group-title="او اس انOSN",Art Hekayat 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/8da281252962d65.m3u8
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Fatafeat Tv
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/d8ba9578ead3ccb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Action 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Action 1
 http://95.216.15.51:80/airmaxtvpro/UxqDkVJiOy/507
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID ACTION 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",SHAHID ACTION 2
@@ -1505,6 +1526,19 @@ http://95.216.15.51:80/airmaxtvpro/UxqDkVJiOy/488
 http://95.216.15.51:80/airmaxtvpro/UxqDkVJiOy/489
 #EXTINF:-1 tvg-id="" tvg-name="MODERN DRAMA" tvg-logo="http://www.teledunet.com/logo.php?id=1189" group-title="15قنوات المصرية Egypt",MODERN DRAMA
 http://95.216.15.51:80/airmaxtvpro/UxqDkVJiOy/490
+
+#EXTINF:0 tvg-id="ext" group-title="15قنوات المصرية Egypt",Nile Family
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/e995f0011c8c533.m3u8
+#EXTINF:0 tvg-id="ext" group-title="15قنوات المصرية Egypt",Nile Cinema
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/0e1901a7fd72c5f.m3u8
+#EXTINF:0 tvg-id="ext" group-title="15قنوات المصرية Egypt",Nile Comedy
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/11f07d36e56a83b.m3u8
+#EXTINF:0 tvg-id="ext" group-title="15قنوات المصرية Egypt",Nile Drama
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/b7a627f774fc1b8.m3u8
+#EXTINF:0 tvg-id="ext" group-title="15قنوات المصرية Egypt",NILE LIFE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/f9a7fcacfafa9cc.m3u8
+#EXTINF:0 tvg-id="ext" group-title="15قنوات المصرية Egypt",Nile Sport
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/558fe5faaac630d.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="16قنوات المغربMAROCCO",16قنوات المغربMAROCCO 
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="16قنوات المغربMAROCCO",AL_Aoula_InterTV
@@ -1725,6 +1759,8 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="" tvg-name="SBC" tvg-logo="https://bit.ly/3c4oVNT" group-title="25قنوات السعودية Saudi-Arabia",SBC
 http://95.216.15.51:80/airmaxtvpro/UxqDkVJiOy/240
+#EXTINF:-1 tvg-id="" tvg-name="SBC" tvg-logo="https://bit.ly/3c4oVNT" group-title="25قنوات السعودية Saudi-Arabia",SBC+
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/22134a73fdc3c41.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qBLAqC" group-title="25قنوات السعودية Saudi-Arabia",SAU-THIKRAYAT HD
 http://95.216.15.51:80/airmaxtvpro/UxqDkVJiOy/578
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39RerQN" group-title="25قنوات السعودية Saudi-Arabia",Saudi الإخبارية
@@ -2710,6 +2746,82 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
 #EXTINF:0 tvg-id="ort-hd" group-title="DEUTSCH",one HD
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
+
+#EXTINF:0 tvg-id="RTL.de" group-title="DEUTSCH",RTL
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/bb49390f5e924a1.m3u8
+#EXTINF:0 tvg-id="RTL2.de" group-title="DEUTSCH",RTL 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/e561f9e8728a30a.m3u8
+#EXTINF:0 tvg-id="SuperRTL.de" group-title="DEUTSCH",SUPER RTL
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/5a48dca9acba309.m3u8
+#EXTINF:0 tvg-id="RTLNitro.de" group-title="DEUTSCH",RTL NITRO
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/5bdca2882ec6aab.m3u8
+#EXTINF:0 tvg-id="RTLPassion.de" group-title="DEUTSCH",RTL PASSION
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/3ab013d13eed6fe.m3u8
+#EXTINF:0 tvg-id="RTLCrime.de" group-title="DEUTSCH",RTL CRIME
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/5fbb79eec99b057.m3u8
+#EXTINF:0 tvg-id="AXN.de" group-title="DEUTSCH",AXN DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/d729aafc628194f.m3u8
+#EXTINF:0 tvg-id="SkyCinema.de" group-title="DEUTSCH",SKY CINEMA
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/e13e10b50e7727c.m3u8
+#EXTINF:0 tvg-id="SkyCinema.de" group-title="DEUTSCH",SKY CINEMA 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/cca990d588a824c.m3u8
+#EXTINF:0 tvg-id="SkyCinemaPlus24.de" group-title="DEUTSCH",SKY CINEMA 24
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/c52422c9c6a0f4f.m3u8
+#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="DEUTSCH",SKY ACTION
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/d6d02a95333c92e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",SKY ATLATNIC
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/3606a24b47dcf21.m3u8
+#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="DEUTSCH",SKY COMEDY
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/55ec39061fb7a32.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",KIKA TV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/522d86b3186aa98.m3u8
+#EXTINF:0 tvg-id="Pro7.de" group-title="DEUTSCH",PRO 7
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/cce265607814943.m3u8
+#EXTINF:0 tvg-id="Vox.de" group-title="DEUTSCH",VOX DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/b704ac4bc75bbfb.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ZDF TV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/0da5f7f8242ade8.m3u8
+#EXTINF:0 tvg-id="Sat1.de" group-title="DEUTSCH",SAT 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/55f86d55fc5cb56.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ARD 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/56e8f34f20e7eb7.m3u8
+#EXTINF:0 tvg-id="ntv" group-title="DEUTSCH",NTV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/c860c6249ac6c55.m3u8
+#EXTINF:0 tvg-id="n24.de" group-title="DEUTSCH",N24
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/1e96456eed32879.m3u8
+#EXTINF:0 tvg-id="DiscoveryChannel.de" group-title="DEUTSCH",DISCOVERY DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/bc49104d7b51af2.m3u8
+#EXTINF:0 tvg-id="History.de" group-title="DEUTSCH",HISTORY DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/1b85184ec3df3c3.m3u8
+#EXTINF:0 tvg-id="NatGeoWild.de" group-title="DEUTSCH",NAT GEO WILD DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/1e32dfd2075f7a7.m3u8
+#EXTINF:0 tvg-id="SkyCinemaHits.uk" group-title="DEUTSCH",SKY HITS
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/79ff36f9a705b2a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",SKY SPORTS AUSTRIA DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/bfa34d58dab0d01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",SKY SPORTS BUNDESLIGA 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/c1c2a69763693b9.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",SKY SPORTS BUNDESLIGA 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/56bc8c9b42a1994.m3u8
+#EXTINF:0 tvg-id="disneychannel.de" group-title="DEUTSCH",DISNEY CHANNEL DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/214d35a65ff661d.m3u8
+#EXTINF:0 tvg-id="DisneyXD.de" group-title="DEUTSCH",DISNEY XD DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/2df6dcb8110bfd8.m3u8
+#EXTINF:0 tvg-id="tnt-film-lt" group-title="DEUTSCH",TNT FILM
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/54d1fb07e2f3f66.m3u8
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="DEUTSCH",TNT SERIES
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/7b20cc304edf4dc.m3u8
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="DEUTSCH",PRO7 MAXX
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/4fabc831018b8c1.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.de" group-title="DEUTSCH",ANIMAL PLANET DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/6cd75a6ad8c0ada.m3u8
+#EXTINF:0 tvg-id="NatGeo.de" group-title="DEUTSCH",NAT GEO DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/9baed309b7068e9.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",NAT GEO PEOPLE DE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/a149b020b55fea7.m3u8
+#EXTINF:0 tvg-id="ZeeOne.de" group-title="DEUTSCH",ZEE ONE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/fb874da20d6287a.m3u8
+
 #EXTINF:0 tvg-id="ort-hd" group-title="DEUTSCH",Radio Bremen TV HD
 https://rbfs-lh.akamaihd.net/i/rb_fs@438960/master.m3u8
 #EXTINF:0 tvg-id="ort-hd" group-title="DEUTSCH",NDR Niedersachsen
