@@ -361,15 +361,15 @@ http://142.112.39.133:8080/catv.mp4
 https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="4قنوات رياضية SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3baqwl3" group-title="4قنوات رياضية SPORT",ALKASS ONE
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2ZdRkeq" group-title="4قنوات رياضية SPORT",ALKASS TWO
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3dqH6Qr" group-title="4قنوات رياضية SPORT",ALKASS FOUR
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LQn3PL" group-title="4قنوات رياضية SPORT",ALKASS FIVE
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkas5aoe/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2OHGXxH" group-title="4قنوات رياضية SPORT",ALKASS Online
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c9XSRi" group-title="4قنوات رياضية SPORT",ALKASS ONE
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1oppe/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3uTbwkx" group-title="4قنوات رياضية SPORT",ALKASS TWO
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2omwi/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3biSBYo" group-title="4قنوات رياضية SPORT",ALKASS FOUR
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4ape/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ryEZxO" group-title="4قنوات رياضية SPORT",ALKASS FIVE
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkas5abe/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/38eKRVk" group-title="4قنوات رياضية SPORT",ALKASS Online
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlineNmui/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="4قنوات رياضية SPORT",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
