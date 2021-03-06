@@ -2010,10 +2010,8 @@ http://audiostreaming.itworkscdn.com:9066/;stream.mp3
 http://live02.mc-doualiya.com/mc-doualiya.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="31قنوات اسلاميةIslami",31قنوات اسلاميةIslami
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="31قنوات اسلاميةIslami",almajd02
-http://89.187.169.205:2200/TR/almajd02-ar/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="31قنوات اسلاميةIslami",almajd04
-http://89.187.169.206:2200/TR/almajd04-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3efx1Ge" group-title="31قنوات اسلاميةIslami",Daawah TV
+http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://iqraa.com/assets/images/Logo/Iqraa-Logo.png" group-title="31قنوات اسلاميةIslami",Iqraa Europe
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="31قنوات اسلاميةIslami",iqraa
