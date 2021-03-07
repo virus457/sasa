@@ -452,6 +452,22 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
 http://mixistv.link:8080/live/rgzfzfdh/zghzh/89.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3b3Y8AT" group-title="4قنوات رياضية SPORT",اون تايم سبورت 3
 http://mixistv.link:8080/live/rgzfzfdh/zghzh/80.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="4قنوات رياضية SPORT",bt sport1
+https://www.livedoomovie.com:443/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="4قنوات رياضية SPORT",bt sport2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="4قنوات رياضية SPORT",bt sport3
+http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title=="4قنوات رياضية SPORT",Eleven Sport1 
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title=="4قنوات رياضية SPORT",Eleven Sport2 
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_1_hd.png" group-title=="4قنوات رياضية SPORT",Cosmote Sport1
+http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_2_hd.png" group-title=="4قنوات رياضية SPORT",EPL COSMOTE 2
+http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_3_hd.png" group-title=="4قنوات رياضية SPORT",EPL COSMOTE 3
+http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="4قنوات رياضية SPORT",Sport TV 1
 http://77.54.145.209:81/play/a02v
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="4قنوات رياضية SPORT",Sport TV 2
