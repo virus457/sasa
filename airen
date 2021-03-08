@@ -1653,6 +1653,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b
 https://master.starmena-cloud.com/hls/abna.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/366lp3n" group-title="19 قنوات ليبياLIBYA",Libya februar
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/2CDKh6w" group-title="19 قنوات ليبياLIBYA",قناة الوسط - WTV
+https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qWDRDR" group-title="20 قنوات السودانSUDAN",20 قنوات السودانSUDAN
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZVPhC" group-title="20 قنوات السودانSUDAN",Sudan TV
