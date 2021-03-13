@@ -1755,16 +1755,14 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qBLAqC" group-title="25قنوات السعودية Saudi-Arabia",SAU-THIKRAYAT HD
 https://iptv--iptv.repl.co/Arabic/Zikrayat/
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qBLAqC" group-title="25قنوات السعودية Saudi-Arabia",SAU-THIKRAYAT HD (مشغل VLC)
-https://www.youtube.com/watch?v=t4855IOmaVE
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="25قنوات السعودية Saudi-Arabia",Saudi TV 1
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="25قنوات السعودية Saudi-Arabia",Saudi TV 1+
 https://iptv--iptv.repl.co/Arabic/Saudi1_TV/
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39RerQN" group-title="25قنوات السعودية Saudi-Arabia",Saudi الإخبارية
 https://iptv--iptv.repl.co/Arabic/Ekhbariyah/
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p3IBXA" group-title="25قنوات السعودية Saudi-Arabia",Saudi (مشغل VLC) إذاعة الرياض
-https://www.youtube.com/watch?v=Rukp4UwoNNM
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qHRoyr" group-title="25قنوات السعودية Saudi-Arabia",قناة قناه بيتي TV
+http://82.212.74.2:8000/live/7312.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y6MX4g" group-title="25قنوات السعودية Saudi-Arabia",sbc
 https://iptv--iptv.repl.co/Arabic/SBC/
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="25قنوات السعودية Saudi-Arabia",Iqraa
