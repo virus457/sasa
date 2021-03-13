@@ -1206,6 +1206,8 @@ http://185.96.70.242:1935/live/alltv/playlist.m3u8
 http://82.137.248.16:1935/RTartus/RTartusLive/chunklist_w1067743634.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39UouFX" group-title="10قنوات سوريةSyria",sham FM
 https://radioshamfm.grtvstream.com:8400/;
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIA DRAMA" tvg-logo="https://i.ibb.co/Z1CNvwf/Syria-Drama.png" group-title="10قنوات سوريةSyria",|AR| SYRIA DRAMA+
+https://ok.ru/video/2371048775286
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="11قنوات لبنانLEBANON",11قنوات لبنانLEBANON
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="11قنوات لبنانLEBANON",LBN-ldc lebanon SD
