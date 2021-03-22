@@ -1398,6 +1398,8 @@ rtmp://93.95.207.36:9201/livepkgr/livestream2
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r3lKwp" group-title="14قنوات العراق IRAQ",Al Sumaria
 http://95.216.15.51:80/usaairmaxtv/TjyLbfXZSB/584
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cYJJ9Y" group-title="14قنوات العراق IRAQ",IRQ-AL-RASHEED TV
+https://media1.livaat.net/AL-RASHEED-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o9Fg7Z" group-title="14قنوات العراق IRAQ",IRQ-Al Fallujah
 https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="14قنوات العراق IRAQ",قناة دجلة Dijlah TV
