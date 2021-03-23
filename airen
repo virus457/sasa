@@ -1167,7 +1167,7 @@ http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="10قنوات سوريةSyria",SYR-HALAB TODAY SD+
 https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Lqj2S4" group-title="10قنوات سوريةSyria",SYR-قناة اليوم
-https://besttv650-myflix-alyaum.aoslive.it.best-tv.com/egress/bhandler/ikomg/alyaum_tv/chunklist.m3u8
+https://ikomg1.s.llnwi.net/alyaumtv/2-01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| SAMA TV HD" tvg-logo="https://i.ibb.co/gWwY3L4/sama-tv.png" group-title="10قنوات سوريةSyria",|AR| SAMA TV HD
 http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/308
 #EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIA DRAMA" tvg-logo="https://i.ibb.co/Z1CNvwf/Syria-Drama.png" group-title="10قنوات سوريةSyria",|AR| SYRIA DRAMA
