@@ -102,32 +102,6 @@ http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6130/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6131/index.m3u8 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_11_hd.png" group-title="1قنوات بين سبور BEIN SPORT",BeinSport11 
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6132/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="1قنوات بين سبور BEIN SPORT" user-agent="1m3u8",beIN Sports 1 (Arabian)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/57e12c38175537e.ts
-#EXTINF:0 tvg-id="ext" group-title="1قنوات بين سبور BEIN SPORT" user-agent="1m3u8",beIN Sports 2 (Arabian)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c28e6ada110428c.ts
-#EXTINF:0 tvg-id="ext" group-title="1قنوات بين سبور BEIN SPORT" user-agent="1m3u8",beIN Sports 3 (Arabian)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8c1cd9336c20447.ts
-#EXTINF:0 tvg-id="ext" group-title="1قنوات بين سبور BEIN SPORT" user-agent="1m3u8",beIN Sports 4 (Arabian)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/cb8e0c630331c99.ts
-#EXTINF:0 tvg-id="ext" group-title="1قنوات بين سبور BEIN SPORT" user-agent="1m3u8",beIN Sports 5 (Arabian)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/594192a366a92a2.ts
-#EXTINF:0 tvg-id="ext" group-title="1قنوات بين سبور BEIN SPORT" user-agent="1m3u8",beIN Sports 6 (Arabian)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6c08342090703c0.ts
-#EXTINF:0 tvg-id="ext" group-title="1قنوات بين سبور BEIN SPORT" user-agent="1m3u8",beIN Sports 7 (Arabian)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/df5181a2955f69f.ts
-#EXTINF:0 tvg-id="ext" group-title="1قنوات بين سبور BEIN SPORT" user-agent="1m3u8",beIN Sports 8 (Arabian)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0655abb3211a4b7.ts
-#EXTINF:0 tvg-id="ext" group-title="1قنوات بين سبور BEIN SPORT" user-agent="1m3u8",beIN Sports 9 (Arabian)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/66f1baaf1e65744.ts
-#EXTINF:0 tvg-id="ext" group-title="1قنوات بين سبور BEIN SPORT" user-agent="1m3u8",beIN Sports 10 (Arabian)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/fdf644197a97dd6.ts
-#EXTINF:0 tvg-id="ext" group-title="1قنوات بين سبور BEIN SPORT" user-agent="1m3u8",beIN Sports 11 (Arabian)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/cda020ee54800f0.ts
-#EXTINF:0 tvg-id="ext" group-title="1قنوات بين سبور BEIN SPORT" user-agent="1m3u8",beIN Sports 12 (Arabian)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e90c4f14e943eab.ts
-#EXTINF:0 tvg-id="ext" group-title="1قنوات بين سبور BEIN SPORT" user-agent="1m3u8",beIN Sports 13 (Arabian)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3362f1d656c3205.ts
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",▂ ▄ ▅ ▆☆ OSN ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
@@ -776,129 +750,6 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-kidz-id.png" group-title="7قنوات أطفال Children",SHEMAROOME KIDS
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",DISNEY UK
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/a997a7280b772a0.m3u8
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="7قنوات أطفال Children",NICKELODEON UK
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/7212a0a571cd4a8.m3u8
-#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="7قنوات أطفال Children",Cartoon Network UK
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/0b59e7307afa75a.m3u8
-#EXTINF:0 tvg-id="Nicktoons.uk" group-title="7قنوات أطفال Children",NICK TOONS
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/4831104be353eb0.m3u8
-#EXTINF:0 tvg-id="DisneyXD.uk" group-title="7قنوات أطفال Children",Disney XD UK
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/c093867fabb677b.m3u8
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="7قنوات أطفال Children",Disney JR
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/7aa459d024f16bb.m3u8
-#EXTINF:0 tvg-id="nick-jr" group-title="7قنوات أطفال Children",Nick Jr
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/fbf99981f354927.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",Nick Jr 2
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/b380b20155dd0e0.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",Cartoon Network Hindi  HD
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/7fe9fa45b205f17.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",Cartoon Network Hindi
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/20e3acedb66331e.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",Hungama Tv Hungama Hindi
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/c36fa382a5bf123.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",Hungama Tv Hungama Tmail
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/89c186329f8f603.m3u8
-#EXTINF:0 tvg-id="TinyPop.uk" group-title="7قنوات أطفال Children",Tiny Pop
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/4ea08af8b729147.m3u8
-#EXTINF:0 tvg-id="BabyTV.uk" group-title="7قنوات أطفال Children",BABY TV UK
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/99c46b5e9de69ae.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",Disney Hindi
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/9ae3730b2e905c7.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",Nickelodeon Hindi
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/284ad1fec9855ca.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",Nick Jr Hindi
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/edc76fc8bbe047e.m3u8
-#EXTINF:0 tvg-id="POGO.in" group-title="7قنوات أطفال Children",Pogo Hindi
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/bf25c45bfd4a2db.m3u8
-#EXTINF:0 tvg-id="Kix.uk" group-title="7قنوات أطفال Children",Kix Tv
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/7ea18cbc41cf0fd.m3u8
-#EXTINF:0 tvg-id="PopTV.svn" group-title="7قنوات أطفال Children",Pop Tv
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/131c24b951b60d5.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",SPACE TOON
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/6f02691d2ad6e52.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",CARTOON NETWORK ARABIC
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/7f4c54362e9fa66.m3u8
-#EXTINF:0 tvg-id="CanalJ.fr" group-title="7قنوات أطفال Children",CANAL J
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/d906ad24c354b91.m3u8
-#EXTINF:0 tvg-id="tiji" group-title="7قنوات أطفال Children",TIJI
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/09be93f5026c5c1.m3u8
-#EXTINF:0 tvg-id="boomerang" group-title="7قنوات أطفال Children",BOOMERANG
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/b77a74db3cb00d1.m3u8
-#EXTINF:0 tvg-id="Cartoonito.uk" group-title="7قنوات أطفال Children",CARTOONITO
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/86555c60e79d125.m3u8
-#EXTINF:0 tvg-id="CBBC.uk" group-title="7قنوات أطفال Children",CBBC
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/09252d074594c48.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",PBS KIDS
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/93b4db526b4e92a.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",SONY YAY HINDI
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/a20fe53e482cc33.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",Discovery Kids  English
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/58dff2490495e58.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",Discovery Kids  Hindi
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/f84280cdd1bbb6a.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",BARAEM TV
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/40a11f187f9fbcd.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",MAJID KIDS
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/d0ce400935eafa3.m3u8
-#EXTINF:0 tvg-id="CBeebies.uk" group-title="7قنوات أطفال Children",CBEEBIES UK
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/b40621c4c25d5a0.m3u8
-#EXTINF:0 tvg-id="JEEMTV.net" group-title="7قنوات أطفال Children",JEEM TV
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/77feece38ce4aef.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",NICK TAMIL
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/1f173781a158b01.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",CARTOON NETWORK TM
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/f507403366b6e99.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",CARTOON NETWORK TG
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/e3682dbdb700e2a.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",Discovery KIDS TM
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/9ea8962cc2de139.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",POGO TAMIL
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/499a1c12bb817c2.m3u8
-#EXTINF:0 tvg-id="ChuttiTV.in" group-title="7قنوات أطفال Children",CHUTTI TV
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/1748846af308e38.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",KUSHI TV TELUGU
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/2705f26aaabdf72.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",SONY YAY TELUGU
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/bbe4fbc2002185b.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",MICKEY TV
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/6caf03abaef774e.m3u8
-#EXTINF:0 tvg-id="nickelod" group-title="7قنوات أطفال Children",NICK HD+
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/3bbcc0021241b66.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",NICK PAKISTAN
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/b19590f4e9747b7.m3u8
-#EXTINF:0 tvg-id="KochuTv.in" group-title="7قنوات أطفال Children",KOCHU TV
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/4cede23d2af854d.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",CARTOON NETWORK PAK
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/2a347e9e75008c7.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",DISNEY INT
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/8f3e6367117c923.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",SONIC NICKELODEON SONIC HINDI
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/4415aa98f2f6f59.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",SONIC NICKELODEON SONIC MALAYALAM
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/c80891b460463d4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",SONIC NICKELODEON SONIC TAMIL
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/91aba00ebe562bf.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",SONIC NICKELODEON SONIC TELUGU
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/ea11b00173a3f37.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",WOW KIDS  HINDI
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/2ff8dc4bdf8e0c4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",MARVEL HQ MARVEL HINDI
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/4624b7164dd5b1c.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",MARVEL HQ MARVEL TAMIL
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/1f71b3dc2078689.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",NICK TELUGU
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/a742577fbdf259f.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",NICK KANNADA
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/3f498374548bde0.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",CINEMACHI KIDS
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/1a946d6a674e435.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",KID ZONE PAK
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/bfc13e6e8a5fef5.m3u8
-#EXTINF:0 tvg-id="ext" group-title="7قنوات أطفال Children",POP KIDS PAK
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/7e5676155536bd5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3abbf2X" group-title="8قنوات أم بي سيMBC",MBC HD
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="8قنوات أم بي سيMBC",|MBC| 1 SD
@@ -921,18 +772,6 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p4BHBn" group-title="8قنوات أم بي سيMBC",|MBC| Masr 2 SD
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/375egkv" group-title="8قنوات أم بي سيMBC",MBC VARIETY HD
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/f5d336674f5264f.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2N0tJvj" group-title="8قنوات أم بي سيMBC",ZEE AFLAM 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/5e6c7e50d780ab8.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3jLNId8" group-title="8قنوات أم بي سيMBC",ZEE ALWAN 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/2e64a7c403a5e6a.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rH1ZKW" group-title="8قنوات أم بي سيMBC",B4U PLUS
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/596f2de6cc7d565.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCDrama.png" group-title="8قنوات أم بي سيMBC",|MBC| Drama SD
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusDrama.png" group-title="8قنوات أم بي سيMBC",|MBC| Drama+ SD
@@ -1237,21 +1076,6 @@ http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/330
 https://live.presstv.com/ifilmlive/smil:ifilmar.smil/chunklistb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| NabaaTv" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| NabaaTv
 http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/339
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LQixAW" group-title="11قنوات لبنانLEBANON",AL JADEED
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/aa56cdba0538a0e.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3tVHVq8" group-title="11قنوات لبنانLEBANON",LBC TV
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/3498da87b6dc843.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3d3lKbw" group-title="11قنوات لبنانLEBANON",MTV LEBANON 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/d74a1c031469e58.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3plj8YN" group-title="11قنوات لبنانLEBANON",NBN TV
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/fb11fc0f5b0f382.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Zcf02P" group-title="11قنوات لبنانLEBANON",OTV
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/eac45d939d7d91a.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pG9TDG" group-title="11قنوات لبنانLEBANON",TV Seventeen SD 
 https://cdn.tvseventeen.com/test_tv_seventeen/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oBT0Zi" group-title="11قنوات لبنانLEBANON",Newv SD
