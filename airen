@@ -364,16 +364,16 @@ http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/549
 http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/550
 #EXTINF:-1 tvg-id="ext" group-title="4قنوات رياضية SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3baqwl3" group-title="4قنوات رياضية SPORT",ALKASS ONE
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2ZdRkeq" group-title="4قنوات رياضية SPORT",ALKASS TWO
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3dqH6Qr" group-title="4قنوات رياضية SPORT",ALKASS FOUR
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LQn3PL" group-title="4قنوات رياضية SPORT",ALKASS FIVE
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkas5aoe/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2OHGXxH" group-title="4قنوات رياضية SPORT",ALKASS Online
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlineNmui/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c9XSRi" group-title="4قنوات رياضية SPORT",ALKASS ONE
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1oppe/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3uTbwkx" group-title="4قنوات رياضية SPORT",ALKASS TWO
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2pwi/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3biSBYo" group-title="4قنوات رياضية SPORT",ALKASS FOUR
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4aobe/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ryEZxO" group-title="4قنوات رياضية SPORT",ALKASS FIVE
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkas5abe/master.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/38eKRVk" group-title="4قنوات رياضية SPORT",ALKASS Online
+https://alkasmsl4.akamaized.net/hls/live/2003123/AlkassOnlineG129/AlkassOnline129_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="4قنوات رياضية SPORT",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="4قنوات رياضية SPORT",Abu Dhabi Sports 2
@@ -410,20 +410,6 @@ https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/809380693914619904/Ww1MdxsQ_400x400.jpg" group-title="4قنوات رياضية SPORT",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rU8lH4" group-title="4قنوات رياضية SPORT",اون تايم سبورت
-http://mixistv.link:8080/live/rgzfzfdh/zghzh/89.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3b3Y8AT" group-title="4قنوات رياضية SPORT",اون تايم سبورت 3
-http://mixistv.link:8080/live/rgzfzfdh/zghzh/80.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="4قنوات رياضية SPORT",Sport TV 1
-http://77.54.145.209:81/play/a02v
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="4قنوات رياضية SPORT",Sport TV 2
-http://77.54.145.209:81/play/a02j 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="4قنوات رياضية SPORT",Sport TV 3
-http://77.54.145.209:81/play/a02n 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="4قنوات رياضية SPORT",Sport TV 4
-http://77.54.145.209:81/play/a02o 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="4قنوات رياضية SPORT",REAL MADRID
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://teevee-hd.com/img/foxsport1.png" group-title="4قنوات رياضية SPORT",Fox Sport1
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="4قنوات رياضية SPORT",FOX SPORTS 1 
@@ -972,32 +958,26 @@ https://hiplayer.hibridcdn.net/p/rotana-khaleejiya
 https://rotana.hibridmedia.com/rotana/music_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.ksaon.com/wp-content/uploads/2020/04/2121.jpg" group-title="10قنوات سوريةSyria",10قنوات سوريةSyria
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="10قنوات سوريةSyria",SYR-SYRIA PLUS SD
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_480p_chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="10قنوات سوريةSyria",SYR-SYRIA PLUS (الدقة التلقائية)
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| LANA + HD" tvg-logo="https://i.ibb.co/ZWXb9xF/lana-hd.png" group-title="10قنوات سوريةSyria",|AR| LANA + HD
-http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/306
-#EXTINF:-1 tvg-id="" tvg-name="|AR| LANA HD" tvg-logo="https://i.ibb.co/yFCMf7h/lana.png" group-title="10قنوات سوريةSyria",|AR| LANA HD
-http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/307
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="10قنوات سوريةSyria",SYR-LANA HD
-https://stream.lanacanal.tv:444/hls/lana.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/9HCiWqv.jpg" group-title="10قنوات سوريةSyria",SYR-Lana Plus HD 
 https://stream.lanacanal.tv:444/hls/lanaplus.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="10قنوات سوريةSyria",SYR-SAMA SYRIA SD
 http://stream.sama-tv.net:8080/hls/samatv.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NIix6r" group-title="10قنوات سوريةSyria",SYR-DRAMA TV SD
-http://82.137.248.16:1935/Drama/stream10112020/chunklist_w1475213643.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="10قنوات سوريةSyria",SYR-SYRIA AL AOULA SD
-http://82.137.248.16:1935/Sat/stream10112020/chunklist_w1922512570.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Dy2Eo33.png" group-title="10قنوات سوريةSyria",SYR-NOUR ELSHAM SD
-http://82.137.248.16:1935/Nour/stream10112020/chunklist_w1767219659.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="10قنوات سوريةSyria",SYR-EL TARBAOUIA SD
-http://82.137.248.16:1935/SEdu/stream10112020/chunklist_w1902961519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|AR| LANA + HD" tvg-logo="https://i.ibb.co/ZWXb9xF/lana-hd.png" group-title="10قنوات سوريةSyria",|AR| LANA + HD
+http://95.216.15.51:80/airmaxtval/r3pHoCIcf2/306
+#EXTINF:-1 tvg-id="" tvg-name="|AR| LANA HD" tvg-logo="https://i.ibb.co/yFCMf7h/lana.png" group-title="10قنوات سوريةSyria",|AR| LANA HD
+http://95.216.15.51:80/airmaxtval/r3pHoCIcf2/307
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="10قنوات سوريةSyria",SYR-SYRIA PLUS SD
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_480p_chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="10قنوات سوريةSyria",SYR-SYRIA PLUS 
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="10قنوات سوريةSyria",SYR-LANA HD
+https://stream.lanacanal.tv:444/hls/lana.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="10قنوات سوريةSyria",SYR-AL EKHBARIYA SD
 http://vod.alikhbaria.net:1935/Snews/stream10112020/chunklist_w1049244309.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eR8QSEt.png" group-title="10قنوات سوريةSyria",SYR-SOURYANA SD
 http://82.137.248.16:1935/Souryana/stream10112020/chunklist_w1222844460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Syria Alam" tvg-logo="https://i.ibb.co/pdJy1g0/syria-al3alam.png" group-title="10قنوات سوريةSyria",|AR| Syria Alam
+https://live2.alalamtv.net/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cRDOoO" group-title="10قنوات سوريةSyria",SYR-ALalam Syria
 https://live2.presstv.com/live/alam/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="10قنوات سوريةSyria",SYR-HALAB TODAY SD
@@ -1006,28 +986,6 @@ http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
 https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Lqj2S4" group-title="10قنوات سوريةSyria",SYR-قناة اليوم
 https://ikomg1.s.llnwi.net/alyaumtv/2-01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SAMA TV HD" tvg-logo="https://i.ibb.co/gWwY3L4/sama-tv.png" group-title="10قنوات سوريةSyria",|AR| SAMA TV HD
-http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/308
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIA DRAMA" tvg-logo="https://i.ibb.co/Z1CNvwf/Syria-Drama.png" group-title="10قنوات سوريةSyria",|AR| SYRIA DRAMA
-http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/309
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIA ALsuorya" tvg-logo="https://i.ibb.co/stcFXZG/Syria-Alikhbariya.png" group-title="10قنوات سوريةSyria",|AR| SYRIA ALsuorya
-http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/310
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIA ALEKHBARIA" tvg-logo="https://i.ibb.co/bPnypkw/syria-alikhbarya.png" group-title="10قنوات سوريةSyria",|AR| SYRIA ALEKHBARIA
-http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/311
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIA HD" tvg-logo="https://i.ibb.co/BN657D9/SYRIA-plus.png" group-title="10قنوات سوريةSyria",|AR| SYRIA HD
-http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/312
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Syria Sham F" tvg-logo="https://i.ibb.co/TgSkbPN/ann-news-syria.png" group-title="10قنوات سوريةSyria",|AR| Syria Sham F
-http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/313
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Syria Nour alsham" tvg-logo="https://i.ibb.co/wcxYCkT/nour-sham.png" group-title="10قنوات سوريةSyria",|AR| Syria Nour alsham
-http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/314
-#EXTINF:-1 tvg-id="" tvg-name="|AR| HALAB ALYOUM" tvg-logo="https://i.ibb.co/PNV7wYq/image.png" group-title="10قنوات سوريةSyria",|AR| HALAB ALYOUM
-http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/315
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Syria Tarbawi" tvg-logo="https://i.ibb.co/6JwQMsN/syria-tarbawi.png" group-title="10قنوات سوريةSyria",|AR| Syria Tarbawi
-http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/316
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ٍSyria Souryana" tvg-logo="https://i.ibb.co/F5j1gBm/souryana-tv.png" group-title="10قنوات سوريةSyria",|AR| ٍSyria Souryana
-http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/317
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Syria Alam" tvg-logo="https://i.ibb.co/pdJy1g0/syria-al3alam.png" group-title="10قنوات سوريةSyria",|AR| Syria Alam
-http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/318
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3red5a5" group-title="10قنوات سوريةSyria",SYR- AmwajLive FM
 http://82.137.248.16:1935/RAmwaj/RAmwajLive/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MSJkwG" group-title="10قنوات سوريةSyria",SYR-اذاعة زنوبيا FM
@@ -1044,8 +1002,14 @@ http://185.96.70.242:1935/live/alltv/playlist.m3u8
 http://82.137.248.16:1935/RTartus/RTartusLive/chunklist_w1067743634.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39UouFX" group-title="10قنوات سوريةSyria",sham FM
 https://radioshamfm.grtvstream.com:8400/;
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIA DRAMA" tvg-logo="https://i.ibb.co/Z1CNvwf/Syria-Drama.png" group-title="10قنوات سوريةSyria",|AR| SYRIA DRAMA+
-https://ok.ru/video/2371048775286
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SAMA TV HD" tvg-logo="https://i.ibb.co/gWwY3L4/sama-tv.png" group-title="10قنوات سوريةSyria",|AR| SAMA TV HD
+http://95.216.15.51:80/airmaxtval/r3pHoCIcf2/308
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIA DRAMA" tvg-logo="https://i.ibb.co/Z1CNvwf/Syria-Drama.png" group-title="10قنوات سوريةSyria",|AR| SYRIA DRAMA
+http://95.216.15.51:80/airmaxtval/r3pHoCIcf2/309
+#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIA ALsuorya" tvg-logo="https://i.ibb.co/stcFXZG/Syria-Alikhbariya.png" group-title="10قنوات سوريةSyria",|AR| SYRIA ALsuorya
+http://95.216.15.51:80/airmaxtval/r3pHoCIcf2/310
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Syria Sham F" tvg-logo="https://i.ibb.co/TgSkbPN/ann-news-syria.png" group-title="10قنوات سوريةSyria",|AR| Syria Sham F
+http://95.216.15.51:80/airmaxtval/r3pHoCIcf2/313
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="11قنوات لبنانLEBANON",11قنوات لبنانLEBANON
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="11قنوات لبنانLEBANON",LBN-ldc lebanon SD
@@ -1056,26 +1020,8 @@ https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/in
 http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2L69BXD" group-title="11قنوات لبنانLEBANON",Al Ittihad SD
 https://live.alittihad.tv/ittihad/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MTV HD" tvg-logo="https://bit.ly/3ecmdIW" group-title="11قنوات لبنانLEBANON",|AR| MTV HD
-http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/319
-#EXTINF:-1 tvg-id="" tvg-name="|AR| NBN HD" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| NBN HD
-http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/320
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL JADEED" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| AL JADEED
-http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/321
-#EXTINF:-1 tvg-id="" tvg-name="|AR| LBC HD" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| LBC HD
-http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/323
-#EXTINF:-1 tvg-id="" tvg-name="|AR|  LB2" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR|  LB2
-http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/325
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OTV HD" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| OTV HD
-http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/327
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ONE" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| ONE
-http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/329
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Aghani" tvg-logo="https://www.lebanonchannels.com/sites/default/files/2A8ANI21.png" group-title="11قنوات لبنانLEBANON",|AR| Aghani
-http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/330
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Ifilm Tv" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| Ifilm Tv
 https://live.presstv.com/ifilmlive/smil:ifilmar.smil/chunklistb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| NabaaTv" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| NabaaTv
-http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/339
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pG9TDG" group-title="11قنوات لبنانLEBANON",TV Seventeen SD 
 https://cdn.tvseventeen.com/test_tv_seventeen/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oBT0Zi" group-title="11قنوات لبنانLEBANON",Newv SD
@@ -1094,14 +1040,28 @@ https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
 https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YzJjQC" group-title="11قنوات لبنانLEBANON",LBN-ALWIFAK TV SD
 https://eu8.fastcast4u.com/proxy/ctnqrwln?mp=/1
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ajldz3" group-title="11قنوات لبنانLEBANON",Nabaa TV SD
-http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3jgfbDH" group-title="11قنوات لبنانLEBANON",Assirat TV SD
 https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3am3ozp" group-title="11قنوات لبنانLEBANON",Arabica Music SD
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Yypoli" group-title="11قنوات لبنانLEBANON",Unews SD
 http://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MTV HD" tvg-logo="https://bit.ly/3ecmdIW" group-title="11قنوات لبنانLEBANON",|AR| MTV HD
+http://95.216.15.51:80/airmaxtval/r3pHoCIcf2/319
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NBN HD" tvg-logo="https://bit.ly/3rmSVuM" group-title="11قنوات لبنانLEBANON",|AR| NBN HD
+http://95.216.15.51:80/airmaxtval/r3pHoCIcf2/320
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL JADEED" tvg-logo="https://bit.ly/2LQixAW" group-title="11قنوات لبنانLEBANON",|AR| AL JADEED
+http://95.216.15.51:80/airmaxtval/r3pHoCIcf2/321
+#EXTINF:-1 tvg-id="" tvg-name="|AR| LBC HD" tvg-logo="https://bit.ly/3sUmfJp" group-title="11قنوات لبنانLEBANON",|AR| LBC HD
+http://95.216.15.51:80/airmaxtval/r3pHoCIcf2/323
+#EXTINF:-1 tvg-id="" tvg-name="|AR|  LB2" tvg-logo="https://bit.ly/3bmxNQ5" group-title="11قنوات لبنانLEBANON",|AR|  LB2
+http://95.216.15.51:80/airmaxtval/r3pHoCIcf2/325
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OTV HD" tvg-logo="https://bit.ly/3bhCOZQ" group-title="11قنوات لبنانLEBANON",|AR| OTV HD
+http://95.216.15.51:80/airmaxtval/r3pHoCIcf2/327
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ONE" tvg-logo="https://bit.ly/3biRvfy" group-title="11قنوات لبنانLEBANON",|AR| ONE
+http://95.216.15.51:80/airmaxtval/r3pHoCIcf2/329
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Aghani" tvg-logo="https://bit.ly/3v6giLE" group-title="11قنوات لبنانLEBANON",|AR| Aghani
+http://95.216.15.51:80/airmaxtval/r3pHoCIcf2/330
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="12 قنوات فلسطينPALESTINE",PALESTINE قنوات فلسيطين
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NShtgo" group-title="12 قنوات فلسطينPALESTINE",بيت لحم مباشر
@@ -1111,12 +1071,12 @@ http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qlrdy3" group-title="12 قنوات فلسطينPALESTINE",AWDAH TV
 http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3tVYEcS" group-title="12 قنوات فلسطينPALESTINE",Hala Ramallah
-http://streamer.clickadia.ps/halaramallah/tracks-v1a1/mono.m3u8
+https://live.halaramallahtv.com:8443/HRamallah-Tv/HalaRamallah/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qI6iVN" group-title="12 قنوات فلسطينPALESTINE",Nablus TV
 http://streaming.zaytonatube.com:8080/nb/nb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2N3DDwc" group-title="12 قنوات فلسطينPALESTINE",Rehan TV
 http://vstream3.hadara.ps:8081/rehan_web/web/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3jMEYDy" group-title="12 قنوات فلسطينPALESTINE",شبكة فلسطين الاخبارية
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MMUxiu" group-title="12 قنوات فلسطينPALESTINE",شبكة فلسطين الاخبارية
 http://217.21.0.15:8081/pnn/pnn/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36xb7K2" group-title="12 قنوات فلسطينPALESTINE", Watar tv
 http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8
@@ -1130,9 +1090,9 @@ https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
 http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5bmBL" group-title="12 قنوات فلسطينPALESTINE",PAL-Musawa tv HD
 https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPlG4I" group-title="12 قنوات فلسطينPALESTINE",PAL-Palestine live
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qjOoIc" group-title="12 قنوات فلسطينPALESTINE",PAL-Palestine live
 http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPlG4I" group-title="12 قنوات فلسطينPALESTINE",PAL-Palestine live HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qjOoIc" group-title="12 قنوات فلسطينPALESTINE",PAL-Palestine live HD
 https://pbc.furrera.ps/palestinelivehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZFWYq" group-title="12 قنوات فلسطينPALESTINE",PAL-Palestinee TV
 http://51.255.84.28:8081/palestiniantv_source/live/playlist.m3u8
@@ -1146,30 +1106,12 @@ https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qI6iVN" group-title="12 قنوات فلسطينPALESTINE",Nablus TV
 http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pbIauf" group-title="12 قنوات فلسطينPALESTINE",Maan News
-http://htvmada.mada.ps:8888/maannews/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p9P1EL" group-title="12 قنوات فلسطينPALESTINE",PAL-Nbc Alnajah TV
-http://htvpalsat.mada.ps:8888/najah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/366n6Oh" group-title="12 قنوات فلسطينPALESTINE",قناه مكان
+https://streaming.najah.edu:8443/hls/AlNajah_high/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/38dBhCh" group-title="12 قنوات فلسطينPALESTINE",قناه مكان
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36817Xs" group-title="12 قنوات فلسطينPALESTINE",PAL-AlQuds
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2OpNXig" group-title="12 قنوات فلسطينPALESTINE",PAL-AlQuds
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3bZWbG7" group-title="12 قنوات فلسطينPALESTINE",rayatv 1 VPN
-http://vstream3.hadara.ps:8081/RayaHD_web/web/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3bZWbG7" group-title="12 قنوات فلسطينPALESTINE",rayatv 2 VPN
-http://vstream3.hadara.ps:8081/RayaHD_web/web1/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3bZWbG7" group-title="12 قنوات فلسطينPALESTINE",rayatv 3 VPN
-http://vstream3.hadara.ps:8081/RayaHD2_web/web/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sH4w8i" group-title="12 قنوات فلسطينPALESTINE",AL Fajer TV 1 VPN
-http://217.21.0.14:8081/AlfajertvHD1_web/web/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sH4w8i" group-title="12 قنوات فلسطينPALESTINE",AL Fajer TV FHD 1 VPN
-http://217.66.230.226:8081/AlfajertvHD1_web/web/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sH4w8i" group-title="12 قنوات فلسطينPALESTINE",AL Fajer TV 3 VPN
-http://217.21.0.14:8081/AlfajertvHD2_web/web/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sH4w8i" group-title="12 قنوات فلسطينPALESTINE",AL Fajer TV 4 VPN
-http://217.21.0.14:8081/AlfajertvHD1_web/web1/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sH4w8i" group-title="12 قنوات فلسطينPALESTINE",AL Fajer TV 5 VPN
-http://217.21.0.14:8081/AlfajertvHD2_web/web1/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oaeb4K" group-title="13قنوات الاردنJORDAN",13قنوات الاردنJORDAN
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MbqtfQ" group-title="13قنوات الاردنJORDAN",Roya TV SD
@@ -1180,8 +1122,6 @@ https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv/chunks.m3u8
 https://jrtv-live.ercdn.net/jordanhd/jordanhd_360p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39HR3Xj" group-title="13قنوات الاردنJORDAN",JR-Jordan TV (الدقة التلقائية)
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39HR3Xj" group-title="13قنوات الاردنJORDAN",JR-Jordan TV+
-https://bozztv.com/36bay2/gin/giniko_jordan_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="13قنوات الاردنJORDAN",Amman tv SD
 https://ammantvlive.c.s73cdn.net/elemental/converted/af00a6e0-bd6a-11ea-b6de-e11847949c72/master_640x360_800k.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="13قنوات الاردنJORDAN",Amman tv (الدقة التلقائية)
@@ -1196,14 +1136,14 @@ https://almamlka-live.ercdn.net/almamlka/almamlka_360p.m3u8
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YbRfqZ" group-title="13قنوات الاردنJORDAN",Jasco
 http://82.212.74.100:8000/live/hls/8131.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364yGtw" group-title="13قنوات الاردنJORDAN",|S1| Jordan now 
-rtmp://93.95.207.36:9201/livepkgr/livestream2
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NtI6br" group-title="14قنوات العراق IRAQ",14قنوات العراق IRAQ
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r3lKwp" group-title="14قنوات العراق IRAQ",Al Sumaria
 http://iptv.repl.co/Arabic/Al_summaria/
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o9Fg7Z" group-title="14قنوات العراق IRAQ",IRQ-Al Fallujah
-https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3w24BWE" group-title="14قنوات العراق IRAQ",IRQ-قناة 25 تشرين
+https://master.starmena-cloud.com/hls/25october.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MgS4Mu" group-title="14قنوات العراق IRAQ",IRQ-AL-RASHEED TV
+https://media1.livaat.net/AL-RASHEED-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="14قنوات العراق IRAQ",قناة دجلة Dijlah TV
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="14قنوات العراق IRAQ",قناة دجلة Dijlah TV (Backup)
@@ -1214,10 +1154,6 @@ http://cdg3.edge.tmed.pw/arrafidaintv/live_640p/chunks.m3u8
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364trtv" group-title="14قنوات العراق IRAQ",IRQ-AL Sharqiya News HD+
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MgS4Mu" group-title="14قنوات العراق IRAQ",IRQ-AL Rasheed
-http://livedroos.com:8080/live/alrashid_1mbps/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LZOCpM" group-title="14قنوات العراق IRAQ",IRQ-AL zagrostv
-https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3paPPZX" group-title="14قنوات العراق IRAQ",IRQ-الفرات
 https://5e085b8c1882e.streamlock.net/live/_definst_/alforat.smil/chunklistslen.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364rE7I" group-title="14قنوات العراق IRAQ",IRQ-AL Hurra HD
@@ -1392,8 +1328,6 @@ http://streaming.toutech.net/live/jfm/index.m3u8
 https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sO1vUt" group-title="17 قنوات تونسTUNISIE",Tunimmob TV
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/397bE6Y" group-title="17 قنوات تونسTUNISIE",Marina TV
-http://www.radiomarina.tn:8080/media/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Hannibal TV" tvg-logo="" group-title="17 قنوات تونسTUNISIE",|AR| Hannibal TV
 http://95.216.15.51:80/airmaxtvproalll/FBWgSZVOiN/340
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Al Watania 1" tvg-logo="" group-title="17 قنوات تونسTUNISIE",|AR| Al Watania 1
@@ -1468,14 +1402,8 @@ https://master.starmena-cloud.com/hls/libyas.m3u8
 https://master.starmena-cloud.com/hls/jam.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39Ug5Bs" group-title="19 قنوات ليبياLIBYA",LIB-AL HADATH HD
 https://master.starmena-cloud.com/hls/hd.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c2A6YZ" group-title="19 قنوات ليبياLIBYA",Libya Al akhbaria
-http://82.212.74.2:8000/live/7321.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/366lp3n" group-title="19 قنوات ليبياLIBYA",Libya Almostaqbal
-http://livedroos.com:8080/live/Libyah-Mostaqbal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NvFQjV" group-title="19 قنوات ليبياLIBYA",قناه السلام
 https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/367Zgls" group-title="19 قنوات ليبياLIBYA",LIB-ابناء البلد
-https://master.starmena-cloud.com/hls/abna.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/366lp3n" group-title="19 قنوات ليبياLIBYA",Libya februar
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/2CDKh6w" group-title="19 قنوات ليبياLIBYA",قناة الوسط - WTV
@@ -1487,10 +1415,6 @@ http://217.182.137.206/sudantv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iDLGes" group-title="20 قنوات السودانSUDAN",Sudan 24 TV
 http://217.182.137.206/sudania24.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p9MXfZ" group-title="20 قنوات السودانSUDAN",Sudan drama TV
-http://217.182.137.206/sudan_drama.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZVPhC" group-title="20 قنوات السودانSUDAN",Sudan TV+
-https://bozztv.com/36bay2/gin/giniko_sudantv_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y4VPaH" group-title="20 قنوات السودانSUDAN",sudan_drama
 http://217.182.137.206/sudan_drama.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZVPhC" group-title="20 قنوات السودانSUDAN",africatv 1
 http://africatv.live.net.sa:1935/live/africatv/chunklist.m3u8
@@ -1586,7 +1510,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m
 https://iptv--iptv.repl.co/Arabic/Saudi1_TV/
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39RerQN" group-title="25قنوات السعودية Saudi-Arabia",Saudi الإخبارية
 https://iptv--iptv.repl.co/Arabic/Ekhbariyah/
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qHRoyr" group-title="25قنوات السعودية Saudi-Arabia",قناة قناه بيتي TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qHRoyr" group-title="25قنوات السعودية Saudi-Arabia",قناة بيتي TV
 http://82.212.74.2:8000/live/7312.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y6MX4g" group-title="25قنوات السعودية Saudi-Arabia",sbc
 https://iptv--iptv.repl.co/Arabic/SBC/
@@ -1594,29 +1518,25 @@ https://iptv--iptv.repl.co/Arabic/SBC/
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="25قنوات السعودية Saudi-Arabia",Iqraa Europe Africa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iHpCj5" group-title="25قنوات السعودية Saudi-Arabia",SAU-Noble TV HD
-https://5d39f1ab8ba65.streamlock.net:1935/arabic-/arabic-/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/363QnJz" group-title="25قنوات السعودية Saudi-Arabia",SAU-22 TV
 http://82.212.74.99:8000/live/hls/8117.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pdVAWH" group-title="25قنوات السعودية Saudi-Arabia",SAU-Saudi Quran HD
 https://5b18be6964c2f.streamlock.net/live/_definst_/quran/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Md9nOO" group-title="25قنوات السعودية Saudi-Arabia",مكة TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/lckbSZB.png" group-title="25قنوات السعودية Saudi-Arabia",Ahl-Alquran TV
-https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oaf25a" group-title="25قنوات السعودية Saudi-Arabia",Al Sunnah 
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39SAffa" group-title="26قنوات الامارات EMIRATES",26قنوات الامارات EMIRATES (الدقة التلقائية)
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/398tt5G" group-title="26قنوات الامارات EMIRATES",Dubai TV (الدقة التلقائية)
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qHZJ5r" group-title="26قنوات الامارات EMIRATES",Dubai One (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/31lkwkD" group-title="26قنوات الامارات EMIRATES",Dubai One (الدقة التلقائية)
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c41Cp9" group-title="26قنوات الامارات EMIRATES",DUB-NOOR DUBAI HD (الدقة التلقائية)
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8?
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c34Bhz" group-title="26قنوات الامارات EMIRATES",Sama Dubai (الدقة التلقائية)
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2KKES2k" group-title="26قنوات الامارات EMIRATES",Dubai Zaman (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ssSqjy" group-title="26قنوات الامارات EMIRATES",Dubai Zaman (الدقة التلقائية)
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sS0oDA" group-title="26قنوات الامارات EMIRATES",DUB-DUBAI Racing (الدقة التلقائية)
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
