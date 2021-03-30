@@ -121,6 +121,12 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/64ac02a4d8116
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="8قنوات أم بي سيMBC",MBC 5 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/2ab052b02d7c343.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="8قنوات أم بي سيMBC",B4U AFLAM
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/bc826f274bec89b.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="8قنوات أم بي سيMBC",B4U PLUS
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/596f2de6cc7d565.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="|AR| SAMA TV HD" tvg-logo="" group-title="10قنوات سوريةSyria",SYRIA TV
@@ -172,3 +178,50 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/dba83b7847b5e
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="11قنوات لبنانLEBANON",Al Manar
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/5bfcf72843eebe5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="15قنوات المصرية Egypt",Nile Family
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/e995f0011c8c533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="15قنوات المصرية Egypt",Nile Cinema
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/0e1901a7fd72c5f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="15قنوات المصرية Egypt",Nile Comedy
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/11f07d36e56a83b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="15قنوات المصرية Egypt",Nile Drama
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/b7a627f774fc1b8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="15قنوات المصرية Egypt",NILE LIFE
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/f9a7fcacfafa9cc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="15قنوات المصرية Egypt",Nile Sport
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/558fe5faaac630d.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="17 قنوات تونسTUNISIE",Samira Tv
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/ef2b64961e778d2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="17 قنوات تونسTUNISIE",Echourouk Tv
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/fae82c942313c61.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="17 قنوات تونسTUNISIE",Tunsia Nat 1
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/137f472de7e88d0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="17 قنوات تونسTUNISIE",Tunsia Nat 2
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/70d15b16289ec05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="17 قنوات تونسTUNISIE",Tunsia Tv
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/bcce080fe7d3eab.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="17 قنوات تونسTUNISIE",Tunisie Attessia 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/941e63f3f5bb2bc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="17 قنوات تونسTUNISIE",Tunisie Almustakillah 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/03ecf45cb41ce7f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="17 قنوات تونسTUNISIE",Tunisie Aljanoubia 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/7b3a8ff142b1f2c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="17 قنوات تونسTUNISIE",Tunisie Al Insan 
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/bd83ea668cdfc85.m3u8
