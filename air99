@@ -417,8 +417,6 @@ http://95.216.15.51:80/airmaxtvntt/SaeWLaTd7H/577
 https://5e98ac1ed3cd4.streamlock.net/violet.tv/violet2/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qsIF3N" group-title="3قنوات نتفليكسNETFLIX",Canadian Arab TV
 http://142.112.39.133:8080/catv.mp4
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qsWRcY" group-title="3قنوات نتفليكسNETFLIX",Hala London tv
-https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="4قنوات رياضية SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c9XSRi" group-title="4قنوات رياضية SPORT",ALKASS ONE
