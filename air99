@@ -521,6 +521,30 @@ https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport_1.png" group-title="4قنوات رياضية SPORT",CANAL+SPORT 1
 http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png" group-title="4قنوات رياضية SPORT",SKYNET SPORTS HD
+https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports1.png" group-title="4قنوات رياضية SPORT",SKYNET SPORTS 1
+https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports2.png" group-title="4قنوات رياضية SPORT",SKYNET SPORTS 2
+https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports3.png" group-title="4قنوات رياضية SPORT",SKYNET SPORTS 3
+https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports4.png" group-title="4قنوات رياضية SPORT",SKYNET SPORTS 4
+https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports5.png" group-title="4قنوات رياضية SPORT",SKYNET SPORTS 5
+https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports6.png" group-title="4قنوات رياضية SPORT",SKYNET SPORTS 6
+https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg" group-title="4قنوات رياضية SPORT",SPORT TV 1
+https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg" group-title="4قنوات رياضية SPORT",SPORT TV 2
+https://sport.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv3.jpg" group-title="4قنوات رياضية SPORT",SPORT TV 3
+https://sport.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv4.jpg" group-title="4قنوات رياضية SPORT",SPORT TV 4
+https://sport.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv5.jpg" group-title="4قنوات رياضية SPORT",SPORT TV 5
+https://sport.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="4قنوات رياضية SPORT",UFC FIGHT
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2000/index.m3u
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="4قنوات رياضية SPORT",FIGHT BOX
