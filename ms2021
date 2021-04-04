@@ -1644,11 +1644,11 @@ https://cdn.alarab.com/h264/162724_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nXAAlI" group-title="مسلسل التركي السد",الحلقةS01E30
 https://cdn.alarab.com/h264/162887_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nXAAlI" group-title="مسلسل التركي السد",الحلقةS01E31
-
+https://cdn.alarab.com/h264/163003_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nXAAlI" group-title="مسلسل التركي السد",الحلقةS01E32
 https://cdn.alarab.com/h264/163161_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nXAAlI" group-title="مسلسل التركي السد",الحلقةS01E33
-https://cdn.alarab.com/h264/163330_480p.mp4/index-v1-a1.m3u8
+https://cdn.alarab.com/h264/163330_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2XShaE9" group-title="مسلسل التركي التوبة",الحلقةS01E01
 https://cdn.alarab.com/h264/158544_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2XShaE9" group-title="مسلسل التركي التوبة",الحلقةS01E02
@@ -2769,6 +2769,8 @@ https://cdn.alarab.com/h264/162878_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/162981_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3oZ7qno" group-title="مسلسل التركي ابنة السفير",الحلقة 45
 https://cdn.alarab.com/h264/163139_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3oZ7qno" group-title="مسلسل التركي ابنة السفير",الحلقة 46
+https://cdn.alarab.com/h264/163328_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nZYvAP" group-title="مسلسل التركي البطل",الحلقة 1
 https://cdn.alarab.com/h264/151830_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nZYvAP" group-title="مسلسل التركي البطل",الحلقة 2
