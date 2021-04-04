@@ -1161,9 +1161,9 @@ https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qG1r7B" group-title="14قنوات العراق IRAQ",AL HURRA IRAQ +
 http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3bXQKZY" group-title="14قنوات العراق IRAQ",IRQ-IRAQIA الاخبارية
-http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news3/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPi0zW" group-title="14قنوات العراق IRAQ",IRQ-IRAQIA الفضائية
-http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general3/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa7vVj" group-title="14قنوات العراق IRAQ",IRQ-MBC IRAQ HD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39TWfpL" group-title="14قنوات العراق IRAQ",IRQ-AL Maaref
