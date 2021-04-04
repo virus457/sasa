@@ -272,8 +272,6 @@ http://95.216.15.51:80/airmaxtvproall/KuZyHAB7wV/577
 https://5e98ac1ed3cd4.streamlock.net/violet.tv/violet2/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qsIF3N" group-title="3قنوات نتفليكسNETFLIX",Canadian Arab TV
 http://142.112.39.133:8080/catv.mp4
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qsWRcY" group-title="3قنوات نتفليكسNETFLIX",Hala London tv
-https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Action 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Action 1
 http://95.216.15.51:80/airmaxtvproall/KuZyHAB7wV/507
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID ACTION 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",SHAHID ACTION 2
