@@ -1177,6 +1177,10 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunk
 http://vod.alikhbaria.net:1935/Snews/stream10112020/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eR8QSEt.png" group-title="10قنوات سوريةSyria",SYR-SOURYANA SD
 http://82.137.248.16:1935/Souryana/stream10112020/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3fPbsNr" group-title="10قنوات سوريةSyria",SYR-SEduTV SD
+http://82.137.248.16:1935/SEdu/stream10112020/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3t0bHZN" group-title="10قنوات سوريةSyria",SYR-NourElshamTV SD
+http://82.137.248.16:1935/Nour/stream10112020/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Syria Alam" tvg-logo="https://i.ibb.co/pdJy1g0/syria-al3alam.png" group-title="10قنوات سوريةSyria",|AR| Syria Alam
 https://live2.alalamtv.net/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cRDOoO" group-title="10قنوات سوريةSyria",SYR-ALalam Syria
