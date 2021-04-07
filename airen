@@ -1768,7 +1768,6 @@ http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="31قنوات اسلاميةIslami",iqraa
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist.m3u8
-#EXTINF: tvg-logo="https://www.alresalah.net/wp-content/themes/bridge-child/images/logo.png" group-title="31قنوات اسلاميةIslami",,Al Risala
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="31قنوات اسلاميةIslami",fatehtv
 https://svs.itworkscdn.net/alfatehlive/fatehtv/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="31قنوات اسلاميةIslami",makkahtv
