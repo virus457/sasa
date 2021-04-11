@@ -1158,7 +1158,7 @@ https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="10قنوات سوريةSyria",SYR-LANA HD
 https://stream.lanacanal.tv:444/hls/lana.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/9HCiWqv.jpg" group-title="10قنوات سوريةSyria",SYR-Lana Plus HD 
-https://stream.lanacanal.tv:444/hls/lanaplus.m3u8
+http://she3a.local-hd.com:8080/live/adam/520520/1544.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="10قنوات سوريةSyria",SYR-SAMA SYRIA SD
 http://stream.sama-tv.net:8080/hls/samatv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="10قنوات سوريةSyria",SYR-SYRIA PLUS SD
