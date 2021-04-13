@@ -616,6 +616,10 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y32aU7" group-title="7 أطفال Children",BEIN :Cartoon_Network العربية
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a7ZM4N" group-title="7 أطفال Children",GULLI-BIL-ARABI
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2PYc6Ob" group-title="7 أطفال Children",TIJI-in-French
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index_4.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36EMkUq" group-title="7 أطفال Children",BEIN :beIN Boomerang HD
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/05.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3j8F4VO" group-title="7 أطفال Children",AR Majid_Kids HD
