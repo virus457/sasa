@@ -32,6 +32,8 @@ https://cdn.alarab.com/h264/163541_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/163602_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3dcEPrp" group-title="01م السوري رمضان2021ضيوف على الحب",الحلقةS01E01
 https://cdn.alarab.com/h264/163561_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3dcEPrp" group-title="01م السوري رمضان2021ضيوف على الحب",الحلقةS01E02
+https://cdn.alarab.com/h264/163617_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3dgZQkG" group-title="01م السوري رمضان2021سنة تانية زواج",الحلقةS01E01
 https://cdn.alarab.com/h264/163565_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3dgZQkG" group-title="01م السوري رمضان2021سنة تانية زواج",الحلقةS01E02
@@ -47,7 +49,7 @@ https://cdn.alarab.com/h264/163626_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sf06Fb" group-title="01م السوري رمضان2021خريف العشاق",الحلقةS01E01
 https://cdn.alarab.com/h264/163582_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sf06Fb" group-title="01م السوري رمضان2021خريف العشاق",الحلقةS01E02
-https://cdn.alarab.com/h264/163629_480p.mp4/index-v1-a1.m3u8
+https://cdn.alarab.com/h264/163629_480p.mp4/index-v1-a1.m3u8?/ss/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3e3VXyP" group-title="0م لبناني رمضان2021خيبة أمل",الحلقةS01E01
 https://cdn.alarab.com/h264/163584_480p.mp4/index-v1-a1.m3u8?/ss/
@@ -177,6 +179,8 @@ https://cdn.alarab.com/h264/163625_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/163577_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3dYSuSa" group-title="0م الخليجي رمضان2021شليوي ناش",الحلقةS01E01
 https://cdn.alarab.com/h264/163576_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3dYSuSa" group-title="0م الخليجي رمضان2021شليوي ناش",الحلقةS01E02
+https://cdn.alarab.com/h264/163635_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3dYUB8y" group-title="0م الخليجي رمضان2021ممنوع التجول",الحلقةS01E01
 https://mido-150518-running-hard.kobatube.online/hls2/CimaClub.Cam-mamnou.al.tajawwol.snonee01.720p.720p.x264.aac-480.37401.mp4/index.m3u8?/ss/
 
@@ -186,6 +190,7 @@ https://cdn.alarab.com/h264/163631_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/163621_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3si0GC3" group-title="0م الأردن رمضان2021بلاقي عندك شغل",الحلقةS01E02
 https://cdn.alarab.com/h264/163619_480p.mp4/index-v1-a1.m3u8?/ss/
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/39CNCja" group-title="مسلسل التركي نهضة السلاجقة العظمى",الحلقةS01E01
 https://cdn.alarab.com/h264/159446_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/39CNCja" group-title="مسلسل التركي نهضة السلاجقة العظمى",الحلقةS01E02
