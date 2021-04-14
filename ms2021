@@ -18,6 +18,8 @@ https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2021-04-13/vidwLbJMv1NOE.smil/
 https://cdn.alarab.com/h264/163581_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3uNp9kq" group-title="01م السوري رمضان2021على صفيح ساخن",الحلقةS01E01
 https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2021-04-13/vidU6OcsTYive.smil/chunklist.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3uNp9kq" group-title="01م السوري رمضان2021على صفيح ساخن",الحلقةS01E02
+https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2021-04-14/vidldR384O0VU.smil/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wJluWq" group-title="01م السوري رمضان2021سوق الحرير",الحلقةS02E01
 https://cdn.alarab.com/h264/163541_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wJluWq" group-title="01م السوري رمضان2021سوق الحرير",الحلقةS02E02
@@ -27,11 +29,15 @@ https://cdn.alarab.com/h264/163561_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3dgZQkG" group-title="01م السوري رمضان2021سنة تانية زواج",الحلقةS01E01
 https://cdn.alarab.com/h264/163565_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3dgZQkG" group-title="01م السوري رمضان2021سنة تانية زواج",الحلقةS01E02
-https://cdn.alarab.com/h264/163616_480p.mp4/index-v1-a1.m3u8
+https://cdn.alarab.com/h264/163616_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3dhwRNP" group-title="01م السوري رمضان2021باب الحارة ج11",الحلقةS01E01
 https://cdn.alarab.com/h264/163574_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3dhwRNP" group-title="01م السوري رمضان2021باب الحارة ج11",الحلقةS01E02
+https://cdn.alarab.com/h264/163622_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2Q3pCAb" group-title="01م السوري رمضان2021بعد عدة سنوات",الحلقةS01E01
 https://cdn.alarab.com/h264/163575_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2Q3pCAb" group-title="01م السوري رمضان2021بعد عدة سنوات",الحلقةS01E02
+https://cdn.alarab.com/h264/163626_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sf06Fb" group-title="01م السوري رمضان2021خريف العشاق",الحلقةS01E01
 https://cdn.alarab.com/h264/163582_480p.mp4/index-v1-a1.m3u8?/ss/
 
@@ -151,6 +157,8 @@ https://cdn.alarab.com/h264/163534_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/163552_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2RAqi0j" group-title="0م الخليجي رمضان2021الناجية الوحيدة",الحلقةS01E02
 https://cdn.alarab.com/h264/163578_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2RAqi0j" group-title="0م الخليجي رمضان2021الناجية الوحيدة",الحلقةS01E03
+https://cdn.alarab.com/h264/163625_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2Qr6DQ0" group-title="0م الخليجي رمضان2021أمينة حاف",الحلقةS01E01
 https://cdn.alarab.com/h264/163577_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3dYSuSa" group-title="0م الخليجي رمضان2021شليوي ناش",الحلقةS01E01
