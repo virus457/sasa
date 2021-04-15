@@ -29,34 +29,6 @@ https://m3u-editor.com/serve/ec42d3b0-7eb7-11eb-b4c9-732e1b830b41/231889148
 https://m3u-editor.com/serve/ec42d3b0-7eb7-11eb-b4c9-732e1b830b41/231889149
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="1 بين سبور BEIN SPORT", 4تعمل وقت المبارات المهمه+
 https://m3u-editor.com/serve/ec42d3b0-7eb7-11eb-b4c9-732e1b830b41/231889150
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT NEWS HD" tvg-logo="https://i.ibb.co/FBg9xDq/news.png" group-title="1 بين سبور BEIN SPORT",|AR| BEIN SPORT NEWS HD
-http://95.216.15.51:80/airmaxtvprobb/eW8UROkUto/238
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS HD" tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORTS HD
-http://95.216.15.51:80/airmaxtvprobb/eW8UROkUto/239
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 LOW PREMIUM" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 1 LOW PREMIUM
-http://95.216.15.51:80/airmaxtvprobb/eW8UROkUto/588
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 2 LOW PREMIUM" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 2 LOW PREMIUM
-http://95.216.15.51:80/airmaxtvprobb/eW8UROkUto/589
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 3 LOW PREMIUM" tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 3 LOW PREMIUM
-http://95.216.15.51:80/airmaxtvprobb/eW8UROkUto/590
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT LOW 1" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1 بين سبور BEIN SPORT",|AR| BEIN SPORT LOW 1
-http://95.216.15.51:80/airmaxtvprobb/eW8UROkUto/208
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT LOW 2" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1 بين سبور BEIN SPORT",|AR| BEIN SPORT LOW 2
-http://95.216.15.51:80/airmaxtvprobb/eW8UROkUto/209
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT LOW 3" tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="1 بين سبور BEIN SPORT",|AR| BEIN SPORT LOW 3
-http://95.216.15.51:80/airmaxtvprobb/eW8UROkUto/210
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT LOW 4" tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="1 بين سبور BEIN SPORT",|AR| BEIN SPORT LOW 4
-http://95.216.15.51:80/airmaxtvprobb/eW8UROkUto/211
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT LOW 5" tvg-logo="https://i.ibb.co/C1Jt1n0/HD5.png" group-title="1 بين سبور BEIN SPORT",|AR| BEIN SPORT LOW 5
-http://95.216.15.51:80/airmaxtvprobb/eW8UROkUto/212
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 SD PREMIUM" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 1 SD PREMIUM
-http://95.216.15.51:80/airmaxtvprobb/eW8UROkUto/585
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 2 SD PREMIUM" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 2 SD PREMIUM
-http://95.216.15.51:80/airmaxtvprobb/eW8UROkUto/586
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 3 SD PREMIUM" tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 3 SD PREMIUM
-http://95.216.15.51:80/airmaxtvprobb/eW8UROkUto/587
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 4K PREMIUM" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 4K PREMIUM
-http://95.216.15.51:80/airmaxtvprobb/eW8UROkUto/591
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3tecbMr" group-title="1 بين سبور BEIN SPORT",beIN Sport Extra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MI09dC" group-title="1 بين سبور BEIN SPORT",BEIN​ SPORT​1 HD(مشغل GSE)
@@ -69,105 +41,7 @@ https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SERIES 1" tvg-logo="http://www.teledunet.com/logo.php?id=1014614" group-title="11او اس انOSN",BEIN SERIES 1
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/734
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SERIES 2" tvg-logo="http://www.teledunet.com/logo.php?id=1020" group-title="11او اس انOSN",BEIN SERIES 2
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/735
-#EXTINF:-1 tvg-id="" tvg-name="BEIN GOURMET" tvg-logo="http://www.teledunet.com/logo.php?id=1021" group-title="11او اس انOSN",BEIN GOURMET
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/736
-#EXTINF:-1 tvg-id="" tvg-name="BEIN FATAFEAT" tvg-logo="http://www.teledunet.com/logo.php?id=101473" group-title="11او اس انOSN",BEIN FATAFEAT
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/737
-#EXTINF:-1 tvg-id="" tvg-name="BEIN FOX REWAYAT" tvg-logo="http://www.teledunet.com/logo.php?id=1022" group-title="11او اس انOSN",BEIN FOX REWAYAT
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/738
-#EXTINF:-1 tvg-id="" tvg-name="BEIN FOX ACTIONS" tvg-logo="http://www.teledunet.com/logo.php?id=1023" group-title="11او اس انOSN",BEIN FOX ACTIONS
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/739
-#EXTINF:-1 tvg-id="" tvg-name="BEIN FOX CRIME" tvg-logo="http://www.teledunet.com/logo.php?id=1024" group-title="11او اس انOSN",BEIN FOX CRIME
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/740
-#EXTINF:-1 tvg-id="" tvg-name="BEIN FOX MOVIES" tvg-logo="http://www.teledunet.com/logo.php?id=1025" group-title="11او اس انOSN",BEIN FOX MOVIES
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/741
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES PREMIERE" tvg-logo="http://www.teledunet.com/logo.php?id=102249" group-title="11او اس انOSN",BEIN MOVIES PREMIERE
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/742
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES ACTIONS 2 HD" tvg-logo="http://www.teledunet.com/logo.php?id=10084" group-title="11او اس انOSN",BEIN MOVIES ACTIONS 2 HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/743
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES DRAMA 3 HD" tvg-logo="http://www.teledunet.com/logo.php?id=10085" group-title="11او اس انOSN",BEIN MOVIES DRAMA 3 HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/744
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES FAMILY 4 HD" tvg-logo="http://www.teledunet.com/logo.php?id=10086" group-title="11او اس انOSN",BEIN MOVIES FAMILY 4 HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/745
-#EXTINF:-1 tvg-id="" tvg-name="OSN NATIONAL GEOGRAPHIC AD" tvg-logo="http://www.teledunet.com/logo.php?id=10125" group-title="11او اس انOSN",OSN NATIONAL GEOGRAPHIC AD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/746
-#EXTINF:-1 tvg-id="" tvg-name="OSN ALYAWM" tvg-logo="http://www.teledunet.com/logo.php?id=101450" group-title="11او اس انOSN",OSN ALYAWM
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/747
-#EXTINF:-1 tvg-id="" tvg-name="OSN MUSIC NOW" tvg-logo="http://www.teledunet.com/logo.php?id=50299" group-title="11او اس انOSN",OSN MUSIC NOW
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/748
-#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA HD" tvg-logo="http://www.teledunet.com/logo.php?id=101458" group-title="11او اس انOSN",OSN YAHALA HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/749
-#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA" tvg-logo="http://www.teledunet.com/logo.php?id=1044" group-title="11او اس انOSN",OSN YAHALA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/750
-#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA OULA HD" tvg-logo="http://www.teledunet.com/logo.php?id=101448" group-title="11او اس انOSN",OSN YAHALA OULA HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/751
-#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA OULA" tvg-logo="http://www.teledunet.com/logo.php?id=1045" group-title="11او اس انOSN",OSN YAHALA OULA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/752
-#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA CINEMA HD" tvg-logo="http://www.teledunet.com/logo.php?id=1014480" group-title="11او اس انOSN",OSN YAHALA CINEMA HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/753
-#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA CINEMA" tvg-logo="http://www.teledunet.com/logo.php?id=1014480" group-title="11او اس انOSN",OSN YAHALA CINEMA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/754
-#EXTINF:-1 tvg-id="" tvg-name="OSN MUSALSALAT HD" tvg-logo="http://www.teledunet.com/logo.php?id=102264" group-title="11او اس انOSN",OSN MUSALSALAT HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/755
-#EXTINF:-1 tvg-id="" tvg-name="OSN MUSALSALAT +2" tvg-logo="http://www.teledunet.com/logo.php?id=1047" group-title="11او اس انOSN",OSN MUSALSALAT +2
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/756
-#EXTINF:-1 tvg-id="" tvg-name="OSN COMEDY HD" tvg-logo="http://www.teledunet.com/logo.php?id=102257" group-title="11او اس انOSN",OSN COMEDY HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/757
-#EXTINF:-1 tvg-id="" tvg-name="OSN COMEDY" tvg-logo="http://www.teledunet.com/logo.php?id=1022570" group-title="11او اس انOSN",OSN COMEDY
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/758
-#EXTINF:-1 tvg-id="" tvg-name="OSN COMEDY CENTRAL" tvg-logo="http://www.teledunet.com/logo.php?id=1048" group-title="11او اس انOSN",OSN COMEDY CENTRAL
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/759
-#EXTINF:-1 tvg-id="" tvg-name="OSN ACTIONS HD" tvg-logo="http://www.teledunet.com/logo.php?id=102256" group-title="11او اس انOSN",OSN ACTIONS HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/760
-#EXTINF:-1 tvg-id="" tvg-name="OSN ACTIONS" tvg-logo="http://www.teledunet.com/logo.php?id=1022560" group-title="11او اس انOSN",OSN ACTIONS
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/761
-#EXTINF:-1 tvg-id="" tvg-name="OSN KIDS" tvg-logo="http://www.teledunet.com/logo.php?id=1049" group-title="11او اس انOSN",OSN KIDS
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/762
-#EXTINF:-1 tvg-id="" tvg-name="OSN CINEMA 1" tvg-logo="http://www.teledunet.com/logo.php?id=10295" group-title="11او اس انOSN",OSN CINEMA 1
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/763
-#EXTINF:-1 tvg-id="" tvg-name="OSN CINEMA 2" tvg-logo="http://www.teledunet.com/logo.php?id=1050" group-title="11او اس انOSN",OSN CINEMA 2
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/764
-#EXTINF:-1 tvg-id="" tvg-name="OSN ART AFLAM 1" tvg-logo="http://www.teledunet.com/logo.php?id=101514" group-title="11او اس انOSN",OSN ART AFLAM 1
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/765
-#EXTINF:-1 tvg-id="" tvg-name="OSN ART AFLAM 2" tvg-logo="http://www.teledunet.com/logo.php?id=101515" group-title="11او اس انOSN",OSN ART AFLAM 2
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/766
-#EXTINF:-1 tvg-id="" tvg-name="OSN ART CINEMA" tvg-logo="http://www.teledunet.com/logo.php?id=1051" group-title="11او اس انOSN",OSN ART CINEMA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/767
-#EXTINF:-1 tvg-id="" tvg-name="OSN ART HIKAYAT 1" tvg-logo="http://www.teledunet.com/logo.php?id=101520" group-title="11او اس انOSN",OSN ART HIKAYAT 1
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/768
-#EXTINF:-1 tvg-id="" tvg-name="OSN ART HIKAYAT 2" tvg-logo="http://www.teledunet.com/logo.php?id=102270" group-title="11او اس انOSN",OSN ART HIKAYAT 2
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/769
-#EXTINF:-1 tvg-id="" tvg-name="OSN MEZZE" tvg-logo="http://www.teledunet.com/logo.php?id=1052" group-title="11او اس انOSN",OSN MEZZE
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/770
-#EXTINF:-1 tvg-id="" tvg-name="OSN STAR MOVIES" tvg-logo="http://www.teledunet.com/logo.php?id=20330" group-title="11او اس انOSN",OSN STAR MOVIES
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/771
-#EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES" tvg-logo="http://www.teledunet.com/logo.php?id=1053" group-title="11او اس انOSN",OSN MOVIES
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/772
-#EXTINF:-1 tvg-id="" tvg-name="OSN STAR WORLD" tvg-logo="http://www.teledunet.com/logo.php?id=20299" group-title="11او اس انOSN",OSN STAR WORLD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/773
-#EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES FIRST" tvg-logo="http://www.teledunet.com/logo.php?id=102267" group-title="11او اس انOSN",OSN MOVIES FIRST
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/774
-#EXTINF:-1 tvg-id="" tvg-name="OSN SERIES FIRST" tvg-logo="http://www.teledunet.com/logo.php?id=1014610" group-title="11او اس انOSN",OSN SERIES FIRST
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/775
-#EXTINF:-1 tvg-id="" tvg-name="OSN WWE" tvg-logo="http://www.teledunet.com/logo.php?id=1014609" group-title="11او اس انOSN",OSN WWE
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/776
-#EXTINF:-1 tvg-id="" tvg-name="OSN AL SAFWA" tvg-logo="http://www.teledunet.com/logo.php?id=1014589" group-title="11او اس انOSN",OSN AL SAFWA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/777
-#EXTINF:-1 tvg-id="" tvg-name="OSN HISTORY" tvg-logo="http://www.teledunet.com/logo.php?id=101525" group-title="11او اس انOSN",OSN HISTORY
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/778
-#EXTINF:-1 tvg-id="" tvg-name="OSN TLC" tvg-logo="http://www.teledunet.com/logo.php?id=10309" group-title="11او اس انOSN",OSN TLC
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/779
-#EXTINF:-1 tvg-id="" tvg-name="OSN NAT GEO WILD" tvg-logo="http://www.teledunet.com/logo.php?id=10311" group-title="11او اس انOSN",OSN NAT GEO WILD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/780
-#EXTINF:-1 tvg-id="" tvg-name="OSN DISCOVERY HD" tvg-logo="http://www.teledunet.com/logo.php?id=1054" group-title="11او اس انOSN",OSN DISCOVERY HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/781
-#EXTINF:-1 tvg-id="" tvg-name="OSN LIVING HD" tvg-logo="http://www.teledunet.com/logo.php?id=1055" group-title="11او اس انOSN",OSN LIVING HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/782
-#EXTINF:-1 tvg-id="" tvg-name="OSN ANIMAL PLANET" tvg-logo="http://www.teledunet.com/logo.php?id=1056" group-title="11او اس انOSN",OSN ANIMAL PLANET
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/783
+
 #EXTINF:-1 tvg-id="ext" group-title="3 نتفليكسNETFLIX",NETFLIX CHANNELS
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext" group-title="3 نتفليكسNETFLIX",النسخة المدفوعة AirMax TV
@@ -178,96 +52,10 @@ http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://i.imgur.com/CulLL7e.png" group-title="3 نتفليكسNETFLIX",Nas Tv
 http://vstream3.hadara.ps:8081/NasRadio_web/web/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Action" tvg-logo="https://i.ibb.co/S56x0vx/netflix-ac.png" group-title="3 نتفليكسNETFLIX",Netflix Action
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/596
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror" tvg-logo="https://i.ibb.co/3hsDZBD/horrnr.png" group-title="3 نتفليكسNETFLIX",Netflix Horror
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/597
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Thriller" tvg-logo="https://i.ibb.co/4SMqytZ/Netflix-Thriller.png" group-title="3 نتفليكسNETFLIX",Netflix Thriller
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/598
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX SCI" tvg-logo="https://i.ibb.co/W6SSNQy/netflix-SCI.png" group-title="3 نتفليكسNETFLIX",NETFLIX SCI
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/599
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX Animation" tvg-logo="https://i.ibb.co/1ZmJhWT/NETFLIX-Animation.png" group-title="3 نتفليكسNETFLIX",NETFLIX Animation
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/600
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy" tvg-logo="https://i.ibb.co/DYvYcF1/netflix-comedy.png" group-title="3 نتفليكسNETFLIX",Netflix Comedy
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/601
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Bollywood" tvg-logo="https://i.ibb.co/cwm8CHf/netflix-bollywood.png" group-title="3 نتفليكسNETFLIX",Netflix Bollywood
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/602
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Drama" tvg-logo="https://i.ibb.co/wB9SYNt/netflix-Drama.png" group-title="3 نتفليكسNETFLIX",Netflix Drama
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/603
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Classic" tvg-logo="https://i.ibb.co/XkD8shb/Classic.png" group-title="3 نتفليكسNETFLIX",Netflix Classic
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/604
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Arabic" tvg-logo="https://i.ibb.co/PgzFmkN/Netflix-arabic.png" group-title="3 نتفليكسNETFLIX",Netflix Arabic
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/605
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Arabic" tvg-logo="https://i.ibb.co/PgzFmkN/Netflix-arabic.png" group-title="3 نتفليكسNETFLIX",Netflix Arabic
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/606
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Action" tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="3 نتفليكسNETFLIX",Netflix Action
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/607
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Drama" tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="3 نتفليكسNETFLIX",Netflix Drama
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/608
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy" tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="3 نتفليكسNETFLIX",Netflix Comedy
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/609
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror" tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="3 نتفليكسNETFLIX",Netflix Horror
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/610
-#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 1" tvg-logo="https://i.ibb.co/g7TZD57/BOXOFFIC-removebg-preview.png" group-title="3 نتفليكسNETFLIX",BOX OFFICE 1
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/611
-#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 2" tvg-logo="https://i.ibb.co/g7TZD57/BOXOFFIC-removebg-preview.png" group-title="3 نتفليكسNETFLIX",BOX OFFICE 2
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/612
-#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 3" tvg-logo="https://i.ibb.co/g7TZD57/BOXOFFIC-removebg-preview.png" group-title="3 نتفليكسNETFLIX",BOX OFFICE 3
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/613
-#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 4" tvg-logo="https://i.ibb.co/g7TZD57/BOXOFFIC-removebg-preview.png" group-title="3 نتفليكسNETFLIX",BOX OFFICE 4
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/614
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qsIF3N" group-title="3 نتفليكسNETFLIX",Canadian Arab TV
 http://142.112.39.133:8080/catv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Action 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="11باقة شاهد نت",|AR| Shahid Action 1
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/640
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID ARABIA 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="11باقة شاهد نت",SHAHID ARABIA 1
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/641
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Arabia" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="11باقة شاهد نت",|AR| Shahid Arabia
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/642
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Drama 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="11باقة شاهد نت",|AR| Shahid Drama 1
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/643
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Drama 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="11باقة شاهد نت",|AR| Shahid Drama 2
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/644
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID DRAMA 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="11باقة شاهد نت",SHAHID DRAMA 1
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/645
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Comedy 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="11باقة شاهد نت",|AR| Shahid Comedy 2
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/646
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Adventure 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="11باقة شاهد نت",|AR| Shahid Adventure 1
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/647
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Adventure 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="11باقة شاهد نت",|AR| Shahid Adventure 2
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/648
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Bollywood 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="11باقة شاهد نت",|AR| Shahid Bollywood 1
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/649
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Arabia 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="11باقة شاهد نت",|AR| Shahid Arabia 2
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/650
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Family 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="11باقة شاهد نت",|AR| Shahid Family 1
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/651
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Horror 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="11باقة شاهد نت",|AR| Shahid Horror 1
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/652
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Thriller 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="11باقة شاهد نت",|AR| Shahid Thriller 1
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/653
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID SCI-FI 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="11باقة شاهد نت",SHAHID SCI-FI 1
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/654
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID SCI-FI 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="11باقة شاهد نت",SHAHID SCI-FI 2
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/655
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Kids" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="11باقة شاهد نت",|AR| Shahid Kids
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/656
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID DOCUMENTARY 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="11باقة شاهد نت",SHAHID DOCUMENTARY 1
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/657
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID DOCUMENTARY 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="11باقة شاهد نت",SHAHID DOCUMENTARY 2
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/658
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Crime" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="11باقة شاهد نت",|AR| Shahid Crime
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/659
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid COMEDY" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="11باقة شاهد نت",|AR| Shahid COMEDY
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/660
-#EXTINF:-1 tvg-id="" tvg-name="AR:SHAHID_AFLAM_1" tvg-logo="https://i.ibb.co/12Pcv64/shahid.png" group-title="11باقة شاهد نت",AR:SHAHID_AFLAM_1
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/661
-#EXTINF:-1 tvg-id="" tvg-name="AR:SHAHID:CINEMA" tvg-logo="https://i.ibb.co/12Pcv64/shahid.png" group-title="11باقة شاهد نت",AR:SHAHID:CINEMA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/662
-#EXTINF:-1 tvg-id="" tvg-name="AR:SHAHID_ZAMAN" tvg-logo="https://i.ibb.co/12Pcv64/shahid.png" group-title="11باقة شاهد نت",AR:SHAHID_ZAMAN
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/663
-#EXTINF:-1 tvg-id="" tvg-name="AR:SHAHID_ROAP" tvg-logo="https://i.ibb.co/12Pcv64/shahid.png" group-title="11باقة شاهد نت",AR:SHAHID_ROAP
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/664
+
 #EXTINF:-1 tvg-id="ext" group-title="4 رياضية SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="4 رياضية SPORT",Abu Dhabi Sports 1
@@ -292,26 +80,6 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XxIQQ" group-title="4 رياضية SPORT",DubaiRacing 3
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 1 Full-HD" tvg-logo="https://i.ibb.co/rtQgxx0/ksa-sports-1.png" group-title="4 رياضية SPORT",|AR| KSA SPORTS 1 Full-HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/665
-#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 2 Full-HD" tvg-logo="http://nooritv.live:25461/images/0588ec79ed14fbbdf282d2e686f6beee.png" group-title="4 رياضية SPORT",|AR| KSA SPORTS 2 Full-HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/666
-#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 3 Full-HD" tvg-logo="http://nooritv.live:25461/images/f0bf833e473abea6f9be140e8dda268e.png" group-title="4 رياضية SPORT",|AR| KSA SPORTS 3 Full-HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/667
-#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 4 Full-HD" tvg-logo="http://nooritv.live:25461/images/b747b1bb273910d05de469d4ea2687bd.png" group-title="4 رياضية SPORT",|AR| KSA SPORTS 4 Full-HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/668
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ON-Sport" tvg-logo="http://nooritv.live:25461/images/1be76edc705fd7db5a81f34e6665d6ca.png" group-title="4 رياضية SPORT",|AR| ON-Sport
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/669
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ON Sport 1" tvg-logo="http://nooritv.live:25461/images/1be76edc705fd7db5a81f34e6665d6ca.png" group-title="4 رياضية SPORT",|AR| ON Sport 1
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/670
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ON SPORTS 2" tvg-logo="http://nooritv.live:25461/images/1be76edc705fd7db5a81f34e6665d6ca.png" group-title="4 رياضية SPORT",|AR| ON SPORTS 2
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/671
-#EXTINF:-1 tvg-id="" tvg-name="|AR| LIBYA SPORTS HD" tvg-logo="https://i.ibb.co/4jxwSP4/lebya.png" group-title="4 رياضية SPORT",|AR| LIBYA SPORTS HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/672
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Zamalek Sports HD" tvg-logo="https://i.ibb.co/MfvmNYz/zmalek.png" group-title="4 رياضية SPORT",|AR| Zamalek Sports HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/673
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Alhilal tv HD" tvg-logo="https://i.pinimg.com/originals/08/f0/46/08f046ce634a9178f4efb7c1d75b85ef.png" group-title="4 رياضية SPORT",|AR| Alhilal tv HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/674
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364Yl52" group-title="4 رياضية SPORT",kuwait S.plus FHD
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cbhOEW" group-title="4 رياضية SPORT",KTV Sport FHD
@@ -926,32 +694,6 @@ http://185.96.70.242:1935/live/alltv/playlist.m3u8
 http://82.137.248.16:1935/RTartus/RTartusLive/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39UouFX" group-title="10 سوريةSyria",sham FM
 https://radioshamfm.grtvstream.com:8400/;
-#EXTINF:-1 tvg-id="" tvg-name="|AR| LANA + HD" tvg-logo="https://i.ibb.co/ZWXb9xF/lana-hd.png" group-title="10 سوريةSyria",|AR| LANA + HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/306
-#EXTINF:-1 tvg-id="" tvg-name="|AR| LANA HD" tvg-logo="https://i.ibb.co/yFCMf7h/lana.png" group-title="10 سوريةSyria",|AR| LANA HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/307
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SAMA TV HD" tvg-logo="https://i.ibb.co/gWwY3L4/sama-tv.png" group-title="10 سوريةSyria",|AR| SAMA TV HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/308
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIA DRAMA" tvg-logo="https://i.ibb.co/Z1CNvwf/Syria-Drama.png" group-title="10 سوريةSyria",|AR| SYRIA DRAMA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/309
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIA ALsuorya" tvg-logo="https://i.ibb.co/stcFXZG/Syria-Alikhbariya.png" group-title="10 سوريةSyria",|AR| SYRIA ALsuorya
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/310
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIA ALEKHBARIA" tvg-logo="https://i.ibb.co/bPnypkw/syria-alikhbarya.png" group-title="10 سوريةSyria",|AR| SYRIA ALEKHBARIA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/311
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SYRIA HD" tvg-logo="https://i.ibb.co/BN657D9/SYRIA-plus.png" group-title="10 سوريةSyria",|AR| SYRIA HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/312
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Syria Sham F" tvg-logo="https://i.ibb.co/TgSkbPN/ann-news-syria.png" group-title="10 سوريةSyria",|AR| Syria Sham F
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/313
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Syria Nour alsham" tvg-logo="https://i.ibb.co/wcxYCkT/nour-sham.png" group-title="10 سوريةSyria",|AR| Syria Nour alsham
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/314
-#EXTINF:-1 tvg-id="" tvg-name="|AR| HALAB ALYOUM" tvg-logo="https://i.ibb.co/PNV7wYq/image.png" group-title="10 سوريةSyria",|AR| HALAB ALYOUM
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/315
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Syria Tarbawi" tvg-logo="https://i.ibb.co/6JwQMsN/syria-tarbawi.png" group-title="10 سوريةSyria",|AR| Syria Tarbawi
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/316
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ٍSyria Souryana" tvg-logo="https://i.ibb.co/F5j1gBm/souryana-tv.png" group-title="10 سوريةSyria",|AR| ٍSyria Souryana
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/317
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Syria Alam" tvg-logo="https://i.ibb.co/pdJy1g0/syria-al3alam.png" group-title="10 سوريةSyria",|AR| Syria Alam
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/318
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="11 لبنانLEBANON",11 لبنانLEBANON
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="11 لبنانLEBANON",LBN-ldc lebanon SD
@@ -990,42 +732,6 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 http://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3rmSVuM" group-title="11 لبنانLEBANON",|AR| NBN HD
 https://nbntv.me:8443/nbntv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MTV HD" tvg-logo="https://www.watania.net/storage/698x433/uploads/uploadCenter/2020/04/1588072561nrZg5.png" group-title="11 لبنانLEBANON",|AR| MTV HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/319
-#EXTINF:-1 tvg-id="" tvg-name="|AR| NBN HD" tvg-logo="" group-title="11 لبنانLEBANON",|AR| NBN HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/320
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL JADEED" tvg-logo="" group-title="11 لبنانLEBANON",|AR| AL JADEED
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/321
-#EXTINF:-1 tvg-id="" tvg-name="|AR| LBC HD" tvg-logo="" group-title="11 لبنانLEBANON",|AR| LBC HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/323
-#EXTINF:-1 tvg-id="" tvg-name="|AR| HEYA TV" tvg-logo="" group-title="11 لبنانLEBANON",|AR| HEYA TV
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/324
-#EXTINF:-1 tvg-id="" tvg-name="|AR|  LB2" tvg-logo="" group-title="11 لبنانLEBANON",|AR|  LB2
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/325
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OTV HD" tvg-logo="" group-title="11 لبنانLEBANON",|AR| OTV HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/327
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Tl Lebanon" tvg-logo="" group-title="11 لبنانLEBANON",|AR| Tl Lebanon
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/328
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ONE" tvg-logo="" group-title="11 لبنانLEBANON",|AR| ONE
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/329
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Aghani" tvg-logo="https://www.lebanonchannels.com/sites/default/files/2A8ANI21.png" group-title="11 لبنانLEBANON",|AR| Aghani
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/330
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Arabicatv" tvg-logo="https://i.ibb.co/ZL7mcV0/unnamed.png" group-title="11 لبنانLEBANON",|AR| Arabicatv
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/331
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL Mayadeen" tvg-logo="" group-title="11 لبنانLEBANON",|AR| AL Mayadeen
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/333
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ALAAN HD" tvg-logo="" group-title="11 لبنانLEBANON",|AR| ALAAN HD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/334
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Nabaa" tvg-logo="" group-title="11 لبنانLEBANON",|AR| Nabaa
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/335
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Aletihad" tvg-logo="" group-title="11 لبنانLEBANON",|AR| Aletihad
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/336
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Eman Tv" tvg-logo="" group-title="11 لبنانLEBANON",|AR| Eman Tv
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/337
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Ifilm Tv" tvg-logo="" group-title="11 لبنانLEBANON",|AR| Ifilm Tv
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/338
-#EXTINF:-1 tvg-id="" tvg-name="|AR| NabaaTv" tvg-logo="" group-title="11 لبنانLEBANON",|AR| NabaaTv
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/339
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="12  فلسطينPALESTINE",PALESTINE  فلسيطين
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NShtgo" group-title="12  فلسطينPALESTINE",بيت لحم مباشر
@@ -1158,94 +864,6 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MjXvu7" group-title="15 المصرية Egypt",Fateh TV
 https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL OULA EGYPT" tvg-logo="http://www.teledunet.com/logo.php?id=1158" group-title="15 المصرية Egypt",AL OULA EGYPT
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/675
-#EXTINF:-1 tvg-id="" tvg-name="NILE INT" tvg-logo="http://www.teledunet.com/logo.php?id=101510" group-title="15 المصرية Egypt",NILE INT
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/676
-#EXTINF:-1 tvg-id="" tvg-name="ALHAYAT EGYPT" tvg-logo="http://www.teledunet.com/logo.php?id=10205" group-title="15 المصرية Egypt",ALHAYAT EGYPT
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/677
-#EXTINF:-1 tvg-id="" tvg-name="ON E" tvg-logo="http://www.teledunet.com/logo.php?id=10170" group-title="15 المصرية Egypt",ON E
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/678
-#EXTINF:-1 tvg-id="" tvg-name="TIME SPORTS" tvg-logo="http://www.teledunet.com/logo.php?id=1160" group-title="15 المصرية Egypt",TIME SPORTS
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/679
-#EXTINF:-1 tvg-id="" tvg-name="ALAHLY" tvg-logo="http://www.teledunet.com/logo.php?id=10203" group-title="15 المصرية Egypt",ALAHLY
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/680
-#EXTINF:-1 tvg-id="" tvg-name="FREE MUSIC" tvg-logo="http://www.teledunet.com/logo.php?id=1161" group-title="15 المصرية Egypt",FREE MUSIC
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/681
-#EXTINF:-1 tvg-id="" tvg-name="ALNAHAR" tvg-logo="http://www.teledunet.com/logo.php?id=10188" group-title="15 المصرية Egypt",ALNAHAR
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/682
-#EXTINF:-1 tvg-id="" tvg-name="ALNAHAR DRAMA" tvg-logo="http://www.teledunet.com/logo.php?id=10189" group-title="15 المصرية Egypt",ALNAHAR DRAMA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/683
-#EXTINF:-1 tvg-id="" tvg-name="DMC" tvg-logo="http://www.teledunet.com/logo.php?id=10179" group-title="15 المصرية Egypt",DMC
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/684
-#EXTINF:-1 tvg-id="" tvg-name="DMC DRAMA" tvg-logo="http://www.teledunet.com/logo.php?id=10180" group-title="15 المصرية Egypt",DMC DRAMA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/685
-#EXTINF:-1 tvg-id="" tvg-name="TEN EGYPT" tvg-logo="http://www.teledunet.com/logo.php?id=10201" group-title="15 المصرية Egypt",TEN EGYPT
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/686
-#EXTINF:-1 tvg-id="" tvg-name="CIMA" tvg-logo="http://www.teledunet.com/logo.php?id=10187" group-title="15 المصرية Egypt",CIMA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/687
-#EXTINF:-1 tvg-id="" tvg-name="CBC" tvg-logo="http://www.teledunet.com/logo.php?id=10192" group-title="15 المصرية Egypt",CBC
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/688
-#EXTINF:-1 tvg-id="" tvg-name="CBC XTRA NEWS" tvg-logo="http://www.teledunet.com/logo.php?id=1014497" group-title="15 المصرية Egypt",CBC XTRA NEWS
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/689
-#EXTINF:-1 tvg-id="" tvg-name="CBC DRAMA" tvg-logo="http://www.teledunet.com/logo.php?id=10193" group-title="15 المصرية Egypt",CBC DRAMA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/690
-#EXTINF:-1 tvg-id="" tvg-name="CBC SOFRA" tvg-logo="http://www.teledunet.com/logo.php?id=10194" group-title="15 المصرية Egypt",CBC SOFRA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/691
-#EXTINF:-1 tvg-id="" tvg-name="CAIRO DRAMA" tvg-logo="http://www.teledunet.com/logo.php?id=10176" group-title="15 المصرية Egypt",CAIRO DRAMA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/692
-#EXTINF:-1 tvg-id="" tvg-name="CAIRO CINEMA" tvg-logo="http://www.teledunet.com/logo.php?id=10175" group-title="15 المصرية Egypt",CAIRO CINEMA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/693
-#EXTINF:-1 tvg-id="" tvg-name="DREAM TV" tvg-logo="http://www.teledunet.com/logo.php?id=1164" group-title="15 المصرية Egypt",DREAM TV
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/694
-#EXTINF:-1 tvg-id="" tvg-name="ALMOULED" tvg-logo="http://www.teledunet.com/logo.php?id=10196" group-title="15 المصرية Egypt",ALMOULED
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/695
-#EXTINF:-1 tvg-id="" tvg-name="PANORAMA FOOD" tvg-logo="http://www.teledunet.com/logo.php?id=10206" group-title="15 المصرية Egypt",PANORAMA FOOD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/696
-#EXTINF:-1 tvg-id="" tvg-name="PANORAMA DRAMA" tvg-logo="http://www.teledunet.com/logo.php?id=10207" group-title="15 المصرية Egypt",PANORAMA DRAMA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/697
-#EXTINF:-1 tvg-id="" tvg-name="PANORAMA DRAMA 2" tvg-logo="http://www.teledunet.com/logo.php?id=10208" group-title="15 المصرية Egypt",PANORAMA DRAMA 2
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/698
-#EXTINF:-1 tvg-id="" tvg-name="PANORAMA FILM" tvg-logo="http://www.teledunet.com/logo.php?id=20208" group-title="15 المصرية Egypt",PANORAMA FILM
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/699
-#EXTINF:-1 tvg-id="" tvg-name="NILE CINEMA" tvg-logo="http://www.teledunet.com/logo.php?id=10186" group-title="15 المصرية Egypt",NILE CINEMA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/700
-#EXTINF:-1 tvg-id="" tvg-name="NILE COMEDY" tvg-logo="http://www.teledunet.com/logo.php?id=10182" group-title="15 المصرية Egypt",NILE COMEDY
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/701
-#EXTINF:-1 tvg-id="" tvg-name="NILE DRAMA" tvg-logo="http://www.teledunet.com/logo.php?id=10184" group-title="15 المصرية Egypt",NILE DRAMA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/702
-#EXTINF:-1 tvg-id="" tvg-name="NILE NEWS" tvg-logo="http://www.teledunet.com/logo.php?id=10185" group-title="15 المصرية Egypt",NILE NEWS
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/703
-#EXTINF:-1 tvg-id="" tvg-name="NILE SPORTS" tvg-logo="http://www.teledunet.com/logo.php?id=10183" group-title="15 المصرية Egypt",NILE SPORTS
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/704
-#EXTINF:-1 tvg-id="" tvg-name="ALTHANIYA EGYPT" tvg-logo="http://www.teledunet.com/logo.php?id=12285" group-title="15 المصرية Egypt",ALTHANIYA EGYPT
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/705
-#EXTINF:-1 tvg-id="" tvg-name="ALKAHERA W NESS" tvg-logo="http://www.teledunet.com/logo.php?id=10177" group-title="15 المصرية Egypt",ALKAHERA W NESS
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/706
-#EXTINF:-1 tvg-id="" tvg-name="ALKAHERA W NESS 2" tvg-logo="http://www.teledunet.com/logo.php?id=1163" group-title="15 المصرية Egypt",ALKAHERA W NESS 2
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/707
-#EXTINF:-1 tvg-id="" tvg-name="ALMEHWAR" tvg-logo="http://www.teledunet.com/logo.php?id=10202" group-title="15 المصرية Egypt",ALMEHWAR
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/708
-#EXTINF:-1 tvg-id="" tvg-name="AL MEKAMELEN" tvg-logo="http://www.teledunet.com/logo.php?id=101541" group-title="15 المصرية Egypt",AL MEKAMELEN
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/709
-#EXTINF:-1 tvg-id="" tvg-name="AL WATAN EGYPT" tvg-logo="http://www.teledunet.com/logo.php?id=101505" group-title="15 المصرية Egypt",AL WATAN EGYPT
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/710
-#EXTINF:-1 tvg-id="" tvg-name="SADA ALBALAD" tvg-logo="http://www.teledunet.com/logo.php?id=10190" group-title="15 المصرية Egypt",SADA ALBALAD
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/711
-#EXTINF:-1 tvg-id="" tvg-name="SADA ALBALAD DRAMA" tvg-logo="http://www.teledunet.com/logo.php?id=10191" group-title="15 المصرية Egypt",SADA ALBALAD DRAMA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/712
-#EXTINF:-1 tvg-id="" tvg-name="AL BAIT BAITAK CINEMA" tvg-logo="http://www.teledunet.com/logo.php?id=1165" group-title="15 المصرية Egypt",AL BAIT BAITAK CINEMA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/713
-#EXTINF:-1 tvg-id="" tvg-name="AL MASRAWIA" tvg-logo="http://www.teledunet.com/logo.php?id=1166" group-title="15 المصرية Egypt",AL MASRAWIA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/714
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA PRO" tvg-logo="http://www.teledunet.com/logo.php?id=1167" group-title="15 المصرية Egypt",CINEMA PRO
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/715
-#EXTINF:-1 tvg-id="" tvg-name="CIMA ALI BABA" tvg-logo="http://www.teledunet.com/logo.php?id=10198" group-title="15 المصرية Egypt",CIMA ALI BABA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/716
-#EXTINF:-1 tvg-id="" tvg-name="M CINEMA" tvg-logo="http://www.teledunet.com/logo.php?id=1168" group-title="15 المصرية Egypt",M CINEMA
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/717
-#EXTINF:-1 tvg-id="" tvg-name="TOKTOK AFLAM" tvg-logo="http://www.teledunet.com/logo.php?id=50350" group-title="15 المصرية Egypt",TOKTOK AFLAM
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/718
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="16 المغربMAROCCO",16 المغربMAROCCO 
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="16 المغربMAROCCO",AL_Aoula_InterTV
@@ -1280,68 +898,12 @@ http://streaming.toutech.net/live/jfm/index.m3u8
 https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sO1vUt" group-title="17  تونسTUNISIE",Tunimmob TV
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Hannibal TV" tvg-logo="" group-title="17  تونسTUNISIE",|AR| Hannibal TV
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/340
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Watania 1" tvg-logo="" group-title="17  تونسTUNISIE",|AR| Al Watania 1
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/341
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Watania 2" tvg-logo="" group-title="17  تونسTUNISIE",|AR| Al Watania 2
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/342
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Immobilier TV" tvg-logo="" group-title="17  تونسTUNISIE",|AR| Immobilier TV
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/343
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Aljanobia" tvg-logo="" group-title="17  تونسTUNISIE",|AR| Aljanobia
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/344
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Nessma" tvg-logo="" group-title="17  تونسTUNISIE",|AR| Nessma
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/345
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Radio Jawhara" tvg-logo="" group-title="17  تونسTUNISIE",|AR| Radio Jawhara
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/346
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Tunisie immob" tvg-logo="" group-title="17  تونسTUNISIE",|AR| Tunisie immob
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/347
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Tunisie immob 2" tvg-logo="" group-title="17  تونسTUNISIE",|AR| Tunisie immob 2
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/348
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Hiwar Tunisi" tvg-logo="" group-title="17  تونسTUNISIE",|AR| Al Hiwar Tunisi
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/349
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Sahel tv" tvg-logo="" group-title="17  تونسTUNISIE",|AR| Sahel tv
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/350
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Zaytona" tvg-logo="" group-title="17  تونسTUNISIE",|AR| Al Zaytona
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/351
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Teassia" tvg-logo="" group-title="17  تونسTUNISIE",|AR| Al Teassia
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/352
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3a0beyJ" group-title="18  الجزائرALGERIEN",18  الجزائرALGERIEN
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext" group-title="18  الجزائرALGERIEN",EL nahar Alg
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="18  الجزائرALGERIEN",EchoroukTV
 http://217.182.250.232:8081/echo/EchoroukTV/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Nahar" tvg-logo="" group-title="18  الجزائرALGERIEN",|AR| Al Nahar
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/719
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Jazair N1" tvg-logo="" group-title="18  الجزائرALGERIEN",|AR| Al Jazair N1
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/720
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Jazair 2" tvg-logo="" group-title="18  الجزائرALGERIEN",|AR| Al Jazair 2
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/721
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Samira Tv" tvg-logo="" group-title="18  الجزائرALGERIEN",|AR| Samira Tv
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/722
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Eshorouk" tvg-logo="" group-title="18  الجزائرALGERIEN",|AR| Eshorouk
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/723
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Eshorouk News" tvg-logo="" group-title="18  الجزائرALGERIEN",|AR| Eshorouk News
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/724
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ALGERIEN  1" tvg-logo="" group-title="18  الجزائرALGERIEN",|AR| ALGERIEN  1
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/725
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ALGERIEN 2" tvg-logo="" group-title="18  الجزائرALGERIEN",|AR| ALGERIEN 2
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/726
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ALGERIEN 3" tvg-logo="" group-title="18  الجزائرALGERIEN",|AR| ALGERIEN 3
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/727
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Hadaf" tvg-logo="" group-title="18  الجزائرALGERIEN",|AR| Al Hadaf
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/728
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Beur tv" tvg-logo="" group-title="18  الجزائرALGERIEN",|AR| Beur tv
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/729
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL HAYAT rtm" tvg-logo="" group-title="18  الجزائرALGERIEN",|AR| AL HAYAT rtm
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/730
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Chaine Nord-Africaine" tvg-logo="" group-title="18  الجزائرALGERIEN",|AR| Chaine Nord-Africaine
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/731
-#EXTINF:-1 tvg-id="" tvg-name="AR| Al Fajer" tvg-logo="" group-title="18  الجزائرALGERIEN",AR| Al Fajer
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/732
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Alhayat Algeria" tvg-logo="" group-title="18  الجزائرALGERIEN",|AR| Alhayat Algeria
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/733
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o7ZAXp" group-title="19  ليبياLIBYA",19  ليبياLIBYA
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sQEUH9" group-title="19  ليبياLIBYA",LIB-Libya 218
@@ -1538,29 +1100,6 @@ https://master.starmena-cloud.com/hls/aden.m3u8?v=2957056943
 http://82.212.74.99:8000/live/8173.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y7xLnq" group-title="27 اليمن Yemen",قناة السعيدة
 http://82.212.74.99:8000/live/hls/8173.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN DOCUMENT" tvg-logo="http://www.teledunet.com/logo.php?id=1190" group-title="27 اليمن Yemen",YEMEN DOCUMENT
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/353
-#EXTINF:-1 tvg-id="" tvg-name="YAMEN" tvg-logo="http://www.teledunet.com/logo.php?id=10243" group-title="27 اليمن Yemen",YAMEN
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/354
-#EXTINF:-1 tvg-id="" tvg-name="HADRAMAOUT YAMEN" tvg-logo="http://www.teledunet.com/logo.php?id=1191" group-title="27 اليمن Yemen",HADRAMAOUT YAMEN
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/355
-#EXTINF:-1 tvg-id="" tvg-name="SHEBA YAMEN" tvg-logo="http://www.teledunet.com/logo.php?id=1192" group-title="27 اليمن Yemen",SHEBA YAMEN
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/356
-#EXTINF:-1 tvg-id="" tvg-name="BELQEES YEMEN" tvg-logo="http://www.teledunet.com/logo.php?id=1193" group-title="27 اليمن Yemen",BELQEES YEMEN
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/357
-#EXTINF:-1 tvg-id="" tvg-name="ALSAEEDAH YAMEN" tvg-logo="http://www.teledunet.com/logo.php?id=10244" group-title="27 اليمن Yemen",ALSAEEDAH YAMEN
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/358
-#EXTINF:-1 tvg-id="" tvg-name="ADEN YAMEN" tvg-logo="http://www.teledunet.com/logo.php?id=10245" group-title="27 اليمن Yemen",ADEN YAMEN
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/359
-#EXTINF:-1 tvg-id="" tvg-name="YAMEN SHABAB" tvg-logo="http://www.teledunet.com/logo.php?id=1194" group-title="27 اليمن Yemen",YAMEN SHABAB
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/360
-#EXTINF:-1 tvg-id="" tvg-name="SUHAIL TV YAMEN" tvg-logo="http://www.teledunet.com/logo.php?id=1195" group-title="27 اليمن Yemen",SUHAIL TV YAMEN
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/361
-#EXTINF:-1 tvg-id="" tvg-name="ALGHAD YAMEN" tvg-logo="http://www.teledunet.com/logo.php?id=1196" group-title="27 اليمن Yemen",ALGHAD YAMEN
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/362
-#EXTINF:-1 tvg-id="" tvg-name="ALMASIRAH YAMEN" tvg-logo="http://www.teledunet.com/logo.php?id=10247" group-title="27 اليمن Yemen",ALMASIRAH YAMEN
-http://95.216.15.51:80/airmaxtvproalll/xRdbwzWbOR/363
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.elahmad.com/tv/images/somali_channels.jpg" group-title="28  الصومالSomalia‎",28  الصومالSomalia
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/HCTV_LOGO.png" group-title="28  الصومالSomalia‎",Horn Cable TV
