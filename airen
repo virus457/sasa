@@ -661,7 +661,7 @@ http://82.137.248.16:1935/Drama/stream14042021/chunklist_w500339942.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3fQhIEU" group-title="10 سوريةSyria",SYRIA TV
 http://82.137.248.16:1935/Sat/stream14042021/chunklist_w1646047174.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="10 سوريةSyria",SYR-AL EKHBARIYA SD
-http://vod.alikhbaria.net:1935/Snews/stream10112020/playlist.m3u8
+http://82.137.248.16:1935/Snews/stream14042021/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eR8QSEt.png" group-title="10 سوريةSyria",SYR-SOURYANA SD
 http://82.137.248.16:1935/Souryana/stream14042021/chunklist_w265952236.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="10 سوريةSyria",SYR-Education TV SD
@@ -919,7 +919,7 @@ https://master.starmena-cloud.com/hls/jam.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39Ug5Bs" group-title="19  ليبياLIBYA",LIB-AL HADATH HD
 https://master.starmena-cloud.com/hls/hd.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NvFQjV" group-title="19  ليبياLIBYA",قناه السلام
-https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/chunklist.m3u8
+https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/kLY3RDoTRIjuR_1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/366lp3n" group-title="19  ليبياLIBYA",Libya februar
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/2CDKh6w" group-title="19  ليبياLIBYA",قناة الوسط - WTV
