@@ -1434,6 +1434,8 @@ https://cdn.alarab.com/h264/163245_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/163383_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2LO20xb" group-title="مسلسل التركي الحفرة",الحلقةS04E32
 https://proxy-08.sv4.dailymotion.com/sec(JhNEqfWhRAthJ1xop57lhomOSH0ECGICjDZZUo29S2v5ZnacXrCXeF7S22MsUXjZE4gmx2EZfEcsEGGmn30L2to_j6Z4P1zrMmLUfhgWvVE)/video/997/707/484707799_mp4_h264_aac_hq.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2LO20xb" group-title="مسلسل التركي الحفرة",الحلقةS04E33
+https://proxy-06.nyc.dailymotion.com/sec(4D9qlkTX-vRCFXZHYHjCmrd_3gU953Y2bxboGE1Vn2dgI1BS3fOVjopUhXjx3rQSobPh2sY_YVL4axFlg8vJUq2EwrG_TQ-cmvdid_LJScI)/video/061/159/484951160_mp4_h264_aac_hq.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3p1cFmD" group-title="مسلسل التركي قطاع الطرق لن يحكمواالعالم",الحلقةS02E01
 https://cdn.alarab.com/numeric/106250.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3p1cFmD" group-title="مسلسل التركي قطاع الطرق لن يحكمواالعالم",الحلقةS02E02
@@ -1772,8 +1774,12 @@ https://cdn.alarab.com/h264/163151_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/163263_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3o3xJrs" group-title="مسلسل التركي مرعشلي",الحلقةS01E13
 https://cdn.alarab.com/h264/163263_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3o3xJrs" group-title="مسلسل التركي مرعشلي",الحلقةS01E14
+https://proxy-06.sv4.dailymotion.com/sec(FLFdH0c5j5Zp8M-elVmfOM4B9bJDilekPr_Z_hmlilSIwwE1FnsWojglaSw7q4N4wt8vGENI1h_933dNF2afb-LRJpdGKBaSWbX5rcb1NRo)/video/957/159/484951759_mp4_h264_aac_hq.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3tkJRI6" group-title="مسلسل التركي فتاةالنافذة",الحلقةS01E01
 https://cdn.alarab.com/h264/163514_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3dyiaG9" group-title="مسلسل التركي بيت من ورق",الحلقةS01E01
+https://proxy-25.sv4.dailymotion.com/sec(xC_iF4nXGoWVwevj08vdLeSjyol0WwUyqSDsR-aVPnOiClXC3TlkNq5_FMrYaZ8H2mUuFCwTJasjfAlkt7y4wmghg1QTEIrq4N2qSIlLC7M)/video/078/459/484954870_mp4_h264_aac_hq.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3bWPYfD" group-title="مسلسل التركي المغوار",الحلقةS01E01
 https://cdn.alarab.com/h264/161614_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3bWPYfD" group-title="مسلسل التركي المغوار",الحلقةS01E02
