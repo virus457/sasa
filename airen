@@ -1047,7 +1047,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39SAffa" group-title="26 الامارات EMIRATES",26 الامارات EMIRATES (الدقة التلقائية)
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/398tt5G" group-title="26 الامارات EMIRATES",Dubai TV (الدقة التلقائية)
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/31lkwkD" group-title="26 الامارات EMIRATES",Dubai One (الدقة التلقائية)
 https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c41Cp9" group-title="26 الامارات EMIRATES",DUB-NOOR DUBAI HD (الدقة التلقائية)
