@@ -27,22 +27,26 @@ https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 http://live.btv2020.com:1935/live/btv/chunklist.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/2NShtgo" group-title="1قنوات بين سبور BEIN SPORT",0تعمل وقت المبارات المهمه+
 http://live.btv2020.com:1935/live/btv2/chunklist.m3u8
+#EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/2NShtgo" group-title="1قنوات بين سبور BEIN SPORT",00
+https://d164n3lz4z969q.cloudfront.net/out/v1/b0a77f414e5b4244a2fd32b46424f023/index.m3u8
+#EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/2NShtgo" group-title="1قنوات بين سبور BEIN SPORT",00
+https://d164n3lz4z969q.cloudfront.net/out/v1/b0a77f414e5b4244a2fd32b46424f023/index_2.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="1قنوات بين سبور BEIN SPORT",1تعمل وقت المبارات المهمه
-https://d3jq0v5rp9mor6.cloudfront.net/out/v1/b7ab5ae0bd3e43b3999bd52251134975/index.m3u8
+https://d29aursbirsqp5.cloudfront.net/out/v1/7c3ea5cf38c142da996ce6cb2416d9ba/index_2.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="1قنوات بين سبور BEIN SPORT",1+تعمل وقت المبارات المهمه
-https://d3jq0v5rp9mor6.cloudfront.net/out/v1/b7ab5ae0bd3e43b3999bd52251134975/index_2.m3u8
+https://d29aursbirsqp5.cloudfront.net/out/v1/7c3ea5cf38c142da996ce6cb2416d9ba/index.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="1قنوات بين سبور BEIN SPORT",2تعمل وقت المبارات المهمه
-https://d7ztq7pgce6qv.cloudfront.net/out/v1/e3ae88b211bf4ebdb93550b3ae9b95d9/index.m3u8
+https://d1oov6dbhqjdro.cloudfront.net/out/v1/61a4dc838fad4420a04c823d832a77e4/index.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="1قنوات بين سبور BEIN SPORT",2تعمل وقت المبارات المهمه+
-https://d7ztq7pgce6qv.cloudfront.net/out/v1/e3ae88b211bf4ebdb93550b3ae9b95d9/index_2.m3u8
+https://d1oov6dbhqjdro.cloudfront.net/out/v1/61a4dc838fad4420a04c823d832a77e4/index_2.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="1قنوات بين سبور BEIN SPORT",3تعمل وقت المبارات المهمه
 https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/e00b614328d54f0ab2ee17b41763d04d/index.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="1قنوات بين سبور BEIN SPORT",3تعمل وقت المبارات المهمه
 https://15595674c0604ed6.mediapackage.eu-central-1.amazonaws.com/out/v1/e00b614328d54f0ab2ee17b41763d04d/index_2.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="1قنوات بين سبور BEIN SPORT",4تعمل وقت المبارات المهمه
-https://d1es6hg4pv9m4j.cloudfront.net/out/v1/9809c9f03daa41679a76319b8f32977a/index.m3u8
+https://d34f1njppjefqp.cloudfront.net/out/v1/5dab309b302b4432b8efb11942e0e3ce/index.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="1قنوات بين سبور BEIN SPORT",4تعمل وقت المبارات المهمه+
-https://d1es6hg4pv9m4j.cloudfront.net/out/v1/9809c9f03daa41679a76319b8f32977a/index_2.m3u8
+https://d34f1njppjefqp.cloudfront.net/out/v1/5dab309b302b4432b8efb11942e0e3ce/index_2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MI09dC" group-title="1قنوات بين سبور BEIN SPORT",BEIN​ SPORT​1 HD
 https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mm8qUD" group-title="1قنوات بين سبور BEIN SPORT",BEIN​ SPORT​2 HD
