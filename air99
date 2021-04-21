@@ -727,17 +727,17 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_480p_chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="10قنوات سوريةSyria",SYR-SYRIA PLUS 
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3wDff6o" group-title="10قنوات سوريةSyria",SYRIA DRAMA
-http://82.137.248.16:1935/Drama/stream14042021/chunklist_w500339942.m3u8
+http://82.137.248.16:1935/Drama/stream19042021/chunklist_w1020462113.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3fQhIEU" group-title="10قنوات سوريةSyria",SYRIA TV
-http://82.137.248.16:1935/Sat/stream14042021/chunklist_w1646047174.m3u8
+http://82.137.248.16:1935/Sat/stream19042021/chunklist_w1577667525.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="10قنوات سوريةSyria",SYR-AL EKHBARIYA SD
-http://82.137.248.16:1935/Snews/stream14042021/playlist.m3u8
+http://82.137.248.16:1935/Snews/stream19042021/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eR8QSEt.png" group-title="10قنوات سوريةSyria",SYR-SOURYANA SD
-http://82.137.248.16:1935/Souryana/stream14042021/chunklist_w265952236.m3u8
+http://82.137.248.16:1935/Souryana/stream19042021/chunklist_w265952236.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="10قنوات سوريةSyria",SYR-Education TV SD
-http://82.137.248.16:1935/SEdu/stream14042021/chunklist_w154209152.m3u8
+http://82.137.248.16:1935/SEdu/stream19042021/chunklist_w1906671677.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Dy2Eo33.png" group-title="10قنوات سوريةSyria",SYR-Noor Al-Sham
-http://82.137.248.16:1935/Nour/stream14042021/chunklist_w1594837314.m3u8
+http://82.137.248.16:1935/Nour/stream19042021/chunklist_w92417698.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pdJy1g0/syria-al3alam.png" group-title="10قنوات سوريةSyria",|AR| Syria Alam
 https://live2.alalamtv.net/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cRDOoO" group-title="10قنوات سوريةSyria",SYR-ALalam Syria
