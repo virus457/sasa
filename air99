@@ -47,6 +47,12 @@ https://d34f1njppjefqp.cloudfront.net/out/v1/5dab309b302b4432b8efb11942e0e3ce/in
 https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mm8qUD" group-title="1قنوات بين سبور BEIN SPORT",BEIN​ SPORT​2 HD
 https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="باقة وياك VIP",▂ ▄ ▅ ▆☆ باقة وياك VIP ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="ext" group-title="باقة وياك VIP",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
+
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",▂ ▄ ▅ ▆☆ OSN ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
