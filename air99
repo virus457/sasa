@@ -795,7 +795,7 @@ https://manar.live/iptv/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MLitCk" group-title="11قنوات لبنانLEBANON",LBN- AL-IMAN-TV SD
 https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r6LK9E" group-title="11قنوات لبنانLEBANON",LBN-AL Mayadeen SD
-http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist.m3u8
+https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qI1eRh" group-title="11قنوات لبنانLEBANON",LBN-ALAAN HD
 https://stream-08.ix7.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xiPPuC-YZBzdzWEOQyx0eNY)/dm/3/x74wje5/s/live-2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mcmyjp" group-title="11قنوات لبنانLEBANON",Aeeshalaan SD
