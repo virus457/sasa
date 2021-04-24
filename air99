@@ -1334,6 +1334,8 @@ http://audiostreaming.itworkscdn.com:9066/;stream.mp3
 http://live02.mc-doualiya.com/mc-doualiya.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="31قنوات اسلاميةIslami",31قنوات اسلاميةIslami
 https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2S0StFW" group-title="31قنوات اسلاميةIslami",ALresalah TV
+https://shls-rotana-alresalah-prod-dub.shahid.net/out/v1/936b89606b5e48db8ca28caa40adc886/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3efx1Ge" group-title="31قنوات اسلاميةIslami",Daawah TV
 http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://iqraa.com/assets/images/Logo/Iqraa-Logo.png" group-title="31قنوات اسلاميةIslami",Iqraa Europe
