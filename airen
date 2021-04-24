@@ -1289,6 +1289,8 @@ http://m.live.net.sa:1935/live/quran/gmswf.m3u8
 http://82.212.74.2:8000/live/7307.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="31 اسلاميةIslami",makkah tv
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="31 اسلاميةIslami",وصال tv
+http://live.noorlive.com:1935/wesal/wesal1/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="31 اسلاميةIslami",الارث النبوي
 rtmp://82.212.74.2/live//7207
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="31 اسلاميةIslami",Quran Stream
