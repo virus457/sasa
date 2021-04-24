@@ -753,18 +753,18 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 http://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LQixAW" group-title="11 لبنانLEBANON",Aljadeed
 http://93.184.1.247/Aljadeed/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="otv" tvg-logo="" group-title="11قنوات لبنانLEBANON",otv
-http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/25.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="nbn" tvg-logo="" group-title="11قنوات لبنانLEBANON",nbn
-http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/26.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="jadeed33" tvg-logo="" group-title="11قنوات لبنانLEBANON",jadeed33
-http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="jadeed44" tvg-logo="" group-title="11قنوات لبنانLEBANON",jadeed44
-http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mtv" tvg-logo="" group-title="11قنوات لبنانLEBANON",mtv
-http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/136.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3rmSVuM" group-title="11 لبنانLEBANON",|AR| NBN HD
 https://nbntv.me:8443/nbntv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="otv" tvg-logo="" group-title="11 لبنانLEBANON",otv
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/25.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="nbn" tvg-logo="" group-title="11 لبنانLEBANON",nbn
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/26.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="jadeed33" tvg-logo="" group-title="11 لبنانLEBANON",jadeed33
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="jadeed44" tvg-logo="" group-title="11 لبنانLEBANON",jadeed44
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="mtv" tvg-logo="" group-title="11 لبنانLEBANON",mtv
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/136.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="12  فلسطينPALESTINE",PALESTINE  فلسيطين
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NShtgo" group-title="12  فلسطينPALESTINE",بيت لحم مباشر
