@@ -10,5 +10,86 @@ https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://content.weyyak.com/25a860af-4bbc-4289-8e1f-b3bed0dcc64a/poster-image" group-title="باقة وياك VIP",Zee Alwan
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="lana" tvg-logo="" group-title="10قنوات سوريةSyria",lana
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/31.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="lana +" tvg-logo="" group-title="10قنوات سوريةSyria",lana +
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sy drama" tvg-logo="" group-title="10قنوات سوريةSyria",sy drama
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sama1" tvg-logo="" group-title="10قنوات سوريةSyria",sama1
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/135.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="otv" tvg-logo="" group-title="11قنوات لبنانLEBANON",otv
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/25.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="nbn" tvg-logo="" group-title="11قنوات لبنانLEBANON",nbn
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/26.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="jadeed33" tvg-logo="" group-title="11قنوات لبنانLEBANON",jadeed33
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="jadeed44" tvg-logo="" group-title="11قنوات لبنانLEBANON",jadeed44
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="mtv" tvg-logo="" group-title="11قنوات لبنانLEBANON",mtv
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/136.m3u8
+
+
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MbqtfQ" group-title="13قنوات الاردنJORDAN",Roya TV 
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="on time" tvg-logo="" group-title="15 المصرية Egypt",on time
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="on time 2" tvg-logo="" group-title="15 المصرية Egypt",on time 2
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/19.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="on time 3" tvg-logo="" group-title="15 المصرية Egypt",on time 3
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="on e" tvg-logo="" group-title="15 المصرية Egypt",on e
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="on drama" tvg-logo="" group-title="15 المصرية Egypt",on drama
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="cbc" tvg-logo="" group-title="15 المصرية Egypt",cbc
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/27.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="iraq" tvg-logo="" group-title="15 المصرية Egypt",iraq
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="dmc" tvg-logo="" group-title="15 المصرية Egypt",dmc
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/30.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="cbc sofra" tvg-logo="" group-title="15 المصرية Egypt",cbc sofra
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="dmc drama" tvg-logo="" group-title="15 المصرية Egypt",dmc drama
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="zee alwan" tvg-logo="" group-title="15 المصرية Egypt",zee alwan
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="nile sport" tvg-logo="" group-title="15 المصرية Egypt",nile sport
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="zee aflam" tvg-logo="" group-title="15 المصرية Egypt",zee aflam
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="nahar" tvg-logo="" group-title="15 المصرية Egypt",nahar
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="nile drama" tvg-logo="" group-title="15 المصرية Egypt",nile drama
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="braem" tvg-logo="" group-title="15 المصرية Egypt",braem
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/42.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="cbc drama" tvg-logo="" group-title="15 المصرية Egypt",cbc drama
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/43.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="nahar drama" tvg-logo="" group-title="15 المصرية Egypt",nahar drama
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sada" tvg-logo="" group-title="15 المصرية Egypt",sada
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/52.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sada drama" tvg-logo="" group-title="15 المصرية Egypt",sada drama
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/53.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="b4u" tvg-logo="" group-title="15 المصرية Egypt",b4u
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="kahera" tvg-logo="" group-title="15 المصرية Egypt",kahera
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="hayat eg" tvg-logo="" group-title="15 المصرية Egypt",hayat eg
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="mix" tvg-logo="" group-title="15 المصرية Egypt",mix
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DMC1" tvg-logo="" group-title="15 المصرية Egypt",DMC1
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="on e 1" tvg-logo="" group-title="15 المصرية Egypt",on e 1
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/134.m3u8
+
