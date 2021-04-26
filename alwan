@@ -233,43 +233,47 @@ http://65.21.32.185:80/airmaxsh/BOxvqgMxXQ/50
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX KIDS SD" tvg-logo="http://blackfiretv.com/NETFLIX/kids.png" group-title="3قنوات نتفليكسNETFLIX",NETFLIX KIDS SD
-http://65.21.32.185:80/airmaxne/m5MUnQQnk7/51
+http://65.21.32.185:80/airmaxne/m5MUnQQnk7/248
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX action SD" tvg-logo="https://blackfiretv.com/NETFLIX/action.png" group-title="3قنوات نتفليكسNETFLIX",NETFLIX action SD
-http://65.21.32.185:80/airmaxne/m5MUnQQnk7/52
+http://65.21.32.185:80/airmaxne/m5MUnQQnk7/249
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 2 SD" tvg-logo="https://blackfiretv.com/NETFLIX/action.png" group-title="3قنوات نتفليكسNETFLIX",NETFLIX ACTION 2 SD
-http://65.21.32.185:80/airmaxne/m5MUnQQnk7/53
+http://65.21.32.185:80/airmaxne/m5MUnQQnk7/250
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX Bollywood SD" tvg-logo="http://blackfiretv.com/NETFLIX/Bollywood.png" group-title="3قنوات نتفليكسNETFLIX",NETFLIX Bollywood SD
-http://65.21.32.185:80/airmaxne/m5MUnQQnk7/54
+http://65.21.32.185:80/airmaxne/m5MUnQQnk7/251
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX Comedy SD" tvg-logo="http://blackfiretv.com/NETFLIX/Comedy.png" group-title="3قنوات نتفليكسNETFLIX",NETFLIX Comedy SD
-http://65.21.32.185:80/airmaxne/m5MUnQQnk7/55
+http://65.21.32.185:80/airmaxne/m5MUnQQnk7/252
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX Crime SD" tvg-logo="http://blackfiretv.com/NETFLIX/Crime.png" group-title="3قنوات نتفليكسNETFLIX",NETFLIX Crime SD
-http://65.21.32.185:80/airmaxne/m5MUnQQnk7/56
+http://65.21.32.185:80/airmaxne/m5MUnQQnk7/253
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA SD" tvg-logo="http://blackfiretv.com/NETFLIX/Drama.png" group-title="3قنوات نتفليكسNETFLIX",NETFLIX DRAMA SD
-http://65.21.32.185:80/airmaxne/m5MUnQQnk7/57
+http://65.21.32.185:80/airmaxne/m5MUnQQnk7/254
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX Family SD" tvg-logo="http://blackfiretv.com/NETFLIX/family.png" group-title="3قنوات نتفليكسNETFLIX",NETFLIX Family SD
-http://65.21.32.185:80/airmaxne/m5MUnQQnk7/58
+http://65.21.32.185:80/airmaxne/m5MUnQQnk7/255
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX Thriller SD" tvg-logo="http://blackfiretv.com/NETFLIX/Thriller.png" group-title="3قنوات نتفليكسNETFLIX",NETFLIX Thriller SD
-http://65.21.32.185:80/airmaxne/m5MUnQQnk7/59
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Action" tvg-logo="https://i.ibb.co/S56x0vx/netflix-ac.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Action
-http://65.21.32.185:80/airmaxne/m5MUnQQnk7/60
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror" tvg-logo="https://i.ibb.co/3hsDZBD/horrnr.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Horror
-http://65.21.32.185:80/airmaxne/m5MUnQQnk7/61
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Thriller" tvg-logo="https://i.ibb.co/4SMqytZ/Netflix-Thriller.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Thriller
-http://65.21.32.185:80/airmaxne/m5MUnQQnk7/62
+http://65.21.32.185:80/airmaxne/m5MUnQQnk7/256
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 4K Action" tvg-logo="https://i.ibb.co/S56x0vx/netflix-ac.png" group-title="3قنوات نتفليكسNETFLIX",Netflix 4K Action
+http://65.21.32.185:80/airmaxne/m5MUnQQnk7/257
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 4K Horror" tvg-logo="https://i.ibb.co/3hsDZBD/horrnr.png" group-title="3قنوات نتفليكسNETFLIX",Netflix 4K Horror
+http://65.21.32.185:80/airmaxne/m5MUnQQnk7/258
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 4K Thriller" tvg-logo="https://i.ibb.co/4SMqytZ/Netflix 4K-Thriller.png" group-title="3قنوات نتفليكسNETFLIX",Netflix 4K Thriller
+http://65.21.32.185:80/airmaxne/m5MUnQQnk7/259
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX SCI" tvg-logo="https://i.ibb.co/W6SSNQy/netflix-SCI.png" group-title="3قنوات نتفليكسNETFLIX",NETFLIX SCI
-http://65.21.32.185:80/airmaxne/m5MUnQQnk7/63
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX Animation" tvg-logo="https://i.ibb.co/1ZmJhWT/NETFLIX-Animation.png" group-title="3قنوات نتفليكسNETFLIX",NETFLIX Animation
-http://65.21.32.185:80/airmaxne/m5MUnQQnk7/64
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy" tvg-logo="https://i.ibb.co/DYvYcF1/netflix-comedy.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Comedy
-http://65.21.32.185:80/airmaxne/m5MUnQQnk7/65
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Bollywood" tvg-logo="https://i.ibb.co/cwm8CHf/netflix-bollywood.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Bollywood
-http://65.21.32.185:80/airmaxne/m5MUnQQnk7/66
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Drama" tvg-logo="https://i.ibb.co/wB9SYNt/netflix-Drama.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Drama
-http://65.21.32.185:80/airmaxne/m5MUnQQnk7/67
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Classic" tvg-logo="https://i.ibb.co/XkD8shb/Classic.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Classic
-http://65.21.32.185:80/airmaxne/m5MUnQQnk7/68
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Arabic" tvg-logo="https://i.ibb.co/PgzFmkN/Netflix-arabic.png" group-title="3قنوات نتفليكسNETFLIX",Netflix Arabic
-http://65.21.32.185:80/airmaxne/m5MUnQQnk7/69
+http://65.21.32.185:80/airmaxne/m5MUnQQnk7/260
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 4K Classic" tvg-logo="https://i.ibb.co/XkD8shb/Classic.png" group-title="3قنوات نتفليكسNETFLIX",Netflix 4K Classic
+http://65.21.32.185:80/airmaxne/m5MUnQQnk7/261
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 4K Arabic" tvg-logo="https://i.ibb.co/PgzFmkN/Netflix 4K-arabic.png" group-title="3قنوات نتفليكسNETFLIX",Netflix 4K Arabic
+http://65.21.32.185:80/airmaxne/m5MUnQQnk7/262
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 4K Action" tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="3قنوات نتفليكسNETFLIX",Netflix 4K Action
+http://65.21.32.185:80/airmaxne/m5MUnQQnk7/263
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 4K Drama" tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="3قنوات نتفليكسNETFLIX",Netflix 4K Drama
+http://65.21.32.185:80/airmaxne/m5MUnQQnk7/264
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 1" tvg-logo="https://i.ibb.co/g7TZD57/BOXOFFIC-removebg-preview.png" group-title="3قنوات نتفليكسNETFLIX",BOX OFFICE 1
+http://65.21.32.185:80/airmaxne/m5MUnQQnk7/265
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 2" tvg-logo="https://i.ibb.co/g7TZD57/BOXOFFIC-removebg-preview.png" group-title="3قنوات نتفليكسNETFLIX",BOX OFFICE 2
+http://65.21.32.185:80/airmaxne/m5MUnQQnk7/266
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 3" tvg-logo="https://i.ibb.co/g7TZD57/BOXOFFIC-removebg-preview.png" group-title="3قنوات نتفليكسNETFLIX",BOX OFFICE 3
+http://65.21.32.185:80/airmaxne/m5MUnQQnk7/267
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 4" tvg-logo="https://i.ibb.co/g7TZD57/BOXOFFIC-removebg-preview.png" group-title="3قنوات نتفليكسNETFLIX",BOX OFFICE 4
+http://65.21.32.185:80/airmaxne/m5MUnQQnk7/268
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" group-title="باقة وياك VIP",Weyyak Action
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
