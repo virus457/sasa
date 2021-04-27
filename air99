@@ -860,6 +860,8 @@ http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8
 http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p9P1EL" group-title="12 قنوات فلسطينPALESTINE",PAL-Nbc Alnajah TV
 https://streaming.najah.edu:8443/hls/AlNajah_high/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sRrhHo" group-title="12 قنوات فلسطينPALESTINE",Palestine Education
+http://93.184.1.247:8080/Paestin_Edu/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/38dBhCh" group-title="12 قنوات فلسطينPALESTINE",قناه مكان
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2OpNXig" group-title="12 قنوات فلسطينPALESTINE",PAL-AlQuds
