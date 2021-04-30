@@ -1348,11 +1348,9 @@ https://svs.itworkscdn.net/alfatehlive/fatehtv/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="31 اسلاميةIslami",makkahtv
 https://5ab29cc78f681.streamlock.net/makkahtv/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="31 اسلاميةIslami",ahul quran
-https://59355e6c6462b.streamlock.net/quran/ahul/chunklist.m3u8
+https://5b18be6964c2f.streamlock.net/m/ngrp:ahul_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="31 اسلاميةIslami",Quraan Kareem
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="31 اسلاميةIslami",Al Iarth Al Nabawi
-http://82.212.74.2:8000/live/7307.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="31 اسلاميةIslami",makkah tv
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="31 اسلاميةIslami",وصال tv
