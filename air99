@@ -45,13 +45,13 @@ https://d3lpdyz2cwtn2x.cloudfront.net/out/v1/ec41e75e94db44a9b00d3199b8269928/in
 https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mm8qUD" group-title="بين سبور BEIN SPORT",BEIN​ SPORT​2 HD
 https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png"بين سبور BEIN SPORT",beIN SPORTS MAX MY
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3nHn9I5" group-title="بين سبور BEIN SPORT",beIN SPORTS MAX MY
 http://cloudcdn.tk:80/9nMUZd6cFl9888/sJUEzi3235/27937
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png"بين سبور BEIN SPORT",beIN SPORTS HD MY
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3nHn9I5" group-title="بين سبور BEIN SPORT",beIN SPORTS HD MY
 http://cloudcdn.tk:80/9nMUZd6cFl9888/sJUEzi3235/27938
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png"بين سبور BEIN SPORT",BeinSports 1
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MI09dC" group-title="بين سبور BEIN SPORT",BeinSports 1
 https://nonton.site:8443/provision/pp/728
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png"بين سبور BEIN SPORT",BeinSports 2
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MI09dC" group-title="بين سبور BEIN SPORT",BeinSports 2
 https://nonton.site:8443/provision/pp/729
 #EXTINF:0 tvg-id="ext" group-title="باقة وياك VIP",▂ ▄ ▅ ▆☆ باقة وياك VIP ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
