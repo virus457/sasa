@@ -45,7 +45,14 @@ https://d3lpdyz2cwtn2x.cloudfront.net/out/v1/ec41e75e94db44a9b00d3199b8269928/in
 https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mm8qUD" group-title="بين سبور BEIN SPORT",BEIN​ SPORT​2 HD
 https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png"بين سبور BEIN SPORT",beIN SPORTS MAX MY
+http://cloudcdn.tk:80/9nMUZd6cFl9888/sJUEzi3235/27937
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png"بين سبور BEIN SPORT",beIN SPORTS HD MY
+http://cloudcdn.tk:80/9nMUZd6cFl9888/sJUEzi3235/27938
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png"بين سبور BEIN SPORT",BeinSports 1
+https://nonton.site:8443/provision/pp/728
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png"بين سبور BEIN SPORT",BeinSports 2
+https://nonton.site:8443/provision/pp/729
 #EXTINF:0 tvg-id="ext" group-title="باقة وياك VIP",▂ ▄ ▅ ▆☆ باقة وياك VIP ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="باقة وياك VIP",النسخة المدفوعة AirMax TV
@@ -89,7 +96,7 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="رياضية SPORT",Abu Dhabi Sports 4
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/YasSports.png" group-title="رياضية SPORT",Abu Dhabi Sports Yas TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ujLfv6" group-title="رياضية SPORT",Abu Dhabi Sports Yas TV
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="رياضية SPORT",Dubai SPORT 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
@@ -117,6 +124,8 @@ https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/809380693914619904/Ww1MdxsQ_400x400.jpg" group-title="رياضية SPORT",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2RmeMW1" group-title="رياضية SPORT",WWE Network
+https://nonton.site:8443/provision/pp/299
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",bt sport1
 https://www.livedoomovie.com:443/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",bt sport2
@@ -439,11 +448,13 @@ https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/qbQSWQS.png" group-title="الوثائقية documentary",HISTORY
 https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pe1cAf" group-title="الوثائقية documentary",OUTDOOR Channel
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NVrJV7" group-title="الوثائقية documentary",BBC LifeStyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cC6mma" group-title="الوثائقية documentary",BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2QHi5aI" group-title="الوثائقية documentary",Natgeo Wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="أطفال Children",أطفال
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أطفال Children",كيف احصل على الكود
