@@ -41,6 +41,14 @@ https://dcomrmrhmfmi5.cloudfront.net/out/v1/960c982c1bae4f7884a8b6bc5c69190c/ind
 https://d3lpdyz2cwtn2x.cloudfront.net/out/v1/ec41e75e94db44a9b00d3199b8269928/index.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="بين سبور BEIN SPORT",4تعمل وقت المبارات المهمه+
 https://d3lpdyz2cwtn2x.cloudfront.net/out/v1/ec41e75e94db44a9b00d3199b8269928/index_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3tmzTVS" group-title="بين سبور BEIN SPORT",BEIN PREMUIM 1 UHD
+http://144.217.253.140/beinsport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3uiyf8X" group-title="بين سبور BEIN SPORT",BEIN PREMUIM 2 UHD
+http://144.217.253.140/beinsport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2SfUvlw" group-title="بين سبور BEIN SPORT",BEIN PREMUIM 3 UHD
+http://144.217.253.140/beinsport3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2PRfCtO" group-title="بين سبور BEIN SPORT",BEINSPORT 1 UHD
+http://144.217.253.140/beinsport4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MI09dC" group-title="بين سبور BEIN SPORT",BEIN​ SPORT​1 HD
 https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mm8qUD" group-title="بين سبور BEIN SPORT",BEIN​ SPORT​2 HD
@@ -72,8 +80,6 @@ https://bit.ly/34ooolI
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext" group-title="نتفليكسNETFLIX",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://omgchannel.net/image/cache/catalog/logo-210x89.png" group-title="نتفليكسNETFLIX",Omg Channel TV
-http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="نتفليكسNETFLIX",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://i.imgur.com/CulLL7e.png" group-title="نتفليكسNETFLIX",Nas Tv
@@ -737,6 +743,8 @@ https://bit.ly/3pWtmPO
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="سوريةSyria",SYR-LANA HD
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="سوريةSyria",SYR-LANA
+http:\/\/eitc.secure2.footprint.net\/egress\/chandler\/emirates\/eitc\/master22-vod.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/9HCiWqv.jpg" group-title="سوريةSyria",SYR-Lana Plus HD +
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="سوريةSyria",SYR-SAMA SYRIA SD
