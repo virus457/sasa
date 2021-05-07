@@ -243,6 +243,10 @@ https://cdn.alarab.com/h264/164860_720p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/164919_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3e5krHO" group-title="00خمس نجوم",الحلقةS01E24
 https://cdn.alarab.com/h264/165099_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3e5krHO" group-title="00خمس نجوم",الحلقةS01E25
+https://cdn.alarab.com/h264/165099_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3e5krHO" group-title="00خمس نجوم",الحلقةS01E26
+https://cdn.alarab.com/h264/165104_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3aHYIF3" group-title="01م السوري رمضان2021الكندوش",الحلقةS01E01
 https://dmifr.cdn.mgmlcdn.com/vod/_definst_/smil:2021-04-13/studioDBQYI.smil/chunklist.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3aHYIF3" group-title="01م السوري رمضان2021الكندوش",الحلقةS01E02
@@ -1117,6 +1121,12 @@ https://cdn.alarab.com/h264/164829_720p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/164885_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nu1IKp" group-title="0م المصري رمضان2021(كوفيد 25)",الحلقةS01E07
 https://cdn.alarab.com/h264/164935_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nu1IKp" group-title="0م المصري رمضان2021(كوفيد 25)",الحلقةS01E08
+https://cdn.alarab.com/h264/165077_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nu1IKp" group-title="0م المصري رمضان2021(كوفيد 25)",الحلقةS01E09
+https://cdn.alarab.com/h264/165072_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nu1IKp" group-title="0م المصري رمضان2021(كوفيد 25)",الحلقةS01E10
+https://cdn.alarab.com/h264/165141_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3g6Js8j" group-title="0م المصري رمضان2021موسى",الحلقةS01E01
 https://cdn.alarab.com/h264/163599_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3g6Js8j" group-title="0م المصري رمضان2021موسى",الحلقةS01E02
@@ -1339,6 +1349,8 @@ https://cdn.alarab.com/h264/164934_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/164988_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3mIv0V8" group-title="0م المصري رمضان2021ضد الكسر",الحلقةS01E24
 https://cdn.alarab.com/h264/165059_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3mIv0V8" group-title="0م المصري رمضان2021ضد الكسر",الحلقةS01E25
+https://cdn.alarab.com/h264/165136_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3g8PW6E" group-title="0م المصري رمضان2021هجمة مرتدة",الحلقةS01E01
 https://cdn.alarab.com/h264/163588_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3g8PW6E" group-title="0م المصري رمضان2021هجمة مرتدة",الحلقةS01E02
