@@ -515,16 +515,6 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8?@amarnett
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3abbf2X" group-title="8 أم بي سيMBC",MBC HD
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="8 أم بي سيMBC",|MBC| 1 ++
-http://93.184.1.247/MBC1/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="8 أم بي سيMBC",|MBC| 2 ++
-http://93.184.1.247/MBC2/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="8 أم بي سيMBC",|MBC| 3 ++
-http://93.184.1.247/MBC3/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="8 أم بي سيMBC",|MBC| 4 ++
-http://93.184.1.247/MBC4/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCDrama.png" group-title="8 أم بي سيMBC",|MBC| Drama ++
-http://93.184.1.247/MBCDrama/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="8 أم بي سيMBC",|MBC| 1 SD
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="8 أم بي سيMBC",|MBC| 2 SD
@@ -801,10 +791,6 @@ https://bit.ly/3pWtmPO
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="11 لبنانLEBANON",LBN-ldc lebanon 
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="11 لبنانLEBANON",LBC-International
-http://93.184.1.247/LBC-International/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YxzvqA" group-title="11 لبنانLEBANON",Tele Liban SD
-http://93.184.1.247/TeleLeban/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2L69BXD" group-title="11 لبنانLEBANON",Al Ittihad SD
 https://live.alittihad.tv/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Ifilm Tv" tvg-logo="" group-title="11 لبنانLEBANON",|AR| Ifilm Tv
@@ -833,8 +819,6 @@ https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Yypoli" group-title="11 لبنانLEBANON",Unews SD
 http://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LQixAW" group-title="11 لبنانLEBANON",Aljadeed
-http://93.184.1.247/Aljadeed/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3rmSVuM" group-title="11 لبنانLEBANON",|AR| NBN HD
 https://nbntv.me:8443/nbntv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="otv" tvg-logo="" group-title="11 لبنانLEBANON",otv
@@ -893,8 +877,6 @@ http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8
 http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p9P1EL" group-title="12 فلسطينPALESTINE",PAL-Nbc Alnajah TV
 https://streaming.najah.edu:8443/hls/AlNajah_high/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sRrhHo" group-title="12 فلسطينPALESTINE",Palestine Education
-http://93.184.1.247:8080/Paestin_Edu/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/38dBhCh" group-title="12 فلسطينPALESTINE",قناه مكان
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2OpNXig" group-title="12 فلسطينPALESTINE",PAL-AlQuds
