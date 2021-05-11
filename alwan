@@ -316,34 +316,6 @@ http://65.21.32.185:80/airmaxsp/kpNyuwbYo0/12
 http://65.21.32.185:80/airmaxsp/kpNyuwbYo0/13
 
 
-#EXTINF:-1 tvg-id="" tvg-name="mbc1" tvg-logo="" group-title="أم بي سيMBC",mbc1
-http://bathawy.site:8080/live/live/E9T6WjqMMC/nvomCmAkEm/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mbc2" tvg-logo="" group-title="أم بي سيMBC",mbc2
-http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mbc3" tvg-logo="" group-title="أم بي سيMBC",mbc3
-http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mbc4" tvg-logo="" group-title="أم بي سيMBC",mbc4
-http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mbc5" tvg-logo="" group-title="أم بي سيMBC",mbc5
-http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mbc masr" tvg-logo="" group-title="أم بي سيMBC",mbc masr
-http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mbc masr2" tvg-logo="" group-title="أم بي سيMBC",mbc masr2
-http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mbc action" tvg-logo="" group-title="أم بي سيMBC",mbc action
-http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mbc max" tvg-logo="" group-title="أم بي سيMBC",mbc max
-http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mbc drama" tvg-logo="" group-title="أم بي سيMBC",mbc drama
-http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mbc drama +" tvg-logo="" group-title="أم بي سيMBC",mbc drama +
-http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mbc bollywood" tvg-logo="" group-title="أم بي سيMBC",mbc bollywood
-http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="wanas" tvg-logo="" group-title="أم بي سيMBC",wanas
-http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/13.m3u8
-
-
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="OSN KIDS" tvg-logo="https://media.elcinema.com/tvguide/1232_1.png" group-title="أطفال Children",OSN KIDS
