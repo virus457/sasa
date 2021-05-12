@@ -1107,6 +1107,8 @@ http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
 http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2KIL1Mq" group-title="24 سلطنة عمان Oman",Oman AListiqama TV
 http://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hhgmng" group-title="24 سلطنة عمان Oman",Oman Althakafia
+http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sOMnq4" group-title="24 سلطنة عمان Oman",Oman Sport TV
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sLpJPk" group-title="25 السعودية Saudi-Arabia",Saudi-Arabia tv
