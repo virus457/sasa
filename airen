@@ -410,7 +410,7 @@ https://livear.cgtn.com/500a/prog_index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oBqTJR" group-title="5 الاخبارNEWS",ALARABY TV HD
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3csqpDn" group-title="5 الاخبارNEWS",AL MAYADEEN HD
-http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_t64NDgwcA==.m3u8?v=
+https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YtPfe6" group-title="5 الاخبارNEWS",AL HIWAR NEWS 
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YxCP52" group-title="5 الاخبارNEWS",CNBC ARABIYA HD
@@ -420,9 +420,7 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2L5rfe6" group-title="5 الاخبارNEWS",Alsharq
 rtmp://mn-i.mncdn.com:1935/elsharq_live?=/live
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3czkuwF" group-title="5 الاخبارNEWS",IraqiaNew TV HD
-https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/2d51fe4a0ba54894421ead1809309ed9.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3czkuwF" group-title="5 الاخبارNEWS",IraqiaNew TV SD
-https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/1da007c2fe095060482a4997a166931f.sdp/chunks.m3u8
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news1/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MIwe4K" group-title="5 الاخبارNEWS",IRQ-AL Hurra HD
 https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rdcg0X" group-title="5 الاخبارNEWS",IRQ-AL Hurra IRAQIA HD
@@ -808,7 +806,7 @@ https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r6LK9E" group-title="11 لبنانLEBANON",LBN-AL Mayadeen SD
 http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qI1eRh" group-title="11 لبنانLEBANON",LBN-ALAAN HD
-https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
+https://stream-06.ix7.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xljEO7HELHXt2LDMo7PkVhI)/dm/3/x74wje5/s/live-2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mcmyjp" group-title="11 لبنانLEBANON",Aeeshalaan SD
 https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YzJjQC" group-title="11 لبنانLEBANON",LBN-ALWIFAK TV SD
@@ -924,9 +922,9 @@ https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qG1r7B" group-title="14 العراق IRAQ",AL HURRA IRAQ +
 http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3bXQKZY" group-title="14 العراق IRAQ",IRQ-IRAQIA الاخبارية
-https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news3/chunks.m3u8
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news1/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPi0zW" group-title="14 العراق IRAQ",IRQ-IRAQIA الفضائية
-https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general3/chunks.m3u8
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general1/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa7vVj" group-title="14 العراق IRAQ",IRQ-MBC IRAQ HD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39TWfpL" group-title="14 العراق IRAQ",IRQ-AL Maaref
