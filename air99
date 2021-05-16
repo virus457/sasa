@@ -188,6 +188,54 @@ https://www.livedoomovie.com:443/02_BTSPORTHD_1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",bt sport3
 http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="رياضية SPORT" tvg-logo=" https://i.postimg.cc/vmpDDJFf/CANAL-SPORT-1.png", CANAL+SPORT 1
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="رياضية SPORT" tvg-logo=" https://i.postimg.cc/SNWSpXvk/DAZN-1.png", DAZN 1 (DE) [HD]
+http://stream.tvtap.live:8081/live/de-dazn1.stream/chunks.m3u8 
+#EXTINF:-1 group-title="رياضية SPORT" tvg-logo=" https://i.postimg.cc/SNWSpXvk/DAZN-1.png", DAZN 1 (DE) [HD] (backup)
+http://31.220.41.87:8081/live/it-dazn1.stream/chunks.m3u8
+#EXTINF:-1 group-title="رياضية SPORT" tvg-logo=" https://i.postimg.cc/bwgqs7P5/DAZN-2.png", DAZN 2 (DE) [HD]
+http://stream.tvtap.live:8081/live/de-dazn2.stream/chunks.m3u8
+#EXTINF:-1 group-title="رياضية SPORT" tvg-logo=" https://i.postimg.cc/bwgqs7P5/DAZN-2.png", DAZN 2 (DE) [HD] (backup)
+http://31.220.41.87:8081/live/it-dazn2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/fLryCpSP/ELEVEN-SPORTS-1.png " group-title="رياضية SPORT",Eleven Sports 1 (PL)
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/LsvnYn92/ELEVEN-SPORTS-2.png " group-title="رياضية SPORT",Eleven Sports 2 (PL)
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/W4QHzz7c/SETANTA-SPORTS.png" group-title="رياضية SPORT", Setanta Sports (RUS) [FHD]
+https://95-213-224-179.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/nLsWnBB1/SETANTA-SPORTS-1.png" group-title="رياضية SPORT", Setanta Sports 1 (RUS) [Auto]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s81/index.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/nLsWnBB1/SETANTA-SPORTS-1.png" group-title="رياضية SPORT", Setanta Sports 1 (RUS) [FHD]
+https://95-213-224-179.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/LsvnYn92/ELEVEN-SPORTS-2.png " group-title="رياضية SPORT", Setanta Sports 2 (RUS) [Auto]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s82/index.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/LsvnYn92/ELEVEN-SPORTS-2.png " group-title="رياضية SPORT", Setanta Sports 2 (RUS) [FHD]
+https://95-213-224-179.livesports24.online/setantaplusru.m3u8
+#EXTINF:-1 group-title="رياضية SPORT" tvg-logo=" https://i.postimg.cc/v8x83271/SETANTA-SPORTS-PLUS.png", Setanta Sports+ (RUS) [SD]
+http://195.158.29.129/live_360/live.stream+_360p.m3u8
+#EXTINF:-1 group-title="رياضية SPORT" tvg-logo=" https://i.postimg.cc/nrQ9YH2T/RMC-SPORT-1.png", RMC SPORT 1 (FR) [HD]
+https://22live00.akamaized.net/RMC_Sports_1/index.m3u8
+#EXTINF:-1 group-title="رياضية SPORT" tvg-logo=" https://i.postimg.cc/5jdYsZkJ/RMC-SPORT-2.png", RMC SPORT 2 (FR) [HD]
+https://22live00.akamaized.net/RMC_Sports_2/index.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/4NtvKbrG/FOOTBALL-1.png" group-title="رياضية SPORT",Football 1 (UKR)
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/mZKN26pV/FOOTBALL-2.png" group-title="رياضية SPORT",Football 2 (UKR)
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/6Ts3JZ0L/FOOTBALL-3.png " group-title="رياضية SPORT",Football 3 (UKR)
+https://95-213-224-179.livesports24.online/football3ua.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/DfXnzFKv/MATCH-PREMIER.png" group-title="رياضية SPORT",MATCH Premier (RUS)
+https://95-213-224-179.livesports24.online/mpremierrus.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/MHVS30YM/MATCH-Football.png " group-title="رياضية SPORT", MATCH Football (RUS)
+https://95-213-224-179.livesports24.online/footballrus.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/ncKxvkzN/MATCH-Football-1.png" group-title="رياضية SPORT", MATCH Football 1 (RUS)
+https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/VLP1rTYj/MATCH-Football-2.png" group-title="رياضية SPORT", MATCH Football 2 (RUS)
+https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/bwzhLtSr/MATCH-Football-3.png" group-title="رياضية SPORT", MATCH Football 3 (RUS)
+https://95-213-224-179.livesports24.online/rumatchf3.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title=="رياضية SPORT",Eleven Sport1 
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title=="رياضية SPORT",Eleven Sport2 
