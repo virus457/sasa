@@ -851,12 +851,16 @@ http://stream.sama-tv.net:8080/hls/samatv.m3u8
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_480p_chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="سوريةSyria",SYR-SYRIA PLUS 
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3wDff6o" group-title="سوريةSyria",SYRIA DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2RsH4if" group-title="سوريةSyria",SYRIA DRAMA HD
+https://vsd127.mycdn.me/hls/1291044522614.m3u8/sig/RUImRYflFfE/expires/1621365718018/srcIp/88.153.233.212/clientType/0/srcAg/CHROME/mid/2520931376758/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3wDff6o" group-title="سوريةSyria",SYRIA DRAMA SD
 http://82.137.248.16:1935/Drama/stream19042021/chunklist_w1020462113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3fQhIEU" group-title="سوريةSyria",SYRIA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3fQhIEU" group-title="سوريةSyria",SYRIA TV HD
 https://vsd62.mycdn.me/hls/1264969452150.m3u8/sig/hlFpqTe1-zs/expires/1621329751783/srcIp/88.153.233.212/clientType/0/srcAg/CHROME/mid/2497189387894/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/33Mfa3c" group-title="سوريةSyria",SYRIA TV+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3uUUuSJ" group-title="سوريةSyria",SYRIA TV SD
 http://82.137.248.16:1935/Sat/stream19042021/chunklist_w1577667525.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2RgWk1H" group-title="سوريةSyria",SYR-AL EKHBARIYA HD
+https://vsd86.mycdn.me/hls/1181393881718.m3u8/sig/ecqKNYYKn3Q/expires/1621365954534/srcIp/88.153.233.212/clientType/0/srcAg/CHROME/mid/2404815871606/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",SYR-AL EKHBARIYA SD
 http://82.137.248.16:1935/Snews/stream19042021/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eR8QSEt.png" group-title="سوريةSyria",SYR-SOURYANA SD
