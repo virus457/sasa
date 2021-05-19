@@ -137,8 +137,7 @@ http://vstream3.hadara.ps:8081/NasRadio_web/web/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext" group-title="نتفليكس بلوس",NETFLIX CHANNELS
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext" group-title="نتفليكس بلوس",النسخة المدفوعة AirMax TV
-https://bit.ly/34ooolI
+
 
 #EXTINF:-1 tvg-id="ext" group-title="رياضية SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
