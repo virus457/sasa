@@ -41,26 +41,6 @@ https://d1x43qvacch51j.cloudfront.net/out/v1/4b5d442a74814d4ebd11d5ec523f8c3f/in
 https://d32rnlt7udit.cloudfront.net/out/v1/1dc1b4c9726d41e8a482877f4a597d50/index.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="بين سبور BEIN SPORT",4تعمل وقت المبارات المهمه+
 https://d32rnlt7udit.cloudfront.net/out/v1/1dc1b4c9726d41e8a482877f4a597d50/index_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3tmzTVS" group-title="بين سبور BEIN SPORT",BEIN PREMUIM 1 UHD
-http://144.217.253.140/beinsport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3uiyf8X" group-title="بين سبور BEIN SPORT",BEIN PREMUIM 2 UHD
-http://144.217.253.140/beinsport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2SfUvlw" group-title="بين سبور BEIN SPORT",BEIN PREMUIM 3 UHD
-http://144.217.253.140/beinsport3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2PRfCtO" group-title="بين سبور BEIN SPORT",BEINSPORT 1 UHD
-http://144.217.253.140/beinsport4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MI09dC" group-title="بين سبور BEIN SPORT",BEIN​ SPORT​1 HD
-https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mm8qUD" group-title="بين سبور BEIN SPORT",BEIN​ SPORT​2 HD
-https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3nHn9I5" group-title="بين سبور BEIN SPORT",beIN SPORTS MAX MY
-http://cloudcdn.tk:80/9nMUZd6cFl9888/sJUEzi3235/27937
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3nHn9I5" group-title="بين سبور BEIN SPORT",beIN SPORTS HD MY
-http://cloudcdn.tk:80/9nMUZd6cFl9888/sJUEzi3235/27938
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MI09dC" group-title="بين سبور BEIN SPORT",BeinSports 1
-https://nonton.site:8443/provision/pp/728
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MI09dC" group-title="بين سبور BEIN SPORT",BeinSports 2
-https://nonton.site:8443/provision/pp/729
 #EXTINF:0 tvg-id="ext" group-title="بين سبور BEIN SPORT",bein premium 1
 http://1.alhawalouh.xyz/live/6161655/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="بين سبور BEIN SPORT",bein premium 2
