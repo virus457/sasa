@@ -12355,14 +12355,6 @@ https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United States",Mi TV Televisión Clásica (480p)
 http://162.244.80.176:8081/abr/stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United States",Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United States",Miami TV Jenny Live
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United States",Miami TV Latino
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United States",Miami TV México
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="United States",Mission TV
 http://stream.missiontv.com:1935/live/missiontv_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="MLBNetwork.us" group-title="United States",MLB Network
