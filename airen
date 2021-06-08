@@ -47,7 +47,10 @@ http://ferrarico.referrari.com/live/60091_.m3u8
 http://ferrarico.referrari.com/live/60092_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 3 Premium
 http://ferrarico.referrari.com/live/60093_.m3u8
-
+#EXTINF:-1 tvg-logo="https://bit.ly/3ghKCMG" group-title="1 بين سبور BEIN SPORT",BeIN Sports MAX 1
+http://65.21.32.185:80/airmaxtvbenNN/PLr3sqxbeh/273
+#EXTINF:-1 tvg-logo="https://bit.ly/34Z1FxL" group-title="1 بين سبور BEIN SPORT",BeIN Sports MAX 2
+http://65.21.32.185:80/airmaxtvbenNN/PLr3sqxbeh/274
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT NEWS HD" tvg-logo="https://i.ibb.co/FBg9xDq/news.png" group-title="1 بين سبور BEIN SPORT",|AR| BEIN SPORT NEWS HD
 http://65.21.32.185:80/airmaxtvprobenN/47kB9qXXov/203
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS HD" tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORTS HD
