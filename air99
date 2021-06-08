@@ -886,7 +886,7 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Yypoli" group-title="لبنانLEBANON",Unews SD
 http://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LQixAW" group-title="لبنانLEBANON",Aljadeed
-http://93.184.1.247/Aljadeed/tracks-v1a1/mono.m3u8
+http://sport.teledunet.com:8080/live/tdn/5112887536304/10008.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3rmSVuM" group-title="لبنانLEBANON",|AR| NBN HD
 https://nbntv.me:8443/nbntv/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="فلسطينPALESTINE",PALESTINE فلسيطين
