@@ -3,6 +3,10 @@
 http://65.21.32.185:80/airmaxtvbenNN/PLr3sqxbeh/203
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS HD" tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="بين سبور BEIN SPORT",|AR| BEINSPORTS HD
 http://65.21.32.185:80/airmaxtvbenNN/PLr3sqxbeh/204
+#EXTINF:-1 tvg-logo="https://bit.ly/3ghKCMG" group-title="بين سبور BEIN SPORT",BeIN Sports MAX 1
+http://65.21.32.185:80/airmaxtvbenNN/PLr3sqxbeh/273
+#EXTINF:-1 tvg-logo="https://bit.ly/34Z1FxL" group-title="بين سبور BEIN SPORT",BeIN Sports MAX 2
+http://65.21.32.185:80/airmaxtvbenNN/PLr3sqxbeh/274
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 LOW PREMIUM" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="بين سبور BEIN SPORT",|AR| BEINSPORT 1 LOW PREMIUM
 http://65.21.32.185:80/airmaxtvbenNN/PLr3sqxbeh/218
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 2 LOW PREMIUM" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="بين سبور BEIN SPORT",|AR| BEINSPORT 2 LOW PREMIUM
