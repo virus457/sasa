@@ -27,26 +27,38 @@ https://m3u-editor.com/serve/ec42d3b0-7eb7-11eb-b4c9-732e1b830b41/231889148
 https://m3u-editor.com/serve/ec42d3b0-7eb7-11eb-b4c9-732e1b830b41/231889149
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="1 بين سبور BEIN SPORT", 4تعمل وقت المبارات المهمه+
 https://m3u-editor.com/serve/ec42d3b0-7eb7-11eb-b4c9-732e1b830b41/231889150
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 1
-http://ferrarico.referrari.com/live/60166_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 2
-http://ferrarico.referrari.com/live/60167_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 3
-http://ferrarico.referrari.com/live/60168_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 4
-http://ferrarico.referrari.com/live/60169_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 5
-http://ferrarico.referrari.com/live/60170_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 6
-http://ferrarico.referrari.com/live/60171_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 7
-http://ferrarico.referrari.com/live/60172_.m3u8
+#EXTINF:-150 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BEIN SPORT EXTRA
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 1 Eng
+http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 2 Eng
+http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 1 Premium SD
+http://ferrarico.referrari.com/live/60127_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 2 Premium SD
+http://ferrarico.referrari.com/live/60133_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 3 Premium SD
+http://ferrarico.referrari.com/live/60129_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 3 HD
+http://ferrarico.referrari.com/live/60122_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 1 Premium
-http://ferrarico.referrari.com/live/60091_.m3u8
+https://ferrarico.referrari.com/live/60091_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 2 Premium
-http://ferrarico.referrari.com/live/60092_.m3u8
+https://ferrarico.referrari.com/live/60092_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 3 Premium
-http://ferrarico.referrari.com/live/60093_.m3u8
+https://ferrarico.referrari.com/live/60093_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 1
+http://ferrarico.referrari.com/live/60096_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 2
+http://ferrarico.referrari.com/live/60097_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 3
+http://ferrarico.referrari.com/live/60098_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 4
+http://ferrarico.referrari.com/live/60099_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 5
+http://ferrarico.referrari.com/live/60136_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 6
+http://ferrarico.referrari.com/live/60137_.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3ghKCMG" group-title="1 بين سبور BEIN SPORT",BeIN Sports MAX 1
 http://65.21.32.185:80/airmaxtvbenNN/PLr3sqxbeh/273
 #EXTINF:-1 tvg-logo="https://bit.ly/34Z1FxL" group-title="1 بين سبور BEIN SPORT",BeIN Sports MAX 2
