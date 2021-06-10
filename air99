@@ -110,6 +110,10 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 http://htvajyal.mada.ps:8888/ajyalsd/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://i.imgur.com/CulLL7e.png" group-title="نتفليكسNETFLIX",Nas Tv
 http://vstream3.hadara.ps:8081/NasRadio_web/web/playlist.m3u8
+#EXTINF:-1 tvg-id="BeeMovies.ae" tvg-name="Bee Movies" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="نتفليكسNETFLIX",Bee Movies
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg/live
+#EXTINF:-1 tvg-id="BeeTheater.ae" tvg-name="Bee Theater" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="نتفليكسNETFLIX",Bee Theater
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UC32M9DWf0zgMhBYGd_MOiIw/live
 #EXTINF:-1 tvg-id="ext" group-title="رياضية SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",كيف احصل على الكود
