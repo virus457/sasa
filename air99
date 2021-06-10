@@ -7997,7 +7997,7 @@ https://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/master.m3u8
 
 
 #EXTINF:0 tvg-id="6ter.fr" group-title="France",6ter
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
+http://212.224.98.211:2200/EX/FR_6Ter_HD-fr/tracks-v1a1/mono.m3u8?token=RED_tUgh7JxnITo0O2M6HPv__g%3D%3D%2C1622881880.2245083549
 #EXTINF:0 tvg-id="ext" group-title="France",Alpe d’Huez TV
 https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
 #EXTINF:0 tvg-id="Alsace20.fr" group-title="France",Alsace 20 (720p)
