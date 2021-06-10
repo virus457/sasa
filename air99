@@ -110,10 +110,6 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 http://htvajyal.mada.ps:8888/ajyalsd/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://i.imgur.com/CulLL7e.png" group-title="نتفليكسNETFLIX",Nas Tv
 http://vstream3.hadara.ps:8081/NasRadio_web/web/playlist.m3u8
-#EXTINF:-1 tvg-id="BeeMovies.ae" tvg-name="Bee Movies" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="نتفليكسNETFLIX",Bee Movies
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg/live
-#EXTINF:-1 tvg-id="BeeTheater.ae" tvg-name="Bee Theater" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="نتفليكسNETFLIX",Bee Theater
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UC32M9DWf0zgMhBYGd_MOiIw/live
 #EXTINF:-1 tvg-id="ext" group-title="رياضية SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",كيف احصل على الكود
@@ -890,7 +886,7 @@ https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r6LK9E" group-title="لبنانLEBANON",LBN-AL Mayadeen SD
 https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qI1eRh" group-title="لبنانLEBANON",LBN-ALAAN HD
-https://iptv--iptv.repl.co/streamlink?url=https://www.dailymotion.com/video/x74wje5
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mcmyjp" group-title="لبنانLEBANON",Aeeshalaan SD
 https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YzJjQC" group-title="لبنانLEBANON",LBN-ALWIFAK TV SD
