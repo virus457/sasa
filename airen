@@ -162,6 +162,10 @@ https://bit.ly/3pWtmPO
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="4 رياضية SPORT",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3guMGRv" group-title="4 رياضية SPORT",KSA Sports 1
+http://45.92.69.131:8001/play/a00c
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cBcOsY" group-title="4 رياضية SPORT",KSA Sports 2
+http://45.92.69.131:8001/play/a00b
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="4 رياضية SPORT",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="4 رياضية SPORT",Abu Dhabi Sports 2
@@ -924,16 +928,6 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 http://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3rmSVuM" group-title="11 لبنانLEBANON",|AR| NBN HD
 https://nbntv.me:8443/nbntv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="otv" tvg-logo="" group-title="11 لبنانLEBANON",otv
-http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/25.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="nbn" tvg-logo="" group-title="11 لبنانLEBANON",nbn
-http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/26.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="jadeed33" tvg-logo="" group-title="11 لبنانLEBANON",jadeed33
-http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="jadeed44" tvg-logo="" group-title="11 لبنانLEBANON",jadeed44
-http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mtv" tvg-logo="" group-title="11 لبنانLEBANON",mtv
-http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/136.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="12 فلسطينPALESTINE",PALESTINE فلسيطين
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NShtgo" group-title="12 فلسطينPALESTINE",بيت لحم مباشر
@@ -984,6 +978,12 @@ https://streaming.najah.edu:8443/hls/AlNajah_high/index.m3u8
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2OpNXig" group-title="12 فلسطينPALESTINE",PAL-AlQuds
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="12 فلسطينPALESTINE",AlFajer 1 VPN
+http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="12 فلسطينPALESTINE",AlFajer 3 VPN
+http://217.21.0.217:8081/AlfajertvHD2_web/web/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="12 فلسطينPALESTINE",AlFajer 4 VPN
+http://217.21.0.217:8081/AlfajertvHD1_web/web1/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oaeb4K" group-title="13 الاردنJORDAN",13 الاردنJORDAN
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oag29q" group-title="13 الاردنJORDAN",JR-Jordan TV
@@ -1058,6 +1058,24 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MjXvu7" group-title="15 المصرية Egypt",Fateh TV
 https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8
+#EXTINF:-1 tvg-id="NileCinema.eg" tvg-name="Nile Cinema" tvg-country="EG" tvg-language="Arabic" tvg-logo=""group-title="15 المصرية Egypt",Nile Cinema
+http://149.100.19.226:8001/play/Nile_Cinema
+#EXTINF:-1 tvg-id="NileComedy.eg" tvg-name="Nile Comedy" tvg-country="EG" tvg-language="Arabic" tvg-logo=""group-title="15 المصرية Egypt",Nile Comedy
+http://149.100.19.226:8001/play/Nile_Comedy
+#EXTINF:-1 tvg-id="NileCulture.eg" tvg-name="Nile Culture" tvg-country="EG" tvg-language="Arabic" tvg-logo=""group-title="15 المصرية Egypt",Nile Culture
+http://149.100.19.226:8001/play/Nile_Culture
+#EXTINF:-1 tvg-id="NileDrama.eg" tvg-name="Nile Drama" tvg-country="EG" tvg-language="Arabic" tvg-logo=""group-title="15 المصرية Egypt",Nile Drama
+http://149.100.19.226:8001/play/Nile_Drama
+#EXTINF:-1 tvg-id="NileFamily.eg" tvg-name="Nile Family" tvg-country="EG" tvg-language="Arabic" tvg-logo=""group-title="15 المصرية Egypt",Nile Family
+http://149.100.19.226:8001/play/Nile_Family
+#EXTINF:-1 tvg-id="NileLife.eg" tvg-name="Nile Life" tvg-country="EG" tvg-language="Arabic" tvg-logo=""group-title="15 المصرية Egypt",Nile Life
+http://149.100.19.226:8001/play/Nile_Life
+#EXTINF:-1 tvg-id="NileNews.eg" tvg-name="Nile News" tvg-country="EG" tvg-language="Arabic" tvg-logo=""group-title="15 المصرية Egypt",Nile News
+http://149.100.19.226:8001/play/Nile_News
+#EXTINF:-1 tvg-id="NileSport.eg" tvg-name="Nile Sport" tvg-country="EG" tvg-language="Arabic" tvg-logo=""group-title="15 المصرية Egypt",Nile Sport
+http://149.100.19.226:8001/play/Nile_Sport
+#EXTINF:-1 tvg-id="NileTVInternational.eg" tvg-name="Nile TV International" tvg-country="EG" tvg-language="English" tvg-logo=""group-title="15 المصرية Egypt",Nile TV International
+http://149.100.19.226:8001/play/Nile_TV
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="16 المغربMAROCCO",16 المغربMAROCCO 
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="16 المغربMAROCCO",AL_Aoula_InterTV
@@ -1350,6 +1368,8 @@ https://master.starmena-cloud.com/hls/aden.m3u8?v=2957056943
 http://82.212.74.99:8000/live/8173.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y7xLnq" group-title="27 اليمن Yemen",قناة السعيدة
 http://82.212.74.99:8000/live/hls/8173.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xnR3Vr" group-title="27 اليمن Yemen",Belqees TV
+https://svs.itworkscdn.net/itwlive/itw3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.elahmad.com/tv/images/somali_channels.jpg" group-title="28 الصومالSomalia‎",28 الصومالSomalia
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/HCTV_LOGO.png" group-title="28 الصومالSomalia‎",Horn Cable TV
