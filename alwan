@@ -536,3 +536,11 @@ http://65.21.32.185:80/airmaxalL/AoRhHXVtZh/82
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MbqtfQ" group-title="الاردنJORDAN",Roya TV 
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2U2qtTo" group-title="العراق IRAQ",UTV Iraq
+http://45.92.69.131:8001/play/a01b
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3giEXXW" group-title="السعودية Saudi-Arabia",Al-EKhbaria
+http://45.92.69.131:8001/play/a00d
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iA8qy5" group-title="السعودية Saudi-Arabia",Thikrayat
+http://45.92.69.131:8001/play/a00e
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y6MX4g" group-title="السعودية Saudi-Arabia",SBC
+http://45.92.69.131:8001/play/a00h
