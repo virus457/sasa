@@ -32,9 +32,9 @@ https://d1qan2ekrr8t7a.cloudfront.net/out/v1/c8f8c36918284375971ecfbb9f5aac98/in
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="بين سبور BEIN SPORT",1+تعمل وقت المبارات المهمه
 https://d1qan2ekrr8t7a.cloudfront.net/out/v1/c8f8c36918284375971ecfbb9f5aac98/index_2.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="بين سبور BEIN SPORT",2تعمل وقت المبارات المهمه
-https://d24wdkcejnhslg.cloudfront.net/out/v1/ddd945c0558843eab39baedd569b16c6/index_3.m3u8
+https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/c8f8c36918284375971ecfbb9f5aac98/index.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="بين سبور BEIN SPORT",2تعمل وقت المبارات المهمه+
-https://dejqc3o5laeun.cloudfront.net/out/v1/a9b61e34e24d44d79c26218f4cf88c70/index_2.m3u8
+https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/c8f8c36918284375971ecfbb9f5aac98/index_2.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="بين سبور BEIN SPORT",3تعمل وقت المبارات المهمه
 https://d2hlh3cfn00706.cloudfront.net/out/v1/2f386e82fcd44df7bb6546436bc2de1a/index.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="بين سبور BEIN SPORT",3تعمل وقت المبارات المهمه
@@ -51,10 +51,12 @@ http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
 http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="بين سبور BEIN SPORT",BeIN Sports 1 Premium SD
 http://ferrarico.referrari.com/live/60127_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="بين سبور BEIN SPORT",BeIN Sports 3 HD
-http://ferrarico.referrari.com/live/60122_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="بين سبور BEIN SPORT",BeIN Sports 2 Premium
+https://ferrarico.referrari.com/live/60092_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="بين سبور BEIN SPORT",BeIN Sports 3 Premium
 https://ferrarico.referrari.com/live/60093_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="بين سبور BEIN SPORT",BeIN Sports 3 HD
+http://ferrarico.referrari.com/live/60122_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="بين سبور BEIN SPORT",BeIN Sports 1
 http://ferrarico.referrari.com/live/60096_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="بين سبور BEIN SPORT",BeIN Sports 2
