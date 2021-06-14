@@ -1531,6 +1531,8 @@ http://liveshell.net:1935/live/cihann/chunklist.m3u8
 http://krdstream.com/Nubar-TVHDKRD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/35mo4oZ"tvg-country="IQ"tvg-url="" group-title="KURDISH ",Super TV Kurd
 https://video1.getstreamhosting.com:1936/8906/8906/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2U6rWrO"tvg-country="IQ"tvg-url="" group-title="KURDISH ",sterktv
+https://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/chunklist_sleng.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="KURDISH ",NRT
 https://media.streambrothers.com:1936/8328/8328/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="KURDISH ",peyam TV
