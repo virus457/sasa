@@ -114,11 +114,6 @@ http://vstream3.hadara.ps:8081/NasRadio_web/web/playlist.m3u8
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3guMGRv" group-title="رياضية SPORT",KSA Sports 1
-https://iptv-all.lanesh4d0w.repl.co/saudiarabia/ksasport1
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cBcOsY" group-title="رياضية SPORT",KSA Sports 2
-https://iptv-all.lanesh4d0w.repl.co/saudiarabia/ksasport2
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3guMGRv" group-title="رياضية SPORT",KSA Sports 1+
 http://45.92.69.131:8001/play/a00c
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cBcOsY" group-title="رياضية SPORT",KSA Sports 2+
