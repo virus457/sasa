@@ -946,6 +946,8 @@ https://nbntv.me:8443/nbntv/index.m3u8
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NShtgo" group-title="12 فلسطينPALESTINE",بيت لحم مباشر
 http://live.btv2020.com:1935/live/btv/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="12 فلسطينPALESTINE",AlFajer 1
+https://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alfajertv 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="12 فلسطينPALESTINE",AlFajer 2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qlrdy3" group-title="12 فلسطينPALESTINE",AWDAH TV
