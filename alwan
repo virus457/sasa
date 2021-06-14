@@ -421,6 +421,8 @@ http://65.21.32.185:80/airmaxalL/AoRhHXVtZh/123
 http://65.21.32.185:80/airmaxalL/AoRhHXVtZh/124
 #EXTINF:-1 tvg-id="" tvg-name="CIMA" tvg-logo="https://bit.ly/3ghWrUj" group-title="المصرية Egypt",AL YOOM ZAMAN
 http://45.92.69.131:8002/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="MelodyClassic.eg" tvg-name="Melody Classic" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://bit.ly/3wp4TXl" group-title="",Melody Classic
+http://149.100.19.226:8001/play/M_CLASSIC
 #EXTINF:-1 tvg-id="" tvg-name="CIMA" tvg-logo="http://www.teledunet.com/logo.php?id=10187" group-title="المصرية Egypt",CIMA
 http://65.21.32.185:80/airmaxalL/AoRhHXVtZh/83
 #EXTINF:-1 tvg-id="" tvg-name="ALMOULED" tvg-logo="http://www.teledunet.com/logo.php?id=10196" group-title="المصرية Egypt",ALMOULED
