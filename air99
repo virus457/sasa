@@ -985,7 +985,7 @@ https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r6LK9E" group-title="لبنانLEBANON",LBN-AL Mayadeen SD
 https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qI1eRh" group-title="لبنانLEBANON",LBN-ALAAN HD
-
+https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mcmyjp" group-title="لبنانLEBANON",Aeeshalaan SD
 https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YzJjQC" group-title="لبنانLEBANON",LBN-ALWIFAK TV SD
@@ -1006,6 +1006,8 @@ https://bit.ly/3pWtmPO
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NShtgo" group-title="فلسطينPALESTINE",بيت لحم مباشر
 http://live.btv2020.com:1935/live/btv/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="فلسطينPALESTINE",AlFajer 1
+https://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alfajertv 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="فلسطينPALESTINE",AlFajer 2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qlrdy3" group-title="فلسطينPALESTINE",AWDAH TV
@@ -1081,6 +1083,8 @@ http://82.212.74.100:8000/live/hls/8131.m3u8
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="العراق IRAQ",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r3lKwp" group-title="العراق IRAQ",Al Sumaria
+https://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=sumari
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3w24BWE" group-title="العراق IRAQ",IRQ-قناة 25 تشرين
 https://master.starmena-cloud.com/hls/25october.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MgS4Mu" group-title="العراق IRAQ",IRQ-AL-RASHEED TV
@@ -1405,6 +1409,10 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y6MX4g" group-title="السعودية Saudi-Arabia",sbc
+https://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=sbc_tv
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qBLAqC" group-title="السعودية Saudi-Arabia",SAU-THIKRAYAT
+https://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=saudi_thikrayat
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="السعودية Saudi-Arabia",Saudi TV 1
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qHRoyr" group-title="السعودية Saudi-Arabia",قناة بيتي TV
@@ -1542,7 +1550,9 @@ http://krdstream.com/Nubar-TVHDKRD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/35mo4oZ"tvg-country="IQ"tvg-url="" group-title="KURDISH ",Super TV Kurd
 https://video1.getstreamhosting.com:1936/8906/8906/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2U6rWrO"tvg-country="IQ"tvg-url="" group-title="KURDISH ",sterktv
-https://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/chunklist_sleng.m3u8
+https://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/chunklist_sleng.m3u83
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3gl6pUJ"tvg-country="IQ"tvg-url="" group-title="KURDISH ",kurd
+https://server12.ikomg.live/hls/kurd.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="KURDISH ",NRT
 https://media.streambrothers.com:1936/8328/8328/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="KURDISH ",peyam TV
