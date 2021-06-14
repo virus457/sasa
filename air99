@@ -1521,6 +1521,16 @@ https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iCkNtl"tvg-country="IQ"tvg-url="" group-title="KURDISH ",4 Kurd
 http://51.210.199.28/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3zsZL6r"tvg-country="IQ"tvg-url="" group-title="KURDISH ",Net tv Live
+http://nettvstreampaid.flashmediacast.com:1935/nettvstreampaid/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/35mmpjf"tvg-country="IQ"tvg-url="" group-title="KURDISH ",Amozhgary TV
+https://media.streambrothers.com:1936/8250/8250/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3gmOL37"tvg-country="IQ"tvg-url="" group-title="KURDISH ",Cihan TV HD
+http://liveshell.net:1935/live/cihann/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xhDAhK"tvg-country="IQ"tvg-url="" group-title="KURDISH ",Nubar TV
+http://krdstream.com/Nubar-TVHDKRD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/35mo4oZ"tvg-country="IQ"tvg-url="" group-title="KURDISH ",Super TV Kurd
+https://video1.getstreamhosting.com:1936/8906/8906/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="KURDISH ",NRT
 https://media.streambrothers.com:1936/8328/8328/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="KURDISH ",peyam TV
