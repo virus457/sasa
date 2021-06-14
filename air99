@@ -1515,25 +1515,16 @@ http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/chunklist.m3u8
 https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg"tvg-country="IQ"tvg-url="" group-title="KURDISH ",Rudaw TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",Ronahi tv
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/26.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",KurdsatNews TV
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",Rojava tv
-#EXTVLCOPT:http-user-agent=sat.tvhd4/12 (Linux;Android 7.1.1) ExoPlayerLib/2.8.4
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/55
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2TtCVv0"tvg-country="IQ"tvg-url="" group-title="KURDISH ",Kurdistan 24
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wA3DRa"tvg-country="IQ"tvg-url="" group-title="KURDISH ",Ava Entertainment
+https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iCkNtl"tvg-country="IQ"tvg-url="" group-title="KURDISH ",4 Kurd
+http://51.210.199.28/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="KURDISH ",NRT
-#EXTVLCOPT:http-user-agent=sat.tvhd4/12 (Linux;Android 7.1.1) ExoPlayerLib/2.8.4
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/53
-#EXTVLCOPT:http-user-agent=sat.tvhd4/12 (Linux;Android 7.1.1) ExoPlayerLib/2.8.4
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",NRT 2
-#EXTVLCOPT:http-user-agent=sat.tvhd4/12 (Linux;Android 7.1.1) ExoPlayerLib/2.8.4
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/54
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",AVA TV
-http://51.15.236.137/hls/stream.m3u8
+https://media.streambrothers.com:1936/8328/8328/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="KURDISH ",peyam TV
 https://5ab29cc78f681.streamlock.net/PayamTV/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",KurdsaSterr TV
-http://137.74.205.201/live25/live25.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="KURDISH ",Kurdsaradio TV
 http://radio.dangiquran.com:40/live/radio/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="KURDISH ",Kurdsacihann TV
@@ -1544,33 +1535,12 @@ http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="KURDISH ",KurdMax Music
 http://31.14.40.139:1935/music/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",KurdMax Show
-http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",Kurdsat
-https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="KURDISH ",Rudaw TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="KURDISH ",Speda TV
 http://liveshell.net:1935/live/%20speda084k/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",RONAHI
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/26.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",KURDMAX
-http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",sterk
-http://137.74.205.201/live2/sterk-3mbps.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",media hader
-http://137.74.205.201/live1/mh-3mbps.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",ava entertainment TV
-https://wowzaprod219-i.akamaihd.net/hls/live/1003949/c9aa559e/c9aa559e_1_3310000/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="KURDISH ",Zagros
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",k 24
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/40.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",Kurmanci-TV
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",Amozhgary
-http://amozhgary.flashmediacast.com:1935/amozhgary/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="KURDISH ",line
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/58.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="راديوRadio Music",HD Radio  Music
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6BSNW" group-title="راديوRadio Music",Radio Sada
