@@ -20,10 +20,18 @@ http://185.180.15.15:2200/EX/bein7hd-ar/tracks-v1a1/mono.m3u8?token=RED_AirMaxTV
 http://65.21.32.185:80/airmaxtvbenNX/CYBmgpWy0F/203
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS HD" tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="بين سبور BEIN SPORT",|AR| BEINSPORTS HD
 http://65.21.32.185:80/airmaxtvbenNX/CYBmgpWy0F/204
-#EXTINF:-1 tvg-logo="https://bit.ly/3ghKCMG" group-title="بين سبور BEIN SPORT",BeIN Sports MAX 1
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 1" tvg-logo="https://i.pinimg.com/originals/95/f6/68/95f6681b3ad0c0404b04a7c4a8cccb06.png" group-title="بين سبور BEIN SPORT",|AR| BEIN SPORTS MAX 1
 http://65.21.32.185:80/airmaxtvbenNX/CYBmgpWy0F/273
-#EXTINF:-1 tvg-logo="https://bit.ly/34Z1FxL" group-title="بين سبور BEIN SPORT",BeIN Sports MAX 2
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 2" tvg-logo="https://i.pinimg.com/originals/be/d9/d2/bed9d21acfa540d2ca51e0ed43236384.png" group-title="بين سبور BEIN SPORT",|AR| BEIN SPORTS MAX 2
 http://65.21.32.185:80/airmaxtvbenNX/CYBmgpWy0F/274
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 3 HD" tvg-logo="https://i.ibb.co/8DWkDXb/max-3.png" group-title="بين سبور BEIN SPORT",|AR| BEIN SPORTS MAX 3 HD
+http://65.21.32.185:80/airmaxtvbenNX/CYBmgpWy0F/275
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 4 HD" tvg-logo="https://i.ibb.co/TbBrBR7/max-4.png" group-title="بين سبور BEIN SPORT",|AR| BEIN SPORTS MAX 4 HD
+http://65.21.32.185:80/airmaxtvbenNX/CYBmgpWy0F/276
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 5 HD Copa Usa" tvg-logo="https://i.ibb.co/3Y1fPVh/max-5.png" group-title="بين سبور BEIN SPORT",|AR| BEIN SPORTS MAX 5 HD Copa Usa
+http://65.21.32.185:80/airmaxtvbenNX/CYBmgpWy0F/277
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 6 HD" tvg-logo="https://i.ibb.co/Wp4d4Pv/max-6.png" group-title="بين سبور BEIN SPORT",|AR| BEIN SPORTS MAX 6 HD
+http://65.21.32.185:80/airmaxtvbenNX/CYBmgpWy0F/278
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 LOW PREMIUM" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="بين سبور BEIN SPORT",|AR| BEINSPORT 1 LOW PREMIUM
 http://65.21.32.185:80/airmaxtvbenNX/CYBmgpWy0F/218
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 2 LOW PREMIUM" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="بين سبور BEIN SPORT",|AR| BEINSPORT 2 LOW PREMIUM
