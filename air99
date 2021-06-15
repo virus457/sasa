@@ -994,6 +994,15 @@ http://185.96.70.242:1935/live/alltv/playlist.m3u8
 http://82.137.248.16:1935/RTartus/RTartusLive/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39UouFX" group-title="سوريةSyria",sham FM
 https://radioshamfm.grtvstream.com:8400/;
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",sy drama
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/46.m3u8
+#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",lana
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/31.m3u8
+#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",lana +
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/49.m3u8
+#EXTINF:0 tvg-id="ext" group-title="سوريةSyria",sama1
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/135.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="لبنانLEBANON",لبنانLEBANON
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="لبنانLEBANON",كيف احصل على الكود
@@ -1036,6 +1045,11 @@ http://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/chunk
 http://sport.teledunet.com:8080/live/tdn/5112887536304/10008.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3rmSVuM" group-title="لبنانLEBANON",|AR| NBN HD
 https://nbntv.me:8443/nbntv/index.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",mtv1
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/140.m3u8
+#EXTINF:0 tvg-id="o-tv" group-title="لبنانLEBANON",otv
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/152.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="فلسطينPALESTINE",PALESTINE فلسيطين
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",كيف احصل على الكود
