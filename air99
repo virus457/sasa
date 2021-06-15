@@ -3577,9 +3577,10 @@ http://stream.kkr.dk/live/kkr/chunklist_w832247479.m3u8
 http://83.140.64.214/edge/_451iw2h_/451iw2h/chunklist_w348058882.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sweden",SW:STORTINGET
 http://194.132.85.39/19333-live0/_definst_/push-stortinget_1/chunklist_w1136072204.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV
 https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="FRANCE",M6
+https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",A2i TV
 https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",A2i Music
