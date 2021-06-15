@@ -741,6 +741,10 @@ https://cdn.alarab.com/h264/165618_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/165768_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3p1cFmD" group-title="مسلسل التركي قطاع الطرق لن يحكمواالعالم",الحلقةS06E31
 https://cdn.alarab.com/h264/165912_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3p1cFmD" group-title="مسلسل التركي قطاع الطرق لن يحكمواالعالم",الحلقةS06E32
+https://cdn.alarab.com/h264/166020_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3p1cFmD" group-title="مسلسل التركي قطاع الطرق لن يحكمواالعالم",الحلقةS06E33
+https://cdn.alarab.com/h264/166172_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sAcpx7" group-title="مسلسل التركي اللهيب",الحلقةS01E01
 https://cdn.alarab.com/h264/160211_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sAcpx7" group-title="مسلسل التركي اللهيب",الحلقةS01E02
@@ -980,7 +984,9 @@ https://cdn.alarab.com/h264/165827_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3tkJRI6" group-title="مسلسل التركي فتاةالنافذة",الحلقةS01E07
 https://cdn.alarab.com/h264/165936_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3tkJRI6" group-title="مسلسل التركي فتاةالنافذة",الحلقةS01E08
-https://kareem2021ibra009218.kobatube.online/hls2/CimaClub.Cam-nafeeza.08.720p.x264.aac-480.41002.mp4/index.m3u8?/ss/
+https://cdn.alarab.com/h264/166057_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3tkJRI6" group-title="مسلسل التركي فتاةالنافذة",الحلقةS01E09
+https://cdn.alarab.com/h264/166173_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3dyiaG9" group-title="مسلسل التركي بيت من ورق",الحلقةS01E01
 https://cdn.alarab.com/h264/164027_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3dyiaG9" group-title="مسلسل التركي بيت من ورق",الحلقةS01E02
@@ -2239,6 +2245,8 @@ https://cdn.alarab.com/h264/163228_480p.mp4/index-v1-a1.m3u8?/ss/
 https://cdn.alarab.com/h264/163367_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3qvm2eG" group-title="مسلسل التركي انت اطرق بابي",الحلقةS01E39
 https://cdn.alarab.com/h264/163905_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3qvm2eG" group-title="مسلسل التركي انت اطرق بابي",الحلقةS01E40
+https://cdn.alarab.com/h264/166170_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3tYqbKK" group-title="مسلسل التركي انتظرتك كثيراً",الحلقةS01E01
 https://cdn.alarab.com/h264/162319_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3tYqbKK" group-title="مسلسل التركي انتظرتك كثيراً",الحلقةS01E02
