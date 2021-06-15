@@ -1231,6 +1231,43 @@ http://45.92.69.131:8001/play/a02c
 http://45.92.69.131:8001/play/a02e
 #EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",dmc masraheyat
 http://45.92.69.131:8001/play/a02f
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",on time
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/18.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",on time 2
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/19.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",on e
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/23.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",on drama
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/24.m3u8
+#EXTINF:0 tvg-id="cbc" group-title="المصرية Egypt",cbc
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/27.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",dmc
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/30.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",cbc sofra
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/32.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",dmc drama
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/33.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",nile drama
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/41.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",pnc food
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/50.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",sada
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/52.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",sada drama
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/53.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",kahera
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/55.m3u8
+#EXTINF:0 tvg-id="Ten.es" group-title="المصرية Egypt",ten
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/112.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",mix1
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/143.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",om dorman
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/149.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",dream
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/151.m3u8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",on time 33
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/154.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="المغربMAROCCO",المغربMAROCCO 
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="المغربMAROCCO",AL_Aoula_InterTV
