@@ -28,11 +28,11 @@ http://live.btv2020.com:1935/live/btv/chunklist.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3gsOPP3" group-title="بين سبور BEIN SPORT",0+تعمل وقت المبارات المهمه
 https://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alfajertv
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="بين سبور BEIN SPORT",1تعمل وقت المبارات المهمه
-https://d3bqtl5qncmm26.cloudfront.net/out/v1/2736b9b29bbf4887b126d76800417bd0/index_2.m3u8
+https://d23oy2lhqs27z5.cloudfront.net/out/v1/f2304e69c54a4c59bcb3902c926e8a5b/index.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="بين سبور BEIN SPORT",1+تعمل وقت المبارات المهمه
-https://d3bqtl5qncmm26.cloudfront.net/out/v1/2736b9b29bbf4887b126d76800417bd0/index_2.m3u8
+https://d23oy2lhqs27z5.cloudfront.net/out/v1/f2304e69c54a4c59bcb3902c926e8a5b/index_2.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="بين سبور BEIN SPORT",2تعمل وقت المبارات المهمه
-https://d3bqtl5qncmm26.cloudfront.net/out/v1/2736b9b29bbf4887b126d76800417bd0/index_3.m3u8
+https://d23oy2lhqs27z5.cloudfront.net/out/v1/f2304e69c54a4c59bcb3902c926e8a5b/index_3.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="بين سبور BEIN SPORT",2تعمل وقت المبارات المهمه+
 https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/c8f8c36918284375971ecfbb9f5aac98/index_2.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="بين سبور BEIN SPORT",3تعمل وقت المبارات المهمه
