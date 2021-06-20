@@ -1,21 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="بين سبور BEIN SPORT",184.Bein Sports 1
-http://185.180.15.15:2200/EX/bein1hd-ar/tracks-v1a1/mono.m3u8?token=RED_AirMaxTV
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="بين سبور BEIN SPORT",184.Bein Sports 2
-http://185.180.15.15:2200/EX/bein2hd-ar/tracks-v1a1/mono.m3u8?token=RED_AirMaxTV
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="بين سبور BEIN SPORT",184.Bein Sports 3
-http://185.180.15.15:2200/EX/bein3hd-ar/tracks-v1a1/mono.m3u8?token=RED_AirMaxTV
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="بين سبور BEIN SPORT",184.Bein Sports 4
-http://185.180.15.15:2200/EX/bein4hd-ar/tracks-v1a1/mono.m3u8?token=RED_AirMaxTV
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="بين سبور BEIN SPORT",184.Bein Sports 5
-http://185.180.15.15:2200/EX/bein5hd-ar/tracks-v1a1/mono.m3u8?token=RED_AirMaxTV
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="بين سبور BEIN SPORT",184.Bein Sports 6
-http://185.180.15.15:2200/EX/bein6hd-ar/tracks-v1a1/mono.m3u8?token=RED_AirMaxTV
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="بين سبور BEIN SPORT",184.Bein Sports 6
-http://185.180.15.15:2200/EX/bein7hd-ar/tracks-v1a1/mono.m3u8?token=RED_AirMaxTV
-
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT NEWS HD" tvg-logo="https://i.ibb.co/FBg9xDq/news.png" group-title="بين سبور BEIN SPORT",|AR| BEIN SPORT NEWS HD
 http://65.21.32.185:80/airmaxtvbenNB/514hzyKUbl/203
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS HD" tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="بين سبور BEIN SPORT",|AR| BEINSPORTS HD
