@@ -996,7 +996,7 @@ http://185.96.70.242:1935/live/alltv/playlist.m3u8
 http://82.137.248.16:1935/RTartus/RTartusLive/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39UouFX" group-title="سوريةSyria",sham FM
 https://radioshamfm.grtvstream.com:8400/;
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39UouFX" group-title="سوريةSyria",Minbij TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Minbij TV
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/45
 #EXTINF:0 tvg-id="ext" group-title="سوريةSyria",sy drama
 http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/46.m3u8
