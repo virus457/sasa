@@ -958,6 +958,8 @@ http://185.96.70.242:1935/live/alltv/playlist.m3u8
 http://82.137.248.16:1935/RTartus/RTartusLive/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39UouFX" group-title="10 سوريةSyria",sham FM
 https://radioshamfm.grtvstream.com:8400/;
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="10 سوريةSyria",Minbij TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/45
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="10 سوريةSyria",sy drama
 http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/46.m3u8
@@ -1540,6 +1542,12 @@ http://liveshell.net:1935/live/cihann/chunklist.m3u8
 http://krdstream.com/Nubar-TVHDKRD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/35mo4oZ"tvg-country="IQ"tvg-url="" group-title="29 KURDISH ",Super TV Kurd
 https://video1.getstreamhosting.com:1936/8906/8906/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo=""tvg-country="IQ"tvg-url="" group-title="29 KURDISH ",ROJAVA TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/55
+#EXTINF:-1 tvg-id="ext"tvg-logo=""tvg-country="IQ"tvg-url="" group-title="29 KURDISH ",ROJAVA TV
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/55.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo=""tvg-country="IQ"tvg-url="" group-title="29 KURDISH ",Ronahî TV
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/26.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="29 KURDISH ",NRT
 https://media.streambrothers.com:1936/8328/8328/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="29 KURDISH ",peyam TV
