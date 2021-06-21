@@ -1202,6 +1202,10 @@ https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ogf4ZG" group-title="العراق IRAQ", راديو هوا دجلة
 https://listen.radioking.com/radio/96766/stream/136030
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/2CDKh6w" group-title="العراق IRAQ",AlahadTV
+http://148.66.130.171:1935/Alahadlive/AlahadTV/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2TSwYIe" group-title="العراق IRAQ",AletejahTV
+https://streaming.aletejahtv.iq:1937/etejah-live/smil:etejah.smil/chunklist.m3u8
 #EXTINF: tvg-logo="https://bit.ly/39dxm9H" group-title="المصرية Egypt",المصرية
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="المصرية Egypt",كيف احصل على الكود
