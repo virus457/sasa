@@ -1466,7 +1466,7 @@ https://gulfsat.cdn.easybroadcast.fr/live/Scope_abr/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MV8pHJ" group-title="الكويت Kuwait",Kuwait Al-Sabah
 https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3d5ZrSy" group-title="الكويت Kuwait",Kuwait Al-Shahed
-https://easybroadcast.akamaized.net/abr_live/Al-Shahed/live/Al-Shahed_720p/chunks.m3u8
+https://gulfsat.cdn.easybroadcast.fr/abr_live/Al-Shahed/live/Al-Shahed_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Zhb7tm" group-title="الكويت Kuwait",Kuwait Al-Bawadi
 https://gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qIXyi7" group-title="البحرين Bahrain",Bahrain TV
