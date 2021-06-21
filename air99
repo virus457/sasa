@@ -4430,6 +4430,28 @@ https://stream.ecable.tv/afc/BANDAKANY.mp4/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="NEDERLAND",NEDERLAND TV
 https://bit.ly/3pWtmPO
+#EXTINF:0 tvg-id="NPO1.nl" group-title="NEDERLAND",NPO 1 HD
+http://80.24.75.92:5555/udp/239.111.0.1:1234
+#EXTINF:0 tvg-id="NPO2.nl" group-title="NEDERLAND",NPO 2 HD
+http://80.24.75.92:5555/udp/239.111.1.1:1234
+#EXTINF:0 tvg-id="NPO3.nl" group-title="NEDERLAND",NPO 3 HD
+http://80.24.75.92:5555/udp/239.111.0.3:1234
+#EXTINF:0 tvg-id="RTL4.nl" group-title="NEDERLAND",RTL 4 HD
+http://80.24.75.92:5555/udp/239.111.2.1:1234
+#EXTINF:0 tvg-id="RTL5.nl" group-title="NEDERLAND",RTL 5 HD
+http://80.24.75.92:5555/udp/239.111.2.2:1234
+#EXTINF:0 tvg-id="SBS6.nl" group-title="NEDERLAND",SBS6 HD
+http://80.24.75.92:5555/udp/239.111.1.2:1234
+#EXTINF:0 tvg-id="RTL7.nl" group-title="NEDERLAND",RTL 7 HD
+http://80.24.75.92:5555/udp/239.111.2.3:1234
+#EXTINF:0 tvg-id="RTL8.nl" group-title="NEDERLAND",RTL 8 HD
+http://80.24.75.92:5555/udp/239.111.2.4:1234
+#EXTINF:0 tvg-id="SBS9.nl" group-title="NEDERLAND",SBS9
+http://80.24.75.92:5555/udp/239.111.3.1:1234
+#EXTINF:0 tvg-id="NET5.nl" group-title="NEDERLAND",Net5 HD
+http://80.24.75.92:5555/udp/239.111.0.2:1234
+#EXTINF:0 tvg-id="VeronicaDisneyXD.nl" group-title="NEDERLAND",Veronica / Disney XD HD
+http://80.24.75.92:5555/udp/239.111.0.4:1234
 #EXTINF:0 tvg-id="ext" group-title="NEDERLAND",BNR Nieuwsradio
 https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
 #EXTINF:0 tvg-id="BVN.be" group-title="NEDERLAND",BVN
