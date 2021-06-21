@@ -29,6 +29,10 @@ https://m3u-editor.com/serve/ec42d3b0-7eb7-11eb-b4c9-732e1b830b41/231889148
 https://m3u-editor.com/serve/ec42d3b0-7eb7-11eb-b4c9-732e1b830b41/231889149
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="1 بين سبور BEIN SPORT", 4تعمل وقت المبارات المهمه+
 https://m3u-editor.com/serve/ec42d3b0-7eb7-11eb-b4c9-732e1b830b41/231889150
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1 بين سبور BEIN SPORT", BEINSPORTS_MAX 1 HD
+http://8.anbdaouras.xyz/live/9889900/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1 بين سبور BEIN SPORT", BEINSPORTS_MAX 2 HD
+http://5.amroutras.xyz/live/00002500/index.m3u8
 #EXTINF:-150 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BEIN SPORT EXTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 1 Eng
