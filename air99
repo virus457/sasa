@@ -2749,6 +2749,8 @@ https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",DEUTSCH TV
 https://bit.ly/3pWtmPO
+#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Kabel Eins HD
+http://31.220.41.86:8081/live/de-kabel1.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ZDF HD(مشغل GSE)
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ZDF info HD(مشغل GSE)
