@@ -2310,8 +2310,14 @@ http://79.124.14.198:8088/play/a070
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/74
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",TV 8.5 (مشغل GSE)
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",Star TV(مشغل GSE)
-https://lcgid8xu.rocketcdn.com/startvhd.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",Star TV HD
+https://av.livestreamlive.xyz/hls/star.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",Star TV HD
+http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",Star TV HD
+https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",Star TV SD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/69
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",DiyanetTV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/cAEmPeRDaeia9_1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",YOL TV
@@ -2380,8 +2386,6 @@ http://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
 http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",TR:Rudaw
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR:Star TV
-http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",TR:TBMM TV
 http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
 #EXTINF:0 tvg-id="CNBC-E.tr" group-title="TURKEY",TR:TLC
@@ -2444,8 +2448,6 @@ https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Rudaw
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:0 tvg-id="Start.tr" group-title="TURKEY",Star TV
-http://lcgid8xu.rocketcdn.com/startvhd.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",TBMM TV
 http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
 #EXTINF:0 tvg-id="TGRTHaber.tr" group-title="TURKEY",TGRT Belgesel
@@ -2614,8 +2616,6 @@ https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Rudaw (1080p)
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:0 tvg-id="Start.tr" group-title="TURKEY",Star TV
-https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",TBMM TV (576p)
 https://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",TGRT Belgesel (600p)
