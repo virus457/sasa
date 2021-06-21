@@ -2381,10 +2381,16 @@ https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/segli
 https://bit.ly/3pWtmPO
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Bein Sports Haber
 https://59c7ea6bec1c6.streamlock.net/live/beinsporthaber.stream/chunklist_w1125174839.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",atv
-
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",atv+
-
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",atv FHD
+http://79.124.14.198:8088/play/a0ik
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",atv FHD
+http://149.255.152.66:8080/atvturk/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",atv HD
+http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",atv HD
+https://stream.personamedia.tv/atvhls?fmt=hls&m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",atv HD
+http://yayin2.tvizlehd.com/atv720.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Show(مشغل GSE)
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Show Türk(مشغل GSE)
@@ -2399,6 +2405,10 @@ https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/playlist.m3u8
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",TV8
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/74.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TV8
+http://79.124.14.198:8088/play/a070
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TV8
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/74
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",TV8(مشغل GSE)
 https://tv8.personamedia.tv/tv8hls?type=1&fmt=hls&file=.m3u8&rend=v_r2
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",TV 8.5 (مشغل GSE)
