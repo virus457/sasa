@@ -2292,6 +2292,8 @@ https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist.m3u8
 https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/playlist.m3u8
 #EXTINF:0 tvg-id="YabanTV.tr" group-title="TURKEY",Yaban TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TV8
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/74.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",TV8(مشغل GSE)
 https://tv8.personamedia.tv/tv8hls?type=1&fmt=hls&file=.m3u8&rend=v_r2
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",TV 8.5 (مشغل GSE)
