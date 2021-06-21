@@ -2415,6 +2415,8 @@ https://tv8.personamedia.tv/tv8hls?type=1&fmt=hls&file=.m3u8&rend=v_r2
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Star TV(مشغل GSE)
 https://lcgid8xu.rocketcdn.com/startvhd.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",DiyanetTV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/cAEmPeRDaeia9_1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",YOL TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",MERKEZ TV
