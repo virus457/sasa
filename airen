@@ -618,6 +618,26 @@ http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
 http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/367w2Tw" group-title="6 الوثائقية documentary",Kaifa TV
 http://82.212.74.2:8000/live/hls/7311.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/c105bd20-c461-11eb-80fb-51f6d4ec9267/1699562/309021024.png" group-title="6 الوثائقية documentary", DISCOVERY CHANNEL
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/b3fcf7d0-ce83-11eb-b11a-eb15b3ca1ddc/1763241/318052673.png" group-title="6 الوثائقية documentary", DISCOVERY SCIENCE
+http://stream.tvtap.live:8081/live/us-discoveryscience.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306365992.png" group-title="6 الوثائقية documentary", NAT GEO
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/128.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248810030.jpg" group-title="6 الوثائقية documentary", NATGEO WILD HD
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/c105bd20-c461-11eb-80fb-51f6d4ec9267/1699562/309021028.png" group-title="6 الوثائقية documentary", OUTDOOR CHANNEL
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://download.logo.wine/logo/Crime_%2B_Investigation_(Australian_TV_channel)/Crime_%2B_Investigation_(Australian_TV_channel)-Logo.wine.png" group-title="6 الوثائقية documentary", CRIME INVESTIGATION
+http://203.154.243.31:15001
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/749cb0c0-cfe1-11eb-be99-b95f396ace3c/1769200/319380412.png" group-title="6 الوثائقية documentary", CRIME 360
+https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/b3fcf7d0-ce83-11eb-b11a-eb15b3ca1ddc/1763241/318105023.jpg" group-title="6 الوثائقية documentary", DISTRO TV
+http://a.jsrdn.com/broadcast/d37066a396/+0000/mid/c.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306935662.png" group-title="6 الوثائقية documentary", RT DOCUMENTARY
+https://rt-doc-gd.secure2.footprint.net/1101_2500Kb.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306933429.png" group-title="6 الوثائقية documentary", CGTN DOCUMENTARY
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/reSXEKO.jpg" group-title="6 الوثائقية documentary",NATGEO HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/ePpWaeA.jpg" group-title="6 الوثائقية documentary",NATGEO WILD
