@@ -709,7 +709,7 @@ https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2PYc6Ob" group-title="أطفال Children",TIJI-in-French
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index_4.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36EMkUq" group-title="أطفال Children",Boomerang HD
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/05.m3u8
+http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3j8F4VO" group-title="أطفال Children",AR Majid_Kids HD
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/wOxnItQ.png" group-title="أطفال Children",Taha TV (360p)
@@ -718,32 +718,12 @@ https://media2.livaat.com/TAHA-TV/index.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3as3fdJ" group-title="أطفال Children",Tiny Pop (UK)
 https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39FpkpZ" group-title="أطفال Children",Cartoon Network
-https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="أطفال Children",Baby First
-https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="أطفال Children",CBeebies
-http://51.52.156.22:8888/http/003
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="أطفال Children",POP Max
-https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="أطفال Children",Nick Jr
-https://doofootball.livestream-cdn.com/iptv/uk-nickjr.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="أطفال Children",Tiny Pop
-https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/tr/TRTCocuk.tr.png" group-title="أطفال Children",TRT Cocuk(Turki)
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://www.shemarookids.com/img/logo.png" group-title="أطفال Children",Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_kids_us.png" group-title="أطفال Children",Discovery Kids 
-https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-citra-my.png" group-title="أطفال Children",Astro Cartoon
-http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_toon_ae_1.png" group-title="أطفال Children",SPACETOON
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://www.lyngsat-stream.com/logo/tv/ee/ebs-kids-kr.png" group-title="أطفال Children",EBS KIDS
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-kidz-id.png" group-title="أطفال Children",SHEMAROOME KIDS
-https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3abbf2X" group-title="أم بي سيMBC",MBC HD
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أم بي سيMBC",كيف احصل على الكود
