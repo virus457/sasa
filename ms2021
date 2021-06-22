@@ -233,7 +233,8 @@ https://zlatan-ibrahimovivc-1981-39.kobatube.online/hls2/CimaClub.Cam-aalmosisi.
 https://lola-150517-breaking-bad.kobatube.online/hls1/CimaClub.Cam-aalmosisi.osman.s01.ep63.720p.x264.aac-480.41448.mp4/index.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sFl4ya" group-title="مسلسل التركي المؤسس عثمان",الحلقةS01E63+
 https://lola-150517-breaking-bad.kobatube.online/hls1/CimaClub.Cam-aalmosisi.osman.s01.ep63.720p.x264.aac-720.41448.mp4/index.m3u8?/ss/
-https://cdn.alarab.com/h264/166140_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sFl4ya" group-title="مسلسل التركي المؤسس عثمان",الحلقةS01E63++
+https://cdn.alarab.com/h264/166253_720p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2SDFcnw" group-title="مسلسل التركي لعبة الحظ",الحلقةS01E01
 https://cdn.alarab.com/h264/166214_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2TEFElr" group-title="مسلسل التركي حكاية جزيرة",الحلقةS01E01
@@ -1099,7 +1100,9 @@ https://cdn.alarab.com/h264/165964_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nXvcyI" group-title="مسلسل التركي العقرب",الحلقةS01E24
 https://cdn.alarab.com/h264/166074_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nXvcyI" group-title="مسلسل التركي العقرب",الحلقةS01E25
-https://ola-s901118-21.kobatube.online/hls2/CimaClub.Cam-alakarab.25.720p.x264.aac-480.41287.mp4/index.m3u8?/ss/
+https://cdn.alarab.com/h264/166182_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nXvcyI" group-title="مسلسل التركي العقرب",الحلقةS01E26
+https://cdn.alarab.com/h264/166265_480p.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3u2BYI4" group-title="مسلسل التركي العهد",الحلقةS01E01
 https://cdn.alarab.com/numeric/110367.mp4/index-v1-a1.m3u8?/ss/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3u2BYI4" group-title="مسلسل التركي العهد",الحلقةS01E02
