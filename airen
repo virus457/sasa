@@ -330,15 +330,15 @@ https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
 https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/bwzhLtSr/MATCH-Football-3.png" group-title="4 رياضية SPORT", MATCH Football 3 (RUS)
 https://95-213-224-179.livesports24.online/rumatchf3.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title=="4 رياضية SPORT",Eleven Sport1 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="4 رياضية SPORT",Eleven Sport1 
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title=="4 رياضية SPORT",Eleven Sport2 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="4 رياضية SPORT",Eleven Sport2 
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_1_hd.png" group-title=="4 رياضية SPORT",Cosmote Sport1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_1_hd.png" group-title="4 رياضية SPORT",Cosmote Sport1
 http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_2_hd.png" group-title=="4 رياضية SPORT",EPL COSMOTE 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_2_hd.png" group-title="4 رياضية SPORT",EPL COSMOTE 2
 http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_3_hd.png" group-title=="4 رياضية SPORT",EPL COSMOTE 3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_3_hd.png" group-title="4 رياضية SPORT",EPL COSMOTE 3
 http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://teevee-hd.com/img/foxsport1.png" group-title="4 رياضية SPORT",Fox Sport1
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
