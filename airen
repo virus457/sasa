@@ -210,13 +210,13 @@ https://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alkass2
 https://iptv-all.lanesh4d0w.repl.co/saudiarabia/ksasport1
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cBcOsY" group-title="4 رياضية SPORT",KSA Sports 2
 https://iptv-all.lanesh4d0w.repl.co/saudiarabia/ksasport2
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3guMGRv" group-title="رياضية SPORT",KSA Sports 1+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3guMGRv" group-title="4 رياضية SPORT",KSA Sports 1+
 https://or.tooliserver.com/live/KSA_SPORTS_1_HD/KSA_SPORTS_1_HD.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cBcOsY" group-title="رياضية SPORT",KSA Sports 2+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cBcOsY" group-title="4 رياضية SPORT",KSA Sports 2+
 https://or.tooliserver.com/live/KSA_SPORTS_2_HD/KSA_SPORTS_2_HD.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2SVldRf" group-title="رياضية SPORT",KSA Sports 3
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2SVldRf" group-title="4 رياضية SPORT",KSA Sports 3
 https://or.tooliserver.com/live/KSA_Sports_p1_HD/KSA_Sports_p1_HD.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vTCTdo" group-title="رياضية SPORT",KSA Sports 4
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vTCTdo" group-title="4 رياضية SPORT",KSA Sports 4
 https://or.tooliserver.com/live/KSA_Sports_p2_HD/KSA_Sports_p2_HD.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="4 رياضية SPORT",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
@@ -730,6 +730,8 @@ https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e4
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCBollywoodTV.png" group-title="8 أم بي سيMBC",|MBC| Bollywood SD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_3.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wP1ykH" group-title="8 أم بي سيMBC",variety FHD
+https://or149.tooliserver.com/live/149017_0.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.mbc.net/dam/jcr:06fda3f5-243b-4daa-8c02-cc48193704d1/panorama-og_.jpg" group-title="8 أم بي سيMBC",|MBC| Panorama SD
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="8 أم بي سيMBC",|MBC| 1 LOW
@@ -758,8 +760,6 @@ https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e4
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCBollywoodTV.png" group-title="8 أم بي سيMBC",|MBC| Bollywood LOW
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_5.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wP1ykH" group-title="8 أم بي سيMBC",variety FHD
-https://or149.tooliserver.com/live/149017_0.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.mbc.net/dam/jcr:06fda3f5-243b-4daa-8c02-cc48193704d1/panorama-og_.jpg" group-title="8 أم بي سيMBC",|MBC| Panorama LOW
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_5.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="8 أم بي سيMBC",MY-MBC 1 (الدقة التلقائية)
@@ -1027,6 +1027,18 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 http://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3rmSVuM" group-title="11 لبنانLEBANON",|AR| NBN HD
 https://nbntv.me:8443/nbntv/index.m3u8
+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="11 لبنانLEBANON",LBC int FHD
+https://or149.tooliserver.com/live/469_0.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36wrHJT" group-title="11 لبنانLEBANON",Future FHD
+https://or149.tooliserver.com/live/700_0.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2TY9eSV" group-title="11 لبنانLEBANON",OTV FHD
+https://or149.tooliserver.com/live/117_0.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3gZD15w" group-title="11 لبنانLEBANON",MTV Leb FHD
+https://or149.tooliserver.com/live/470_0.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LQixAW" group-title="11 لبنانLEBANON",ALJadeed FHD
+https://or149.tooliserver.com/live/381_0.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="12 فلسطينPALESTINE",PALESTINE فلسيطين
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NShtgo" group-title="12 فلسطينPALESTINE",بيت لحم مباشر
