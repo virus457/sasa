@@ -149,12 +149,10 @@ https://or.tooliserver.com/live/KSA_SPORTS_2_HD/KSA_SPORTS_2_HD.m3u8
 https://or149.tooliserver.com/live/149085_0.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2SVldRf" group-title="رياضية SPORT",KSA Sports 3
 https://or.tooliserver.com/live/KSA_Sports_p1_HD/KSA_Sports_p1_HD.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2SVldRf" group-title="رياضية SPORT",KSA Sports 3++
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2SVldRf" group-title="رياضية SPORT",KSA Sports 4
 https://or149.tooliserver.com/live/149086_0.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vTCTdo" group-title="رياضية SPORT",KSA Sports 4
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vTCTdo" group-title="رياضية SPORT",KSA Sports 4+
 https://or.tooliserver.com/live/KSA_Sports_p2_HD/KSA_Sports_p2_HD.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vTCTdo" group-title="رياضية SPORT",KSA Sports 4++
-https://or149.tooliserver.com/live/149088_0.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vYPM6d" group-title="رياضية SPORT",Al Ahly TV 
 https://or149.tooliserver.com/live/149171_0.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qnPGDJ" group-title="رياضية SPORT",Zamalek TV
