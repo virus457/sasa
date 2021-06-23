@@ -32,9 +32,9 @@ https://dnrnlyitx6h5m.cloudfront.net/out/v1/40ca17050fd84df5958a4b077e96cf1c/ind
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",1+تعمل وقت المبارات المهمه
 https://dnrnlyitx6h5m.cloudfront.net/out/v1/40ca17050fd84df5958a4b077e96cf1c/index_2.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",2تعمل وقت المبارات المهمه
-https://dnrnlyitx6h5m.cloudfront.net/out/v1/40ca17050fd84df5958a4b077e96cf1c/index.m3u8
+https://d9ze1epde1cvu.cloudfront.net/out/v1/ce621be8f1394df2a38d5c76bd1b4704/index.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",2تعمل وقت المبارات المهمه+
-https://dnrnlyitx6h5m.cloudfront.net/out/v1/40ca17050fd84df5958a4b077e96cf1c/index_2.m3u8
+https://d9ze1epde1cvu.cloudfront.net/out/v1/ce621be8f1394df2a38d5c76bd1b4704/index_2.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",3تعمل وقت المبارات المهمه
 https://d2hlh3cfn00706.cloudfront.net/out/v1/2f386e82fcd44df7bb6546436bc2de1a/index.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",3تعمل وقت المبارات المهمه
@@ -45,6 +45,8 @@ https://d32rnlt7udit.cloudfront.net/out/v1/1dc1b4c9726d41e8a482877f4a597d50/inde
 https://d32rnlt7udit.cloudfront.net/out/v1/1dc1b4c9726d41e8a482877f4a597d50/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS_MAX 1 HD
 http://8.anbdaouras.xyz/live/9889900/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS_MAX 1
+http://8.anbdaouras.xyz/live/6262622200/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS_MAX 2 HD
 http://5.amroutras.xyz/live/00002500/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS_MAX 4 HD
