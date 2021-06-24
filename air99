@@ -520,6 +520,8 @@ https://bit.ly/3pWtmPO
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2L5qamy" group-title="الاخبارNEWS",AL JAZEERA HD 
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2L5qamy" group-title="الاخبارNEWS",AL JAZEERA HD +
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/watch?v=EeCn9FN94RU
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2L5qamy" group-title="الاخبارNEWS",AL JAZEERA SD
 https://live-hls-web-aja.getaj.net/AJA/03.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3apfbwK" group-title="الاخبارNEWS",AL JAZEERA MUBASHER 
