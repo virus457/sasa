@@ -736,9 +736,9 @@ https://media2.livaat.com/TAHA-TV/index.m3u8
 http://82.212.74.99:8000/live/8112.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أطفال Children",Disney Channel HD
 http://58.65.171.202:8000/play/7350
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أطفال Children"Jim Jam
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أطفال Children",Jim Jam
 http://58.65.171.202:8000/play/7351
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أطفال Children"Nick Jr.
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أطفال Children",Nick Jr
 http://58.65.171.202:8000/play/3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://3abn.org/img/logos/tv/3ABN-Kids.png" group-title="أطفال Children",abn 3
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
