@@ -1193,43 +1193,6 @@ http://149.100.19.226:8001/play/Nile_News
 http://149.100.19.226:8001/play/Nile_Sport
 #EXTINF:-1 tvg-id="NileTVInternational.eg" tvg-name="Nile TV International" tvg-country="EG" tvg-language="English" tvg-logo=""group-title="15 المصرية Egypt",Nile TV International
 http://149.100.19.226:8001/play/Nile_TV
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Al-Nahar Drama
-http://45.92.69.131:8001/play/a01x
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Al-Nahar One
-http://45.92.69.131:8001/play/a01w
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Alhayat Muslsalat
-http://45.92.69.131:8001/play/a022
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Awraas TV channel
-http://45.92.69.131:8001/play/a019
-#EXTINF:0 tvg-id="cbc" group-title="15 المصرية Egypt",CBC
-http://45.92.69.131:8001/play/a01y
-#EXTINF:0 tvg-id="CBSDrama.uk" group-title="15 المصرية Egypt",CBC Drama
-http://45.92.69.131:8001/play/a020
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",CBC Sofra
-http://45.92.69.131:8001/play/a01z
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",CNBC ARABIYA
-http://45.92.69.131:8001/play/a025
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Dawacom TV
-http://45.92.69.131:8001/play/a01h
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Dohat Al-Quraan
-http://45.92.69.131:8001/play/a01d
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Extra News
-http://45.92.69.131:8001/play/a021
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Mix
-http://45.92.69.131:8001/play/a024
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",Zamalek Sports
-http://45.92.69.131:8001/play/a02d
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",dmc
-http://45.92.69.131:8001/play/a02b
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",dmc HD
-http://45.92.69.131:8001/play/a02a
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",dmc News
-http://45.92.69.131:8001/play/a02c
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",dmc drama
-http://45.92.69.131:8001/play/a02e
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",dmc masraheyat
-http://45.92.69.131:8001/play/a02f
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="16 المغربMAROCCO",16 المغربMAROCCO 
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="16 المغربMAROCCO",AL_Aoula_InterTV
