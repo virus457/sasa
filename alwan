@@ -1,22 +1,12 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MbqtfQ" group-title="الاردنJORDAN",Roya TV 
-https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2U2qtTo" group-title="العراق IRAQ",UTV Iraq
-http://185.234.111.26:8880/play/a0c1
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3giEXXW" group-title="السعودية Saudi-Arabia",Al-EKhbaria
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iA8qy5" group-title="السعودية Saudi-Arabia",Thikrayat
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y6MX4g" group-title="السعودية Saudi-Arabia",SBC
-
-
 #EXTINF:0 tvg-id="ext" group-title="سوريةSyria",AL ALAM SYRIA TV
 http://185.234.111.26:8880/play/a0dr
 #EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Syria News
 http://185.234.111.26:8880/play/a08e
 #EXTINF:0 tvg-id="ext" group-title="سوريةSyria",Al-Khabar TV
 http://185.234.111.26:8880/play/a0bm
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MbqtfQ" group-title="الاردنJORDAN",Roya TV 
+https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="الاردنJORDAN",RO`YA
 http://185.234.111.26:8880/play/a09l
 #EXTINF:0 tvg-id="ATV.tr" group-title="الاردنJORDAN",A TV
@@ -40,7 +30,7 @@ http://185.234.111.26:8880/play/a09v
 #EXTINF:0 tvg-id="ext" group-title="الاردنJORDAN",AL HAQEQA AL DAWLIAH
 http://185.234.111.26:8880/play/a0a2
 
-#EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",UTV Iraq
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2U2qtTo" group-title="العراق IRAQ",UTV Iraq
 http://185.234.111.26:8880/play/a0c1
 #EXTINF:0 tvg-id="ext" group-title="العراق IRAQ",Alhurra Iraq
 http://185.234.111.26:8880/play/a0dc
