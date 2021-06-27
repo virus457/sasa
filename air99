@@ -554,7 +554,7 @@ http://vs-cmaf-pushb-ww-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:b
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cuu2ZQ" group-title="الاخبارNEWS",RT RUSSIA TODAY 
 https://rt-arab.secure.footprint.net/1104.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3j2vJyR" group-title="الاخبارNEWS",AL ALAM HD
-https://live2.alalamtv.net/live/Alalam_high/index.m3u8
+https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Zh6UGm" group-title="الاخبارNEWS",Press TV HD
 https://live.presstv.com/liveprs/smil:liveprs/chunklist_slen.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3aABDDB" group-title="الاخبارNEWS",WATAN HD
