@@ -304,6 +304,34 @@ http://65.21.32.185:80/airmaxtvbenXC/vdqrbAkIin/217
 
 
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Movies premiere" tvg-logo="https://i.ibb.co/LJbTjFg/MOVE1.png" group-title="او اس انOSN",|AR| Bein:Movies premiere
+http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/174
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Movies action" tvg-logo="https://i.ibb.co/hsz1bRD/MOVE2.png" group-title="او اس انOSN",|AR| Bein:Movies action
+http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/175
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Movies drama" tvg-logo="https://i.ibb.co/cktgTTH/MOV3.png" group-title="او اس انOSN",|AR| Bein:Movies drama
+http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/176
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Movies family" tvg-logo="https://i.ibb.co/d4t1BDx/MOVE4.png" group-title="او اس انOSN",|AR| Bein:Movies family
+http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/177
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:DRAMA 1HD" tvg-logo="https://i.ibb.co/zJDpXKX/drama.png" group-title="او اس انOSN",|AR| Bein:DRAMA 1HD
+http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/178
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Series 1" tvg-logo="https://i.ibb.co/3WL29QW/SER1.png" group-title="او اس انOSN",|AR| Bein:Series 1
+http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/179
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Series 2" tvg-logo="https://i.ibb.co/RpQgTf0/SER2.png" group-title="او اس انOSN",|AR| Bein:Series 2
+http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/180
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein: Animal Planet HD" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-series-drama-logo.png" group-title="او اس انOSN",|AR| Bein: Animal Planet HD
+http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/181
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein: FOX Movies" tvg-logo="https://i.ibb.co/V9Mx0hV/FOX-Movies-1.png" group-title="او اس انOSN",|AR| Bein: FOX Movies
+http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/182
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein: FOX_Action_Movies" tvg-logo="https://i.ibb.co/g7Ss7sJ/Fox-Action-Movies-1.png" group-title="او اس انOSN",|AR| Bein: FOX_Action_Movies
+http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/183
+#EXTINF:-1 tvg-id="" tvg-name="BEIN FOX REWAYAT  VIP" tvg-logo="https://i.ibb.co/k5wpLSb/FOX-Ruwayat-1.png" group-title="او اس انOSN",BEIN FOX REWAYAT  VIP
+http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/184
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein: FOX_Crime" tvg-logo="https://i.ibb.co/Hd2r8T0/Fox-Crime-1.png" group-title="او اس انOSN",|AR| Bein: FOX_Crime
+http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/185
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Gourmet" tvg-logo="https://i.ibb.co/cQFw0Nz/concc.png" group-title="او اس انOSN",|AR| Bein:Gourmet
+http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/186
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:FATAFEAT" tvg-logo="https://i.ibb.co/Yjhzks2/FATAFEAT-1.png" group-title="او اس انOSN",|AR| Bein:FATAFEAT
+http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/187
 #EXTINF:-1 tvg-id="" tvg-name="OSN NATIONAL GEOGRAPHIC AD" tvg-logo="http://www.teledunet.com/logo.php?id=10125" group-title="او اس انOSN",OSN NATIONAL GEOGRAPHIC AD
 http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/137
 #EXTINF:-1 tvg-id="" tvg-name="OSN ALYAWM" tvg-logo="http://www.teledunet.com/logo.php?id=101450" group-title="او اس انOSN",OSN ALYAWM
@@ -378,34 +406,6 @@ http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/171
 http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/172
 #EXTINF:-1 tvg-id="" tvg-name="OSN HISTORY" tvg-logo="http://www.teledunet.com/logo.php?id=101525" group-title="او اس انOSN",OSN HISTORY
 http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/173
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Movies premiere" tvg-logo="https://i.ibb.co/LJbTjFg/MOVE1.png" group-title="او اس انOSN",|AR| Bein:Movies premiere
-http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/174
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Movies action" tvg-logo="https://i.ibb.co/hsz1bRD/MOVE2.png" group-title="او اس انOSN",|AR| Bein:Movies action
-http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/175
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Movies drama" tvg-logo="https://i.ibb.co/cktgTTH/MOV3.png" group-title="او اس انOSN",|AR| Bein:Movies drama
-http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/176
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Movies family" tvg-logo="https://i.ibb.co/d4t1BDx/MOVE4.png" group-title="او اس انOSN",|AR| Bein:Movies family
-http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/177
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:DRAMA 1HD" tvg-logo="https://i.ibb.co/zJDpXKX/drama.png" group-title="او اس انOSN",|AR| Bein:DRAMA 1HD
-http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/178
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Series 1" tvg-logo="https://i.ibb.co/3WL29QW/SER1.png" group-title="او اس انOSN",|AR| Bein:Series 1
-http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/179
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Series 2" tvg-logo="https://i.ibb.co/RpQgTf0/SER2.png" group-title="او اس انOSN",|AR| Bein:Series 2
-http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/180
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein: Animal Planet HD" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-series-drama-logo.png" group-title="او اس انOSN",|AR| Bein: Animal Planet HD
-http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/181
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein: FOX Movies" tvg-logo="https://i.ibb.co/V9Mx0hV/FOX-Movies-1.png" group-title="او اس انOSN",|AR| Bein: FOX Movies
-http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/182
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein: FOX_Action_Movies" tvg-logo="https://i.ibb.co/g7Ss7sJ/Fox-Action-Movies-1.png" group-title="او اس انOSN",|AR| Bein: FOX_Action_Movies
-http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/183
-#EXTINF:-1 tvg-id="" tvg-name="BEIN FOX REWAYAT  VIP" tvg-logo="https://i.ibb.co/k5wpLSb/FOX-Ruwayat-1.png" group-title="او اس انOSN",BEIN FOX REWAYAT  VIP
-http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/184
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein: FOX_Crime" tvg-logo="https://i.ibb.co/Hd2r8T0/Fox-Crime-1.png" group-title="او اس انOSN",|AR| Bein: FOX_Crime
-http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/185
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Gourmet" tvg-logo="https://i.ibb.co/cQFw0Nz/concc.png" group-title="او اس انOSN",|AR| Bein:Gourmet
-http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/186
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:FATAFEAT" tvg-logo="https://i.ibb.co/Yjhzks2/FATAFEAT-1.png" group-title="او اس انOSN",|AR| Bein:FATAFEAT
-http://65.21.32.185:80/airmaxosXC/YfwwKPAZAH/187
 
 
 
