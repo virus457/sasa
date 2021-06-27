@@ -1579,18 +1579,14 @@ https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8
 http://stream02.fasttelco.net/live/_definst_/alrai.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2KEJiaN" group-title="الكويت Kuwait",FUNOON
 https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3penCkU" group-title="الكويت Kuwait",قناة atv الكويتية 1 SD
-rtmp://168.187.49.14:1935/live//atv?v=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Nocm7n" group-title="الكويت Kuwait",قناه المعارف الكويتيه SD
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/396aKrt" group-title="الكويت Kuwait",Kuwait MarinaFM
 http://31.14.40.102:8006/MarinaFM%2090.4.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MV87R9" group-title="الكويت Kuwait",Kuwait MarinaTv
 https://gulfsat.cdn.easybroadcast.fr/abr_live/MarinaTv/live/MarinaTv_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3penCkU" group-title="الكويت Kuwait",قناة atv الكويتية 1 SD+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3penCkU" group-title="الكويت Kuwait",قناة atv الكويتية 1 SD
 https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MUJ2FX" group-title="الكويت Kuwait",Kuwait Scope TV
-https://gulfsat.cdn.easybroadcast.fr/live/Scope_abr/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MV8pHJ" group-title="الكويت Kuwait",Kuwait Al-Sabah
 https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3d5ZrSy" group-title="الكويت Kuwait",Kuwait Al-Shahed
