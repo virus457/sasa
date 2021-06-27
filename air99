@@ -43,18 +43,71 @@ http://b.wnbouhagsa.xyz/live/6262622200/index.m3u8
 
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",4تعمل وقت المبارات المهمه+
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS_MAX 1 HD
-http://8.anbdaouras.xyz/live/9889900/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS_MAX 1
-http://8.anbdaouras.xyz/live/6262622200/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS_MAX 2 HD
-http://5.amroutras.xyz/live/00002500/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS_MAX 4 HD
-http://3.amarteyyy.xyz/live/001087800/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS_MAX 5 HD
-http://3.amarteyyy.xyz/live/0679877700/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS_MAX 6 HD
-http://3.amarteyyy.xyz/live/790006600/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bit.ly/2CDKh6w" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 1 FHD
+http://3.adnaraoun.xyz/live/9889900/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bit.ly/2CDKh6w" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 1 FHD
+http://h.yaminoura.xyz/live/9889900/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2UJyFbx" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 2 FHD
+http://3.adnaraoun.xyz/live/00002500/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2UJyFbx" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 2 FHD
+http://c.wshdkoura.xyz/live/00002500/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3w0EFJG" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 5 FHD
+http://3.adnaraoun.xyz/live/0010871100/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3vXveuv" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 6 FHD
+http://3.adnaraoun.xyz/live/790008877/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3vXveuv" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 6 FHD
+http://c.wshdkoura.xyz/live/790008877/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bit.ly/2CDKh6w" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 1 HD
+http://1.adnaraoun.xyz/live/6262622200/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bit.ly/2CDKh6w" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 1 HD
+http://d.youminour.xyz/live/6262622200/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2UJyFbx" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 2 HD
+http://1.adnaraoun.xyz/live/331210000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2UJyFbx" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 2 HD
+http://gog.daroudaraw.xyz/live/331210000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3w0EFJG" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 5 HD
+http://1.adnaraoun.xyz/live/0679877700/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3w0EFJG" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 5 HD
+http://c.wshdkoura.xyz/live/0679877700/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3vXveuv" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 6 HD
+http://1.adnaraoun.xyz/live/790006600/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3vXveuv" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 6 HD
+http://d.youminour.xyz/live/790006600/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bit.ly/2CDKh6w" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 1 SD
+http://2.adnaraoun.xyz/live/05500021500/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bit.ly/2CDKh6w" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 1 SD
+http://2.adnaraoun.xyz/live/05500021500/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2UJyFbx" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 2 SD
+http://2.adnaraoun.xyz/live/44619987700/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2UJyFbx" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 2 SD
+http://i.younmkahra.xyz/live/44619987700/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3w0EFJG" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 5 SD
+http://2.adnaraoun.xyz/live/1611336900/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3w0EFJG" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 5 SD
+http://k.zouwabrou.xyz/live/1611336900/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3vXveuv" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 6 SD
+http://2.adnaraoun.xyz/live/1666111100/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3vXveuv" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 6 SD
+http://k.zouwabrou.xyz/live/1666111100/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bit.ly/2CDKh6w" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 1 LOW
+http://2.adnaraoun.xyz/live/0033016100/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bit.ly/2CDKh6w" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 1 LOW
+http://k.zouwabrou.xyz/live/0033016100/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2UJyFbx" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 2 LOW
+http://2.adnaraoun.xyz/live/8996000400/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2UJyFbx" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 2 LOW
+http://mnr.banhkour.xyz/live/8996000400/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3w0EFJG" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 5 LOW
+http://2.adnaraoun.xyz/live/49623698500/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3w0EFJG" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 5 LOW
+http://2.adnaraoun.xyz/live/49623698500/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3vXveuv" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 6 LOW
+http://2.adnaraoun.xyz/live/6555589700/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3vXveuv" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", BEINSPORTS MAX 6 LOW
+http://mnr.banhkour.xyz/live/6555589700/index.m3u8
 #EXTINF:-150 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORT EXTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sports 1 Eng
@@ -62,14 +115,17 @@ http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sports 2 Eng
 http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sports 1 Premium SD
-http://ferrarico.referrari.com/live/60127_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sports 2 Premium
+https://ferrarico.referrari.com/live/60127_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sports 1 Premium HD
+https://ferrarico.referrari.com/live/60091_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sports 2 Premium HD
 https://ferrarico.referrari.com/live/60092_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sports 3 Premium
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sports 3 Premium HD
 https://ferrarico.referrari.com/live/60093_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sports 3 Premium SD
+https://ferrarico.referrari.com/live/60129_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sports 3 HD
 http://ferrarico.referrari.com/live/60122_.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sports 1 LOW
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
@@ -1011,10 +1067,8 @@ http://82.137.248.16:1935/SEdu/stream19042021/chunklist_w1906671677.m3u8
 http://82.137.248.16:1935/Nour/stream19042021/chunklist_w92417698.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/4x2uwpx.png" group-title="سوريةSyria",Ugarit TV
 http://82.137.248.16:1935/Ugarit/stream19042021/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pdJy1g0/syria-al3alam.png" group-title="سوريةSyria",|AR| Syria Alam
-https://live2.alalamtv.net/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cRDOoO" group-title="سوريةSyria",SYR-ALalam Syria
-https://live2.presstv.com/live/alam/chunklist.m3u8
+http://149.100.19.226:8001/play/AL_ALAM_SYRIA_TV
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="سوريةSyria",SYR-HALAB TODAY SD
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="سوريةSyria",SYR-HALAB TODAY SD+
