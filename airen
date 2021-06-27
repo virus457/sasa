@@ -29,16 +29,71 @@ https://m3u-editor.com/serve/ec42d3b0-7eb7-11eb-b4c9-732e1b830b41/231889148
 https://m3u-editor.com/serve/ec42d3b0-7eb7-11eb-b4c9-732e1b830b41/231889149
 #EXTINF: -1 tvg-id="ext" tvg-logo="https://bit.ly/3rfTF4D" group-title="1 بين سبور BEIN SPORT", 4تعمل وقت المبارات المهمه+
 https://m3u-editor.com/serve/ec42d3b0-7eb7-11eb-b4c9-732e1b830b41/231889150
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1 بين سبور BEIN SPORT", BEINSPORTS_MAX 1 HD
-http://8.anbdaouras.xyz/live/9889900/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1 بين سبور BEIN SPORT", BEINSPORTS_MAX 2 HD
-http://5.amroutras.xyz/live/00002500/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1 بين سبور BEIN SPORT", BEINSPORTS_MAX 4 HD
-http://3.amarteyyy.xyz/live/001087800/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1 بين سبور BEIN SPORT", BEINSPORTS_MAX 5 HD
-http://3.amarteyyy.xyz/live/0679877700/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1 بين سبور BEIN SPORT", BEINSPORTS_MAX 6 HD
-http://3.amarteyyy.xyz/live/790006600/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bit.ly/2CDKh6w" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 1 FHD
+http://3.adnaraoun.xyz/live/9889900/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bit.ly/2CDKh6w" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 1 FHD
+http://h.yaminoura.xyz/live/9889900/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2UJyFbx" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 2 FHD
+http://3.adnaraoun.xyz/live/00002500/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2UJyFbx" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 2 FHD
+http://c.wshdkoura.xyz/live/00002500/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3w0EFJG" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 5 FHD
+http://3.adnaraoun.xyz/live/0010871100/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3vXveuv" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 6 FHD
+http://3.adnaraoun.xyz/live/790008877/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3vXveuv" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 6 FHD
+http://c.wshdkoura.xyz/live/790008877/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bit.ly/2CDKh6w" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 1 HD
+http://1.adnaraoun.xyz/live/6262622200/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bit.ly/2CDKh6w" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 1 HD
+http://d.youminour.xyz/live/6262622200/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2UJyFbx" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 2 HD
+http://1.adnaraoun.xyz/live/331210000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2UJyFbx" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 2 HD
+http://gog.daroudaraw.xyz/live/331210000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3w0EFJG" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 5 HD
+http://1.adnaraoun.xyz/live/0679877700/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3w0EFJG" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 5 HD
+http://c.wshdkoura.xyz/live/0679877700/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3vXveuv" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 6 HD
+http://1.adnaraoun.xyz/live/790006600/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3vXveuv" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 6 HD
+http://d.youminour.xyz/live/790006600/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bit.ly/2CDKh6w" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 1 SD
+http://2.adnaraoun.xyz/live/05500021500/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bit.ly/2CDKh6w" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 1 SD
+http://2.adnaraoun.xyz/live/05500021500/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2UJyFbx" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 2 SD
+http://2.adnaraoun.xyz/live/44619987700/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2UJyFbx" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 2 SD
+http://i.younmkahra.xyz/live/44619987700/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3w0EFJG" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 5 SD
+http://2.adnaraoun.xyz/live/1611336900/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3w0EFJG" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 5 SD
+http://k.zouwabrou.xyz/live/1611336900/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3vXveuv" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 6 SD
+http://2.adnaraoun.xyz/live/1666111100/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3vXveuv" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 6 SD
+http://k.zouwabrou.xyz/live/1666111100/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bit.ly/2CDKh6w" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 1 LOW
+http://2.adnaraoun.xyz/live/0033016100/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bit.ly/2CDKh6w" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 1 LOW
+http://k.zouwabrou.xyz/live/0033016100/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2UJyFbx" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 2 LOW
+http://2.adnaraoun.xyz/live/8996000400/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2UJyFbx" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 2 LOW
+http://mnr.banhkour.xyz/live/8996000400/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3w0EFJG" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 5 LOW
+http://2.adnaraoun.xyz/live/49623698500/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3w0EFJG" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 5 LOW
+http://2.adnaraoun.xyz/live/49623698500/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3vXveuv" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 6 LOW
+http://2.adnaraoun.xyz/live/6555589700/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3vXveuv" group-title="1 بين سبور BEIN SPORT", BEINSPORTS MAX 6 LOW
+http://mnr.banhkour.xyz/live/6555589700/index.m3u8
 #EXTINF:-150 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BEIN SPORT EXTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 1 Eng
@@ -46,19 +101,17 @@ http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 2 Eng
 http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 1 Premium SD
-http://ferrarico.referrari.com/live/60127_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 2 Premium SD
-http://ferrarico.referrari.com/live/60133_.m3u8
+https://ferrarico.referrari.com/live/60127_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 1 Premium HD
+https://ferrarico.referrari.com/live/60091_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 2 Premium HD
+https://ferrarico.referrari.com/live/60092_.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 3 Premium HD
+https://ferrarico.referrari.com/live/60093_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 3 Premium SD
-http://ferrarico.referrari.com/live/60129_.m3u8
+https://ferrarico.referrari.com/live/60129_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 3 HD
 http://ferrarico.referrari.com/live/60122_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 1 Premium
-https://ferrarico.referrari.com/live/60091_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 2 Premium
-https://ferrarico.referrari.com/live/60092_.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 3 Premium
-https://ferrarico.referrari.com/live/60093_.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 1 LOW
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
@@ -85,6 +138,7 @@ http://ferrarico.referrari.com/live/60099_.m3u8
 http://ferrarico.referrari.com/live/60136_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="1 بين سبور BEIN SPORT",BeIN Sports 6
 http://ferrarico.referrari.com/live/60137_.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 1" tvg-logo="https://i.pinimg.com/originals/95/f6/68/95f6681b3ad0c0404b04a7c4a8cccb06.png" group-title="1 بين سبور BEIN SPORT",|AR| BEIN SPORTS MAX 1
 http://65.21.32.185:80/airmaxtvprobenX/70vcU3uNrH/273
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 2" tvg-logo="https://i.pinimg.com/originals/be/d9/d2/bed9d21acfa540d2ca51e0ed43236384.png" group-title="1 بين سبور BEIN SPORT",|AR| BEIN SPORTS MAX 2
@@ -143,12 +197,7 @@ http://65.21.32.185:80/airmaxtvprobenX/70vcU3uNrH/215
 http://65.21.32.185:80/airmaxtvprobenX/70vcU3uNrH/216
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 10 SD  1M" tvg-logo="https://i.ibb.co/T8Gw0JT/HD10.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 10 SD  1M
 http://65.21.32.185:80/airmaxtvprobenX/70vcU3uNrH/217
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3tecbMr" group-title="1 بين سبور BEIN SPORT",beIN Sport Extra
-https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MI09dC" group-title="1 بين سبور BEIN SPORT",BEIN​ SPORT​1 HD(مشغل GSE)
-https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mm8qUD" group-title="1 بين سبور BEIN SPORT",BEIN​ SPORT​2 HD(مشغل GSE)
-https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="1VIPباقة وياك",▂ ▄ ▅ ▆☆ باقة وياك VIP ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
