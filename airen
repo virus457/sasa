@@ -573,7 +573,7 @@ http://vs-cmaf-pushb-ww-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:b
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cuu2ZQ" group-title="5 الاخبارNEWS",RT RUSSIA TODAY (الدقة التلقائية)
 https://rt-arab.secure.footprint.net/1104.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3j2vJyR" group-title="5 الاخبارNEWS",AL ALAM HD
-https://live2.alalamtv.net/live/Alalam_high/index.m3u8
+https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Zh6UGm" group-title="5 الاخبارNEWS",Press TV HD
 https://live.presstv.com/liveprs/smil:liveprs/chunklist_slen.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3aABDDB" group-title="5 الاخبارNEWS",WATAN HD
@@ -957,7 +957,7 @@ http://82.137.248.16:1935/Ugarit/stream19042021/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pdJy1g0/syria-al3alam.png" group-title="10 سوريةSyria",|AR| Syria Alam
 https://live2.alalamtv.net/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cRDOoO" group-title="10 سوريةSyria",SYR-ALalam Syria
-https://live2.presstv.com/live/alam/chunklist.m3u8
+http://149.100.19.226:8001/play/AL_ALAM_SYRIA_TV
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="10 سوريةSyria",SYR-HALAB TODAY SD
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="10 سوريةSyria",SYR-HALAB TODAY SD+
