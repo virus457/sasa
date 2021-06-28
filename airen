@@ -11052,9 +11052,6 @@ http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
 #EXTINF:0 tvg-id="ug-volna" group-title="Ukraine",Южная волна (720p)
 http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/playlist.m3u8
 
-#EXTM3U
-#EXTINF:-1 tvg-name="*** ENGLAND - github.com/Free-IPTV" group-title="United Kingdom" tvg-logo="https://i.imgur.com/vKXvAZx.png",*** ENGLAND - github.com/Free-IPTV
-http://
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="United Kingdom",92 News UK
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="United Kingdom",Action Movies
