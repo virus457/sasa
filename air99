@@ -283,10 +283,17 @@ http://41.224.63.108:7788/play/a01r
 https://22live00.akamaized.net/RMC_Sports_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_2.png" group-title="رياضية SPORT", RMC 2
 https://22live00.akamaized.net/RMC_Sports_2/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Sky Bundesliga1 DE
+http://185.234.111.37:8880/play/a05e
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Sky Bundesliga1 DE+
+http://185.234.111.37:8880/play/a04w
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Sky Bundesliga1 DE++
 http://31.220.41.88:8081/live/de-skybundes1.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Sky Bundesliga2 DE
+http://185.234.111.37:8880/play/a04p
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Sky Bundesliga2 DE+
+http://185.234.111.37:8880/play/a056
+#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Sky Bundesliga2 DE++
 http://31.220.41.88:8081/live/de-skybundes2.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Sky Bundesliga3 DE
 http://31.220.41.88:8081/live/de-skybundes3.stream/playlist.m3u8
