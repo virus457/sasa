@@ -625,6 +625,10 @@ https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:0 tvg-id="ARD.de" group-title="DEUTSCH",das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:0 tvg-id="RTL.de" group-title="DEUTSCH",RTL
+https://cdn1.mobiletv.bg/T5/rtl/rtl_794613_850k.m3u8
+#EXTINF:0 tvg-id="RTL.de" group-title="DEUTSCH",RTL west
+https://rtl_west-i.akamaihd.net/hls/live/656246/rtlwest/master.m3u8
 #EXTINF:0 tvg-id="tagesschau24.de" group-title="DEUTSCH",tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
 #EXTINF:0 tvg-id="ARTE.de" group-title="DEUTSCH",arte HD
@@ -637,36 +641,6 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
 #EXTINF:0 tvg-id="ort-hd" group-title="DEUTSCH",one HD
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
-#EXTM3U
-#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="DEUTSCH",Sky Atlantic HD
-http://185.234.111.37:8880/play/a053
-#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="DEUTSCH",Sky Cinema Action HD
-http://185.234.111.37:8880/play/a047
-#EXTINF:0 tvg-id="SkyCinemaBestOf.de" group-title="DEUTSCH",Sky Cinema Best Of HD
-http://185.234.111.37:8880/play/a06z
-#EXTINF:0 tvg-id="SkyCinemaClassic.it" group-title="DEUTSCH",Sky Cinema Classics
-http://185.234.111.37:8880/play/a04z
-#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="DEUTSCH",Sky Cinema Family HD
-http://185.234.111.37:8880/play/a04n
-#EXTINF:0 tvg-id="SkyCinemaFun.de" group-title="DEUTSCH",Sky Cinema Fun
-http://185.234.111.37:8880/play/a04c
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Sky Cinema Premieren +24 HD
-http://185.234.111.37:8880/play/a05l
-#EXTINF:0 tvg-id="SkyPremieren.de" group-title="DEUTSCH",Sky Cinema Premieren HD
-http://185.234.111.37:8880/play/a04y
-#EXTINF:0 tvg-id="SkyCinemaSpecial.de" group-title="DEUTSCH",Sky Cinema Special HD
-http://185.234.111.37:8880/play/a054
-#EXTINF:0 tvg-id="SkyCinemaThriller.de" group-title="DEUTSCH",Sky Cinema Thriller HD
-http://185.234.111.37:8880/play/a05a
-#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="DEUTSCH",Sky Comedy HD
-http://185.234.111.37:8880/play/a04i
-#EXTINF:0 tvg-id="SkyCrime.de" group-title="DEUTSCH",Sky Crime HD
-http://185.234.111.37:8880/play/a04t
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Sky Krimi HD
-http://185.234.111.37:8880/play/a05b
-#EXTINF:0 tvg-id="Sky1.uk" group-title="DEUTSCH",Sky One HD
-http://185.234.111.37:8880/play/a04o
-
 #EXTM3U
 #EXTINF:0 tvg-id="Kabel.de" group-title="DEUTSCH",kabel eins HD
 http://5.146.116.76:8001/1:0:19:7D67:141:270F:FFFF0000:0:0:0
@@ -922,8 +896,6 @@ http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8
 http://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Rheinmain TV
 http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8
-#EXTINF:0 tvg-id="RTL.de" group-title="DEUTSCH",RTL
-http://95.107.132.104/out/u/115_1.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Saarland Fernsehen 1
 http://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Saarland Fernsehen 2
