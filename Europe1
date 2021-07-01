@@ -262,6 +262,33 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/69
 https://mn-nl.mncdn.com/blutv_diyanet/smil:diyanet_sd.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",DiyanetTV+
 http://79.124.14.198:8088/play/a093
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",beIN Boxofflce 1
+https://srvb.habersizgelme.xyz/kaynakstreamradarco/7/strmrdr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",beIN Boxofflce 2
+https://srvb.habersizgelme.xyz/kaynakstreamradarco/8/strmrdr.m3u8
+#EXTINF:0 tvg-id="TurkmaxGurme.tr" group-title="TURKEY",beIN GURME
+https://srvb.habersizgelme.xyz/kaynakstreamradarco/10/strmrdr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",beIN sport haber
+https://srvb.habersizgelme.xyz/kaynakstreamradarco/11/strmrdr.m3u8
+#EXTINF:0 tvg-id="MoviemaxAction.tr" group-title="TURKEY",beIN MOVIES ACTION
+https://srvb.habersizgelme.xyz/kaynakstreamradarco/13/strmrdr.m3u8
+#EXTINF:0 tvg-id="MoviemaxFamily.tr" group-title="TURKEY",beIN MOVIES FAMILY
+https://srvb.habersizgelme.xyz/kaynakstreamradarco/15/strmrdr.m3u8
+#EXTINF:0 tvg-id="MoviemaxPremier2.tr" group-title="TURKEY",MOVIESMART PREMIUM 2
+https://srvb.habersizgelme.xyz/kaynakstreamradarco/17/strmrdr.m3u8
+#EXTINF:0 tvg-id="MoviemaxStars.tr" group-title="TURKEY",beIN MOVIES STARS
+https://srvb.habersizgelme.xyz/kaynakstreamradarco/18/strmrdr.m3u8
+#EXTINF:0 tvg-id="MoviemaxTurk.tr" group-title="TURKEY",beIN MOVIES TURK
+https://srvb.habersizgelme.xyz/kaynakstreamradarco/19/strmrdr.m3u8
+#EXTINF:0 tvg-id="MoviemaxStars.tr" group-title="TURKEY",beIN MOVIES STARS HD
+https://srvb.habersizgelme.xyz/kaynakstreamradarco/20/strmrdr.m3u8
+#EXTINF:0 tvg-id="MoviemaxAction2.tr" group-title="TURKEY",beIN MOVIES ACTION 2
+https://srvb.habersizgelme.xyz/kaynakstreamradarco/21/strmrdr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",beIN SERIES HD 1
+https://srvb.habersizgelme.xyz/kaynakstreamradarco/22/strmrdr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",beIN SERIES HD 2
+https://srvb.habersizgelme.xyz/kaynakstreamradarco/23/strmrdr.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",YOL TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",MERKEZ TV
