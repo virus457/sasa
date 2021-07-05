@@ -1205,11 +1205,6 @@ https://or149.tooliserver.com/live/117_0.m3u8
 https://or149.tooliserver.com/live/470_0.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LQixAW" group-title="لبنانLEBANON",ALJadeed FHD
 https://or149.tooliserver.com/live/381_0.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="لبنانLEBANON",mtv1
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/140.m3u8
-#EXTINF:0 tvg-id="o-tv" group-title="لبنانLEBANON",otv
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/152.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="فلسطينPALESTINE",PALESTINE فلسيطين
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",كيف احصل على الكود
