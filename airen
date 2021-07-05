@@ -1031,8 +1031,6 @@ http://82.137.248.16:1935/Nour/stream19042021/chunklist_w1594837314.m3u8
 http://82.137.248.16:1935/Ugarit/stream19042021/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pdJy1g0/syria-al3alam.png" group-title="10 سوريةSyria",|AR| Syria Alam
 https://live2.alalamtv.net/live/Alalam/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cRDOoO" group-title="10 سوريةSyria",SYR-ALalam Syria
-http://149.100.19.226:8001/play/AL_ALAM_SYRIA_TV
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hcSrF6" group-title="10 سوريةSyria",ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="10 سوريةSyria",SYR-HALAB TODAY SD
@@ -1059,15 +1057,6 @@ http://82.137.248.16:1935/RTartus/RTartusLive/playlist.m3u8
 https://radioshamfm.grtvstream.com:8400/;
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="10 سوريةSyria",Minbij TV
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/45
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="10 سوريةSyria",sy drama
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/46.m3u8
-#EXTINF:0 tvg-id="ext" group-title="10 سوريةSyria",lana
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/31.m3u8
-#EXTINF:0 tvg-id="ext" group-title="10 سوريةSyria",lana +
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/49.m3u8
-#EXTINF:0 tvg-id="ext" group-title="10 سوريةSyria",sama1
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/135.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="11 لبنانLEBANON",11 لبنانLEBANON
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="11 لبنانLEBANON",LBN-ldc lebanon SD
@@ -12426,42 +12415,3 @@ http://65.21.32.185:80/airmaxtvproalLX/PGhUIL9jY5/245
 http://65.21.32.185:80/airmaxtvproalLX/PGhUIL9jY5/246
 #EXTINF:-1 tvg-id="" tvg-name="AWRASS TV" tvg-logo="" group-title="18 الجزائرALGERIEN",AWRASS TV
 http://65.21.32.185:80/airmaxtvproalLX/PGhUIL9jY5/247
-
-
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",on time
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/18.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",on time 2
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/19.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",on e
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/23.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",on drama
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/24.m3u8
-#EXTINF:0 tvg-id="cbc" group-title="15 المصرية Egypt",cbc
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/27.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",dmc
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/30.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",cbc sofra
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/32.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",dmc drama
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/33.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",nile drama
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/41.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",pnc food
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/50.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",sada
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/52.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",sada drama
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/53.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",kahera
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/55.m3u8
-#EXTINF:0 tvg-id="Ten.es" group-title="15 المصرية Egypt",ten
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/112.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",mix1
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/143.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",om dorman
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/149.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",dream
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/151.m3u8
-#EXTINF:0 tvg-id="ext" group-title="15 المصرية Egypt",on time 33
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/154.m3u8
