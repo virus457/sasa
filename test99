@@ -1,4 +1,0 @@
-#EXTM3U
-#EXTINF:0 group-title="المصرية Egypt",ON_Egy_400
-#EXTVLCOPT:http-referrer=http://azrotv.com/
-http://teledunet.com:8080/live/azrotv/azrotv2021/10170.m3u8
