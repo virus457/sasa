@@ -1201,6 +1201,8 @@ http://148.66.130.171:1935/Alahadlive/AlahadTV/chunklist.m3u8
 https://streaming.aletejahtv.iq:1937/etejah-live/smil:etejah.smil/chunklist.m3u8
 #EXTINF: tvg-logo="https://bit.ly/39dxm9H" group-title="15 المصرية Egypt", المصرية
 https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hNP5ax" group-title="15 المصرية Egypt",Ten TV
+https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8TgjS" group-title="15 المصرية Egypt",Omg Channel TV
 http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y4Vq87" group-title="15 المصرية Egypt",Mekameleen مكملين
@@ -1932,6 +1934,12 @@ https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/29.mp3
 https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="31 اسلاميةIslami",31 اسلاميةIslami
 https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="31 اسلاميةIslami",Alnada
+https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="31 اسلاميةIslami",noble
+https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="31 اسلاميةIslami",mawda
+http://82.212.74.98:8000/live/7821.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="31 اسلاميةIslami",Quraan Kareem
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3efx1Ge" group-title="31 اسلاميةIslami",Daawah TV
