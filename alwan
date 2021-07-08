@@ -572,6 +572,23 @@ http://65.21.32.185:80/airmaxspXC/wTLHfJydP9/12
 http://65.21.32.185:80/airmaxspXC/wTLHfJydP9/13
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD SPACE" tvg-logo="" group-title="باقة قنوات المجد",|AR| AL MAJD SPACE
+http://65.21.32.185:80/almachd/0EwAovo7ak/280
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD HADITH" tvg-logo="" group-title="باقة قنوات المجد",|AR| AL MAJD HADITH
+http://65.21.32.185:80/almachd/0EwAovo7ak/281
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD RAWDHA" tvg-logo="" group-title="باقة قنوات المجد",|AR| AL MAJD RAWDHA
+http://65.21.32.185:80/almachd/0EwAovo7ak/282
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD KIDS" tvg-logo="" group-title="باقة قنوات المجد",|AR| AL MAJD KIDS
+http://65.21.32.185:80/almachd/0EwAovo7ak/283
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD DOC" tvg-logo="" group-title="باقة قنوات المجد",|AR| AL MAJD DOC
+http://65.21.32.185:80/almachd/0EwAovo7ak/284
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD BASSMA" tvg-logo="" group-title="باقة قنوات المجد",|AR| AL MAJD BASSMA
+http://65.21.32.185:80/almachd/0EwAovo7ak/285
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD SCIENCE" tvg-logo="" group-title="باقة قنوات المجد",|AR| AL MAJD SCIENCE
+http://65.21.32.185:80/almachd/0EwAovo7ak/286
+
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="OSN KIDS" tvg-logo="https://media.elcinema.com/tvguide/1232_1.png" group-title="أطفال Children",OSN KIDS
