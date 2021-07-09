@@ -1085,6 +1085,16 @@ http://live.btv2020.com:1935/live/btv/chunklist.m3u8
 https://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alfajertv 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="12 فلسطينPALESTINE",AlFajer 2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="12 فلسطينPALESTINE",ShababFM
+https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="12 فلسطينPALESTINE",Nablus 1 live Z
+http://streaming.zaytonatube.com:8080/nb/nb/video.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="12 فلسطينPALESTINE",Nablus 2 live Z
+http://streaming.zaytonatube.com:8080/nablusmix2/nablusmix2/video.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="12 فلسطينPALESTINE",Quran Nablus Z
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="12 فلسطينPALESTINE",mawal vpn
+http://vstream3.hadara.ps:8081/MawwalHD_web/web/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qlrdy3" group-title="12 فلسطينPALESTINE",AWDAH TV
 http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3tVYEcS" group-title="12 فلسطينPALESTINE",Hala Ramallah
