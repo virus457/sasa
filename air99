@@ -1267,10 +1267,22 @@ https://bit.ly/3pWtmPO
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NShtgo" group-title="فلسطينPALESTINE",بيت لحم مباشر
 http://live.btv2020.com:1935/live/btv/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NShtgo" group-title="فلسطينPALESTINE",بيت لحم مباشر+
+http://stream2.blue.ps:1935/live/btv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="فلسطينPALESTINE",AlFajer 1
 https://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alfajertv 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="فلسطينPALESTINE",AlFajer 2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",ShababFM
+https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",Nablus 1 live Z
+http://streaming.zaytonatube.com:8080/nb/nb/video.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",Nablus 2 live Z
+http://streaming.zaytonatube.com:8080/nablusmix2/nablusmix2/video.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",Quran Nablus Z
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="فلسطينPALESTINE",mawal
+http://vstream3.hadara.ps:8081/MawwalHD_web/web/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qlrdy3" group-title="فلسطينPALESTINE",AWDAH TV
 http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3tVYEcS" group-title="فلسطينPALESTINE",Hala Ramallah
@@ -1279,7 +1291,7 @@ https://live.halaramallahtv.com:8443/HRamallah-Tv/HalaRamallah/chunklist.m3u8
 http://streaming.zaytonatube.com:8080/nb/nb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2N3DDwc" group-title="فلسطينPALESTINE",Rehan TV
 http://vstream3.hadara.ps:8081/rehan_web/web/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MMUxiu" group-title="فلسطينPALESTINE",شبكة فلسطين الاخبارية
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MMUxiu" group-title="فلسطينPALESTINE",PNN
 http://217.21.0.15:8081/pnn/pnn/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36xb7K2" group-title="فلسطينPALESTINE", Watar tv
 http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8
@@ -1323,7 +1335,6 @@ http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
 http://217.21.0.217:8081/AlfajertvHD2_web/web/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="فلسطينPALESTINE",AlFajer 4 VPN
 http://217.21.0.217:8081/AlfajertvHD1_web/web1/chunks.m3u8
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oaeb4K" group-title="الاردنJORDAN",الاردنJORDAN
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاردنJORDAN",كيف احصل على الكود
