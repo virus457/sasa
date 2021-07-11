@@ -1311,8 +1311,20 @@ https://streaming.najah.edu:8443/hls/AlNajah_high/index.m3u8
 http://93.184.1.247:8080/Paestin_Edu/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/38dBhCh" group-title="فلسطينPALESTINE",قناه مكان
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2OpNXig" group-title="فلسطينPALESTINE",PAL-AlQuds
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hZBGMB" group-title="فلسطينPALESTINE",PAL-AlQuds
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3yMEWC4" group-title="فلسطينPALESTINE",PAL-Hekaya TV
+https://streaming.zaytonatube.com:8081/Hekaya/hekayamix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3k7igs4" group-title="فلسطينPALESTINE",PAL-MawwalHD
+http://vstream3.hadara.ps:8081/MawwalHD_web/web/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3xB2Xvo" group-title="فلسطينPALESTINE",PAL-Radio ALbalad TV
+http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3e6Mtn6" group-title="فلسطينPALESTINE",PAL-Rajeen TV
+https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ARcgJS" group-title="فلسطينPALESTINE",PAL-nablus live
+http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3e6Vgp3" group-title="فلسطينPALESTINE",PAL-Hebron TV
+https://streaming.zaytonatube.com:8081/newhebron/newheb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2OpNXig" group-title="فلسطينPALESTINE",شبكة الحرية الأخبارية VPN
 http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="فلسطينPALESTINE",RayaHD 1 VPN
