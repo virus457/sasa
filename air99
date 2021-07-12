@@ -1176,11 +1176,11 @@ http://82.137.248.16:1935/Souryana/stream19042021/chunklist_w265952236.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="سوريةSyria",SYR-Education TV SD
 http://82.137.248.16:1935/SEdu/stream19042021/chunklist_w1906671677.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Dy2Eo33.png" group-title="سوريةSyria",SYR-Noor Al-Sham
-http://82.137.248.16:1935/Nour/stream19042021/chunklist_w92417698.m3u8
+http://82.137.248.16:1935/Nour/stream19042021/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/4x2uwpx.png" group-title="سوريةSyria",Ugarit TV
 http://82.137.248.16:1935/Ugarit/stream19042021/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cRDOoO" group-title="سوريةSyria",SYR-ALalam Syria
-
+https://live2.presstv.ir/live/alam_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hcSrF6" group-title="سوريةSyria",ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="سوريةSyria",SYR-HALAB TODAY SD
@@ -1218,7 +1218,7 @@ https://live.alittihad.tv/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Ifilm Tv" tvg-logo="" group-title="لبنانLEBANON",|AR| Ifilm Tv
 https://live.presstv.com/ifilmlive/smil:ifilmar.smil/chunklistb.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pG9TDG" group-title="لبنانLEBANON",TV Seventeen SD 
-https://cdn.tvseventeen.com/test_tv_seventeen/tracks-v1a1/mono.m3u8
+https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oBT0Zi" group-title="لبنانLEBANON",Newv SD
 https://master.starmena-cloud.com/hls/newv.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36wrHJT" group-title="لبنانLEBANON",LBN-Future TV SD
@@ -1239,8 +1239,8 @@ https://eu8.fastcast4u.com/proxy/ctnqrwln?mp=/1
 https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3am3ozp" group-title="لبنانLEBANON",Arabica Music SD
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Yypoli" group-title="لبنانLEBANON",Unews SD
-http://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3yMt1nF" group-title="لبنانLEBANON",Sawt El Mada
+https://svs.itworkscdn.net/madalive/mada/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3rmSVuM" group-title="لبنانLEBANON",|AR| NBN HD
 https://nbntv.me:8443/nbntv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3ajldz3" group-title="لبنانLEBANON",Nabaa TV
@@ -2155,6 +2155,8 @@ http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="اسلاميةIslami",iqraa
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/nsxrqta.jpg" group-title="اسلاميةIslami",Towheed TV
+http://51.210.199.1/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="اسلاميةIslami",fatehtv
 https://svs.itworkscdn.net/alfatehlive/fatehtv/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2M6CMtZ" group-title="اسلاميةIslami",makkahtv
