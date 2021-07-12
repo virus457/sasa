@@ -11441,8 +11441,6 @@ http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
 http://streamingcontrol.com:1935/ectv/ectv/chunklist_w615405992.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Unsorted",Intercomarcal TV
 http://78.41.83.88:8880/hls/tvixa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Unsorted",Jasmin TV HD
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 #EXTINF:0 tvg-id="jctv" group-title="Unsorted",JCTV
 https://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Unsorted",Karapuz HD
@@ -11463,8 +11461,6 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Unsorted",La Mega Mundial
 https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Unsorted",La Mega Mundial HD
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Unsorted",Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Unsorted",Lancelot TV
