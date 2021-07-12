@@ -225,8 +225,6 @@ http://149.255.152.66:8080/atvturk/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",atv HD
 http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",atv HD
-https://stream.personamedia.tv/atvhls?fmt=hls&m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",atv HD
 http://yayin2.tvizlehd.com/atv720.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Show(مشغل GSE)
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
@@ -240,14 +238,16 @@ https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist.m3u8
 https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/playlist.m3u8
 #EXTINF:0 tvg-id="YabanTV.tr" group-title="TURKEY",Yaban TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TV8
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/74.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TV8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36xBVt2" group-title="TURKEY",TV8 INT
+https://mn-nl.mncdn.com/blutv_tv8_int/smil:tv8int_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SU4zzTo.png" group-title="TURKEY",TV8 FHD
+http://149.255.152.66:8080/tv8hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SU4zzTo.png" group-title="TURKEY",TV8 HD
+http://yayin2.tvizlehd.com/tv8720.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SU4zzTo.png" group-title="TURKEY",TV8 HD
+http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SU4zzTo.png" group-title="TURKEY",TV8
 http://79.124.14.198:8088/play/a070
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TV8
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/74
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TV8(مشغل GSE)
-https://tv8.personamedia.tv/tv8hls?type=1&fmt=hls&file=.m3u8&rend=v_r2
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",TV 8.5 (مشغل GSE)
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",Star TV HD
