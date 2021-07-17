@@ -1576,6 +1576,8 @@ https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Lawal_all/chunklist.m3u
 http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iJZdBh" group-title="البحرين Bahrain",Bahrain Sports 1
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ocNpsi" group-title="البحرين Bahrain",Bahrain Sports 2+
+https://or.tooliserver.com/live/Bahrain_Sport_2_HD/Bahrain_Sport_2_HD.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ocNpsi" group-title="البحرين Bahrain",Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/CDFmBuklHqU/maxresdefault.jpg" group-title="سلطنة عمان Oman",Oman TV
