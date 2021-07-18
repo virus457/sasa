@@ -12309,3 +12309,20 @@ http://65.21.32.185:80/airmaxtvproalKM/Jo5bEdZvQq/245
 http://65.21.32.185:80/airmaxtvproalKM/Jo5bEdZvQq/246
 #EXTINF:-1 tvg-id="" tvg-name="AWRASS TV" tvg-logo="" group-title="18 الجزائرALGERIEN",AWRASS TV
 http://65.21.32.185:80/airmaxtvproalKM/Jo5bEdZvQq/247
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD SPACE" tvg-logo="" group-title="باقة قنوات المجد 19",|AR| AL MAJD SPACE
+http://65.21.32.185:80/almachprokm/4600d1iQls/280
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD HADITH" tvg-logo="" group-title="باقة قنوات المجد 19",|AR| AL MAJD HADITH
+http://65.21.32.185:80/almachprokm/4600d1iQls/281
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD RAWDHA" tvg-logo="" group-title="باقة قنوات المجد 19",|AR| AL MAJD RAWDHA
+http://65.21.32.185:80/almachprokm/4600d1iQls/282
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD KIDS" tvg-logo="" group-title="باقة قنوات المجد 19",|AR| AL MAJD KIDS
+http://65.21.32.185:80/almachprokm/4600d1iQls/283
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD DOC" tvg-logo="" group-title="باقة قنوات المجد 19",|AR| AL MAJD DOC
+http://65.21.32.185:80/almachprokm/4600d1iQls/284
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD BASSMA" tvg-logo="" group-title="باقة قنوات المجد 19",|AR| AL MAJD BASSMA
+http://65.21.32.185:80/almachprokm/4600d1iQls/285
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD SCIENCE" tvg-logo="" group-title="باقة قنوات المجد 19",|AR| AL MAJD SCIENCE
+http://65.21.32.185:80/almachprokm/4600d1iQls/286
