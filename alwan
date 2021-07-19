@@ -373,6 +373,19 @@ http://65.21.32.185:80/airmaxspXC/wTLHfJydP9/552
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Time Sport" tvg-logo="" group-title="رياضية SPORT",|AR| Time Sport
 http://65.21.32.185:80/airmaxspXC/wTLHfJydP9/553
 
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD SPACE" tvg-logo="" group-title="باقة قنوات المجد",|AR| AL MAJD SPACE
+http://65.21.32.185:80/almachdMS/cb8mNAQjPw/567
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD HADITH" tvg-logo="" group-title="باقة قنوات المجد",|AR| AL MAJD HADITH
+http://65.21.32.185:80/almachdMS/cb8mNAQjPw/568
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD KIDS" tvg-logo="" group-title="باقة قنوات المجد",|AR| AL MAJD KIDS
+http://65.21.32.185:80/almachdMS/cb8mNAQjPw/569
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD DOC" tvg-logo="" group-title="باقة قنوات المجد",|AR| AL MAJD DOC
+http://65.21.32.185:80/almachdMS/cb8mNAQjPw/570
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD SCIENCE" tvg-logo="" group-title="باقة قنوات المجد",|AR| AL MAJD SCIENCE
+http://65.21.32.185:80/almachdMS/cb8mNAQjPw/571
+
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Bein: Baraeem" tvg-logo="https://i.ibb.co/myCknQ5/Bara3em-1.png" group-title="أطفال Children",|AR| Bein: Baraeem
 http://65.21.32.185:80/airmaxalMS/5JSCATQv4G/307
