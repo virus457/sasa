@@ -74,45 +74,45 @@ http://31.220.41.88:8081/live/fr-beinmax6.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",Bein Sport 7 FR
 http://31.220.41.88:8081/live/fr-beinmax7.stream/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT NEWS 4K" tvg-logo="https://i.ibb.co/FBg9xDq/news.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT NEWS 4K
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT NEWS 4K" tvg-logo="https://i.ibb.co/FBg9xDq/news.png" group-title="1 بين سبور BEIN SPORT",|AR| BEIN SPORT NEWS 4K
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/287
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS HD 4K" tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORTS HD 4K
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS HD 4K" tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORTS HD 4K
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/288
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 SD PREMIUM" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 1 SD PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 SD PREMIUM" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 1 SD PREMIUM
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/289
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 2 SD PREMIUM" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 2 SD PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 2 SD PREMIUM" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 2 SD PREMIUM
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/290
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 3 SD PREMIUM" tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 3 SD PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 3 SD PREMIUM" tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 3 SD PREMIUM
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/291
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT 1 SD  1M" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT 1 SD  1M
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT 1 SD  1M" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1 بين سبور BEIN SPORT",|AR| BEIN SPORT 1 SD  1M
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/292
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 2 SD  1M" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 2 SD  1M
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 2 SD  1M" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 2 SD  1M
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/293
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 3 SD  1M" tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 3 SD  1M
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 3 SD  1M" tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 3 SD  1M
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/294
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 4 SD  1M" tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 4 SD  1M
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 4 SD  1M" tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 4 SD  1M
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/295
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 5 SD  1M" tvg-logo="https://i.ibb.co/C1Jt1n0/HD5.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 5 SD  1M
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 5 SD  1M" tvg-logo="https://i.ibb.co/C1Jt1n0/HD5.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 5 SD  1M
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/296
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 6 SD  1M" tvg-logo="https://i.ibb.co/4RSKRsZ/HD6.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 6 SD  1M
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 6 SD  1M" tvg-logo="https://i.ibb.co/4RSKRsZ/HD6.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 6 SD  1M
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/297
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 7 SD  1M" tvg-logo="https://i.ibb.co/hYfQFGh/HD7.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 7 SD  1M
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 7 SD  1M" tvg-logo="https://i.ibb.co/hYfQFGh/HD7.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 7 SD  1M
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/298
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 LOW PREMIUM" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 1 LOW PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 1 LOW PREMIUM" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 1 LOW PREMIUM
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/299
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 2 LOW PREMIUM" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 2 LOW PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 2 LOW PREMIUM" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 2 LOW PREMIUM
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/300
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 3 LOW PREMIUM" tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT 3 LOW PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT 3 LOW PREMIUM" tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT 3 LOW PREMIUM
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/301
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT LOW 1" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT LOW 1
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT LOW 1" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT LOW 1
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/302
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT LOW 2" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT LOW 2
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT LOW 2" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT LOW 2
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/303
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT LOW 3" tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT LOW 3
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT LOW 3" tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT LOW 3
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/304
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT LOW 4" tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT LOW 4
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT LOW 4" tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT LOW 4
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/305
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT LOW 5" tvg-logo="https://i.ibb.co/C1Jt1n0/HD5.png" group-title="1قنوات بين سبور BEIN SPORT",|AR| BEINSPORT LOW 5
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORT LOW 5" tvg-logo="https://i.ibb.co/C1Jt1n0/HD5.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORT LOW 5
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/306
 #EXTINF:0 tvg-id="ext" group-title="1VIPباقة وياك",▂ ▄ ▅ ▆☆ باقة وياك VIP ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
