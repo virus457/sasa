@@ -29,12 +29,56 @@ https://or149.tooliserver.com/live/149077_0.m3u8?session=&location=
 https://or149.tooliserver.com/live/149178_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wP1ykH" group-title="أم بي سيMBC",variety FHD
 https://or149.tooliserver.com/live/149017_0.m3u8?session=&location=
+#EXTINF:0 tvg-id="MBC1.net" group-title="أم بي سيMBC",MBC FHD
+https://or149.tooliserver.com/live/149009_0.m3u8
+#EXTINF:0 tvg-id="MBC2.net" group-title="أم بي سيMBC",MBC 2 FHD
+https://or149.tooliserver.com/live/149010_0.m3u8
+#EXTINF:0 tvg-id="MBC3.net" group-title="أم بي سيMBC",MBC 3 FHD
+https://or149.tooliserver.com/live/149011_0.m3u8
+#EXTINF:0 tvg-id="MBC4.net" group-title="أم بي سيMBC",MBC 4 FHD
+https://or149.tooliserver.com/live/149012_0.m3u8
+#EXTINF:0 tvg-id="MBCAction.net" group-title="أم بي سيMBC",MBC ACTION FHD
+https://or149.tooliserver.com/live/149013_0.m3u8
+#EXTINF:0 tvg-id="MBCBollywood.net" group-title="أم بي سيMBC",MBC Bollywood FHD
+https://or149.tooliserver.com/live/149014_0.m3u8
+#EXTINF:0 tvg-id="MBCMax.net" group-title="أم بي سيMBC",MBC MAX FHD
+https://or149.tooliserver.com/live/149015_0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="أم بي سيMBC",mbc + DRAMA FHD
+https://or149.tooliserver.com/live/149016_0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="أم بي سيMBC",mbc + variety FHD
+https://or149.tooliserver.com/live/149017_0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="أم بي سيMBC",MBC IRAQ FHD
+https://or149.tooliserver.com/live/149018_0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="أم بي سيMBC",MBC 5 SD
+https://or148.tooliserver.com/live/149291_0.m3u8
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="أم بي سيMBC",MBC DRAMA FHD
+https://or148.tooliserver.com/live/149295_0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="أم بي سيMBC",MBC MASR 1 SD
+https://or149.tooliserver.com/live/149296_0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="أم بي سيMBC",MBC MASR 2 SD
+https://or149.tooliserver.com/live/149297_0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="أم بي سيMBC",Wanasah
+https://or.tooliserver.com/live/Wanasah/Wanasah.m3u8
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="روتانا ROTANA",rotana COMEDY FHD
+https://or148.tooliserver.com/live/701_0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="روتانا ROTANA",rotana CINMA EGY
+https://or148.tooliserver.com/live/148043_0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="روتانا ROTANA",rotana CINMA FHD
+https://or148.tooliserver.com/live/148044_0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="روتانا ROTANA",rotana CLASSIC FHD
+https://or148.tooliserver.com/live/148045_0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="روتانا ROTANA",rotana clip FHD
+https://or148.tooliserver.com/live/148046_0.m3u8?session=&location=
+#EXTINF:0 tvg-id="ext" group-title="روتانا ROTANA",rotana DRAMA FHD
+https://or148.tooliserver.com/live/148047_0.m3u8?session=&location=
+#EXTINF:0 tvg-id="ext" group-title="روتانا ROTANA",rotana KH FHD
+https://or148.tooliserver.com/live/148048_0.m3u8?session=&location=
+#EXTINF:0 tvg-id="ext" group-title="روتانا ROTANA",rotana MUSIC FHD
+https://or148.tooliserver.com/live/148049_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="روتانا ROTANA",Rotana Lbchd
 https://or149.tooliserver.com/live/699_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3j4Y1L6" group-title="روتانا ROTANA",rotana clip FHD
-https://or148.tooliserver.com/live/148046_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/music.png" group-title="روتانا ROTANA",Rotana Music
-https://or148.tooliserver.com/live/148049_0.m3u8?session=&location=
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="سوريةSyria",SYR-LANA HD
 https://or149.tooliserver.com/live/149096_0.m3u8?session=&location=
