@@ -475,6 +475,33 @@ https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MAX ACTION" tvg-logo="https://i.ibb.co/JK52D2Q/Untitled.png" group-title="باقه OXN",|AR| MAX ACTION
+http://65.21.32.185:80/airmaxOXMS/XCWwgtF4CL/782
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MAX Zaman" tvg-logo="https://i.ibb.co/JK52D2Q/Untitled.png" group-title="باقه OXN",|AR| MAX Zaman
+http://65.21.32.185:80/airmaxOXMS/XCWwgtF4CL/783
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MAX ARABIC" tvg-logo="https://i.ibb.co/JK52D2Q/Untitled.png" group-title="باقه OXN",|AR| MAX ARABIC
+http://65.21.32.185:80/airmaxOXMS/XCWwgtF4CL/784
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OXN MOVIES" tvg-logo="https://i.ibb.co/W2VPK0H/Untitlddded.png" group-title="باقه OXN",|AR| OXN MOVIES
+http://65.21.32.185:80/airmaxOXMS/XCWwgtF4CL/785
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OXN INDIA" tvg-logo="https://i.ibb.co/W2VPK0H/Untitlddded.png" group-title="باقه OXN",|AR| OXN INDIA
+http://65.21.32.185:80/airmaxOXMS/XCWwgtF4CL/786
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OXN  Mouslslat Action" tvg-logo="https://i.ibb.co/W2VPK0H/Untitlddded.png" group-title="باقه OXN",|AR| OXN  Mouslslat Action
+http://65.21.32.185:80/airmaxOXMS/XCWwgtF4CL/787
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Mix Hollywood" tvg-logo="https://i.ibb.co/VwgcY4K/mix.png" group-title="باقه OXN",|AR| Mix Hollywood
+http://65.21.32.185:80/airmaxOXMS/XCWwgtF4CL/788
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Shoof  Aflam" tvg-logo="https://i.ibb.co/m4yf2HD/logo-nav.png" group-title="باقه OXN",|AR| Shoof  Aflam
+http://65.21.32.185:80/airmaxOXMS/XCWwgtF4CL/789
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Shoof Aflam Clasic" tvg-logo="https://i.ibb.co/m4yf2HD/logo-nav.png" group-title="باقه OXN",|AR| Shoof Aflam Clasic
+http://65.21.32.185:80/airmaxOXMS/XCWwgtF4CL/790
+#EXTINF:-1 tvg-id="" tvg-name="Aflamy Action 1" tvg-logo="https://i.ibb.co/p45S9fZ/aflami.png" group-title="باقه OXN",Aflamy Action 1
+http://65.21.32.185:80/airmaxOXMS/XCWwgtF4CL/791
+#EXTINF:-1 tvg-id="" tvg-name="Aflamy Action 2" tvg-logo="https://i.ibb.co/p45S9fZ/aflami.png" group-title="باقه OXN",Aflamy Action 2
+http://65.21.32.185:80/airmaxOXMS/XCWwgtF4CL/792
+#EXTINF:-1 tvg-id="" tvg-name="Aflamy Horror" tvg-logo="https://i.ibb.co/p45S9fZ/aflami.png" group-title="باقه OXN",Aflamy Horror
+http://65.21.32.185:80/airmaxOXMS/XCWwgtF4CL/793
+
+
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD SPACE" tvg-logo="" group-title="19باقة قنوات المجد",|AR| AL MAJD SPACE
 http://65.21.32.185:80/almachdMS/cb8mNAQjPw/772
 #EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD HADITH" tvg-logo="" group-title="19باقة قنوات المجد",|AR| AL MAJD HADITH
