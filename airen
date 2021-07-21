@@ -1006,61 +1006,61 @@ https://hiplayer.hibridcdn.net/p/rotana-drama
 https://hiplayer.hibridcdn.net/p/rotana-khaleejiya
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaMusic.eg.png" group-title="9 روتانا ROTANA",Rotana Music (اتصالVPN)
 https://rotana.hibridmedia.com/rotana/music_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.ksaon.com/wp-content/uploads/2020/04/2121.jpg" group-title="10 سوريةSyria",10 سوريةSyria
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.ksaon.com/wp-content/uploads/2020/04/2121.jpg" group-title="10قنوات سوريةSyria",10 سوريةSyria
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="10 سوريةSyria",SYR-LANA HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="10قنوات سوريةSyria",SYR-LANA HD
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="10 سوريةSyria",SYR-LANA
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="10قنوات سوريةSyria",SYR-LANA
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8.vod.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/9HCiWqv.jpg" group-title="10 سوريةSyria",SYR-Lana Plus HD+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/9HCiWqv.jpg" group-title="10قنوات سوريةSyria",SYR-Lana Plus HD+
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="10 سوريةSyria",SYR-SAMA SYRIA SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="10قنوات سوريةSyria",SYR-SAMA SYRIA SD
 http://stream.sama-tv.net:8080/hls/samatv.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="10 سوريةSyria",SYR-SYRIA PLUS SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="10قنوات سوريةSyria",SYR-SYRIA PLUS SD
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_480p_chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="10 سوريةSyria",SYR-SYRIA PLUS 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="10قنوات سوريةSyria",SYR-SYRIA PLUS 
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3wDff6o" group-title="10 سوريةSyria",SYRIA DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3wDff6o" group-title="10قنوات سوريةSyria",SYRIA DRAMA
 http://82.137.248.16:1935/Drama/stream19042021/chunklist_w1020462113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3uUUuSJ" group-title="10 سوريةSyria",SYRIA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3uUUuSJ" group-title="10قنوات سوريةSyria",SYRIA TV
 http://82.137.248.16:1935/Sat/stream19042021/chunklist_w1646047174.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="10 سوريةSyria",SYR-AL EKHBARIYA SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="10قنوات سوريةSyria",SYR-AL EKHBARIYA SD
 http://82.137.248.16:1935/Snews/stream19042021/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eR8QSEt.png" group-title="10 سوريةSyria",SYR-SOURYANA SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eR8QSEt.png" group-title="10قنوات سوريةSyria",SYR-SOURYANA SD
 http://82.137.248.16:1935/Souryana/stream19042021/chunklist_w265952236.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="10 سوريةSyria",SYR-Education TV SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="10قنوات سوريةSyria",SYR-Education TV SD
 http://82.137.248.16:1935/SEdu/stream19042021/chunklist_w154209152.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Dy2Eo33.png" group-title="10 سوريةSyria",SYR-Noor Al-Sham
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Dy2Eo33.png" group-title="10قنوات سوريةSyria",SYR-Noor Al-Sham
 http://82.137.248.16:1935/Nour/stream19042021/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/4x2uwpx.png" group-title="10 سوريةSyria",Ugarit TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/4x2uwpx.png" group-title="10قنوات سوريةSyria",Ugarit TV
 http://82.137.248.16:1935/Ugarit/stream19042021/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cRDOoO" group-title="10 سوريةSyria",SYR-ALalam Syria
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cRDOoO" group-title="10قنوات سوريةSyria",SYR-ALalam Syria
 https://live2.presstv.ir/live/alam_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pdJy1g0/syria-al3alam.png" group-title="10 سوريةSyria",|AR| Syria Alam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pdJy1g0/syria-al3alam.png" group-title="10قنوات سوريةSyria",|AR| Syria Alam
 https://live2.alalamtv.net/live/Alalam/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hcSrF6" group-title="10 سوريةSyria",ANN
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hcSrF6" group-title="10قنوات سوريةSyria",ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="10 سوريةSyria",SYR-HALAB TODAY SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="10قنوات سوريةSyria",SYR-HALAB TODAY SD
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="10 سوريةSyria",SYR-HALAB TODAY SD+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="10قنوات سوريةSyria",SYR-HALAB TODAY SD+
 https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Lqj2S4" group-title="10 سوريةSyria",SYR-قناة اليوم
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Lqj2S4" group-title="10قنوات سوريةSyria",SYR-قناة اليوم
 https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3red5a5" group-title="10 سوريةSyria",SYR- AmwajLive FM
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3red5a5" group-title="10قنوات سوريةSyria",SYR- AmwajLive FM
 http://82.137.248.16:1935/RAmwaj/RAmwajLive/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MSJkwG" group-title="10 سوريةSyria",SYR-اذاعة زنوبيا FM
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MSJkwG" group-title="10قنوات سوريةSyria",SYR-اذاعة زنوبيا FM
 http://82.137.248.16:1935/RZenobia/RZenobiaLive/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pOYOAp" group-title="10 سوريةSyria",KarmaLive FM
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pOYOAp" group-title="10قنوات سوريةSyria",KarmaLive FM
 http://82.137.248.16:1935/RKarma/RKarmaLive/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2O7VG4B" group-title="10 سوريةSyria",DimshqLive FM
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2O7VG4B" group-title="10قنوات سوريةSyria",DimshqLive FM
 http://82.137.248.16:1935/RDimshq/RDimshqLive/playlist.m3u8
-F:-1 tvg-id="ext"tvg-logo="https://bit.ly/2O7VG4B" group-title="10 سوريةSyria",ShababLive FM
+F:-1 tvg-id="ext"tvg-logo="https://bit.ly/2O7VG4B" group-title="10قنوات سوريةSyria",ShababLive FM
 http://82.137.248.16:1935/RShabab/RShababLive/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="10 سوريةSyria",All TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="10قنوات سوريةSyria",All TV
 http://185.96.70.242:1935/live/alltv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39UouFX" group-title="10 سوريةSyria",sham FM
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39UouFX" group-title="10قنوات سوريةSyria",sham FM
 https://radioshamfm.grtvstream.com:8400/;
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="10 سوريةSyria",Minbij TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="10قنوات سوريةSyria",Minbij TV
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/45
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="11 لبنانLEBANON",11 لبنانLEBANON
 https://bit.ly/3pWtmPO
@@ -12153,23 +12153,23 @@ http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/750
 #EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 2 Full-HD" tvg-logo="http://nooritv.live:25461/images/0588ec79ed14fbbdf282d2e686f6beee.png" group-title="4قنوات رياضية SPORT",|AR| KSA SPORTS 2 Full-HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/749
 
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Nat Geo HD" tvg-logo="https://bit.ly/2UY8o9q" group-title="7قنوات أطفال Children",|AR|طيور الجنة 
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Nat Geo HD" tvg-logo="https://bit.ly/2UY8o9q" group-title="7 أطفال Children",|AR|طيور الجنة 
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/868
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Nat Geo HD" tvg-logo="https://i.ibb.co/QdbJW3v/Nat-geo-people.png" group-title="7قنوات أطفال Children",|AR| Bein:Nat Geo HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Nat Geo HD" tvg-logo="https://i.ibb.co/QdbJW3v/Nat-geo-people.png" group-title="7 أطفال Children",|AR| Bein:Nat Geo HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/572
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN: Boomerang" tvg-logo="https://i.ibb.co/WzPhZxz/Boomerang-HD-1.png" group-title="7قنوات أطفال Children",|AR| BEIN: Boomerang
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN: Boomerang" tvg-logo="https://i.ibb.co/WzPhZxz/Boomerang-HD-1.png" group-title="7 أطفال Children",|AR| BEIN: Boomerang
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/573
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein : Jeem" tvg-logo="https://i.ibb.co/s5w0dmF/JEEM.png" group-title="7قنوات أطفال Children",|AR| Bein : Jeem
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein : Jeem" tvg-logo="https://i.ibb.co/s5w0dmF/JEEM.png" group-title="7 أطفال Children",|AR| Bein : Jeem
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/574
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein Junior HD" tvg-logo="" group-title="7قنوات أطفال Children",|AR| Bein Junior HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein Junior HD" tvg-logo="" group-title="7 أطفال Children",|AR| Bein Junior HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/575
-#EXTINF:-1 tvg-id="" tvg-name="|AR| beIN Dream Works HD" tvg-logo="" group-title="7قنوات أطفال Children",|AR| beIN Dream Works HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beIN Dream Works HD" tvg-logo="" group-title="7 أطفال Children",|AR| beIN Dream Works HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/576
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN DMAX HD" tvg-logo="" group-title="7قنوات أطفال Children",|AR| BEIN DMAX HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN DMAX HD" tvg-logo="" group-title="7 أطفال Children",|AR| BEIN DMAX HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/577
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein: Baraeem" tvg-logo="https://i.ibb.co/myCknQ5/Bara3em-1.png" group-title="7قنوات أطفال Children",|AR| Bein: Baraeem
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein: Baraeem" tvg-logo="https://i.ibb.co/myCknQ5/Bara3em-1.png" group-title="7 أطفال Children",|AR| Bein: Baraeem
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/578
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:JUNIOR KIDS" tvg-logo="https://i.ibb.co/StYzGyt/JONEUR.png" group-title="7قنوات أطفال Children",|AR| Bein:JUNIOR KIDS
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:JUNIOR KIDS" tvg-logo="https://i.ibb.co/StYzGyt/JONEUR.png" group-title="7 أطفال Children",|AR| Bein:JUNIOR KIDS
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/579
 #EXTINF:-1 tvg-id="" tvg-name="|AR| LANA + HD" tvg-logo="https://i.ibb.co/ZWXb9xF/lana-hd.png" group-title="10قنوات سوريةSyria",|AR| LANA + HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/635
@@ -12191,179 +12191,179 @@ http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/642
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/643
 #EXTINF:-1 tvg-id="" tvg-name="|AR| ٍSyria Souryana" tvg-logo="https://i.ibb.co/F5j1gBm/souryana-tv.png" group-title="10قنوات سوريةSyria",|AR| ٍSyria Souryana
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/644
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MTV HD" tvg-logo="https://i.ibb.co/3z84j1L/4292249-1519659726-removebg-preview.png" group-title="11قنوات لبنانLEBANON",|AR| MTV HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MTV HD" tvg-logo="https://i.ibb.co/3z84j1L/4292249-1519659726-removebg-preview.png" group-title="11 لبنانLEBANON",|AR| MTV HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/645
-#EXTINF:-1 tvg-id="" tvg-name="|AR| NBN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Nbn_lebanon.png" group-title="11قنوات لبنانLEBANON",|AR| NBN HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NBN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Nbn_lebanon.png" group-title="11 لبنانLEBANON",|AR| NBN HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/646
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL JADEED" tvg-logo="https://i.ibb.co/RTCMWnz/Al-Jadeed-TV-LOGO-2018.png" group-title="11قنوات لبنانLEBANON",|AR| AL JADEED
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL JADEED" tvg-logo="https://i.ibb.co/RTCMWnz/Al-Jadeed-TV-LOGO-2018.png" group-title="11 لبنانLEBANON",|AR| AL JADEED
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/647
-#EXTINF:-1 tvg-id="" tvg-name="|AR| LBC International HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LBC_INTERNATIONAL.png/171px-LBC_INTERNATIONAL.png" group-title="11قنوات لبنانLEBANON",|AR| LBC International HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| LBC International HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LBC_INTERNATIONAL.png/171px-LBC_INTERNATIONAL.png" group-title="11 لبنانLEBANON",|AR| LBC International HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/648
-#EXTINF:-1 tvg-id="" tvg-name="|AR| HEYA TV" tvg-logo="https://i.ibb.co/MNBJ7SX/download.png" group-title="11قنوات لبنانLEBANON",|AR| HEYA TV
+#EXTINF:-1 tvg-id="" tvg-name="|AR| HEYA TV" tvg-logo="https://i.ibb.co/MNBJ7SX/download.png" group-title="11 لبنانLEBANON",|AR| HEYA TV
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/649
-#EXTINF:-1 tvg-id="" tvg-name="|AR|  Aleyman" tvg-logo="https://i.ibb.co/cvyKZC9/unnamed.png" group-title="11قنوات لبنانLEBANON",|AR|  Aleyman
+#EXTINF:-1 tvg-id="" tvg-name="|AR|  Aleyman" tvg-logo="https://i.ibb.co/cvyKZC9/unnamed.png" group-title="11 لبنانLEBANON",|AR|  Aleyman
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/650
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Future TV" tvg-logo="https://i.ibb.co/jZPhbH5/2021.png" group-title="11قنوات لبنانLEBANON",|AR| Future TV
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Future TV" tvg-logo="https://i.ibb.co/jZPhbH5/2021.png" group-title="11 لبنانLEBANON",|AR| Future TV
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/651
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/280px-OTV_%28logo%29.svg.png" group-title="11قنوات لبنانLEBANON",|AR| OTV HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/280px-OTV_%28logo%29.svg.png" group-title="11 لبنانLEBANON",|AR| OTV HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/652
-#EXTINF:-1 tvg-id="" tvg-name="|AR| MANAR HD" tvg-logo="https://www.almanar.com.lb/framework/assets/images/logo-tech.png" group-title="11قنوات لبنانLEBANON",|AR| MANAR HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MANAR HD" tvg-logo="https://www.almanar.com.lb/framework/assets/images/logo-tech.png" group-title="11 لبنانLEBANON",|AR| MANAR HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/653
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AL Mayadeen" tvg-logo="https://i.ibb.co/V2FDcNz/image.png" group-title="11قنوات لبنانLEBANON",|AR| AL Mayadeen
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AL Mayadeen" tvg-logo="https://i.ibb.co/V2FDcNz/image.png" group-title="11 لبنانLEBANON",|AR| AL Mayadeen
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/654
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ALAAN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Al_Aan_TV_Logo.png" group-title="11قنوات لبنانLEBANON",|AR| ALAAN HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ALAAN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Al_Aan_TV_Logo.png" group-title="11 لبنانLEBANON",|AR| ALAAN HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/655
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Nabaa" tvg-logo="https://pbs.twimg.com/profile_images/1293456075723866114/T3CDaDfb_400x400.png" group-title="11قنوات لبنانLEBANON",|AR| Nabaa
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Nabaa" tvg-logo="https://pbs.twimg.com/profile_images/1293456075723866114/T3CDaDfb_400x400.png" group-title="11 لبنانLEBANON",|AR| Nabaa
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/656
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Aletihad" tvg-logo="https://i.ibb.co/Ybv36LZ/download.png" group-title="11قنوات لبنانLEBANON",|AR| Aletihad
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Aletihad" tvg-logo="https://i.ibb.co/Ybv36LZ/download.png" group-title="11 لبنانLEBANON",|AR| Aletihad
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/657
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Eman Tv" tvg-logo="" group-title="11قنوات لبنانLEBANON",|AR| Eman Tv
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Eman Tv" tvg-logo="" group-title="11 لبنانLEBANON",|AR| Eman Tv
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/658
-#EXTINF:-1 tvg-id="" tvg-name="|AR| NabaaTv" tvg-logo="https://pbs.twimg.com/profile_images/1293456075723866114/T3CDaDfb_400x400.png" group-title="11قنوات لبنانLEBANON",|AR| NabaaTv
+#EXTINF:-1 tvg-id="" tvg-name="|AR| NabaaTv" tvg-logo="https://pbs.twimg.com/profile_images/1293456075723866114/T3CDaDfb_400x400.png" group-title="11 لبنانLEBANON",|AR| NabaaTv
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/659
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Oula  Egypt" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Al Oula  Egypt
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Oula  Egypt" tvg-logo="" group-title="15 المصرية Egypt",|AR| Al Oula  Egypt
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/660
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Fath TV HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Al Fath TV HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Fath TV HD" tvg-logo="" group-title="15 المصرية Egypt",|AR| Al Fath TV HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/661
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Nahar HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Al Nahar HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Nahar HD" tvg-logo="" group-title="15 المصرية Egypt",|AR| Al Nahar HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/662
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Nahar Drama HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Al Nahar Drama HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Nahar Drama HD" tvg-logo="" group-title="15 المصرية Egypt",|AR| Al Nahar Drama HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/663
-#EXTINF:-1 tvg-id="" tvg-name="|AR|  Al Sharq HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR|  Al Sharq HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR|  Al Sharq HD" tvg-logo="" group-title="15 المصرية Egypt",|AR|  Al Sharq HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/664
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Cbc" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Cbc
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Cbc" tvg-logo="" group-title="15 المصرية Egypt",|AR| Cbc
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/665
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Cbc drama" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Cbc drama
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Cbc drama" tvg-logo="" group-title="15 المصرية Egypt",|AR| Cbc drama
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/666
-#EXTINF:-1 tvg-id="" tvg-name="|AR|  Cbc Sofra HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR|  Cbc Sofra HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR|  Cbc Sofra HD" tvg-logo="" group-title="15 المصرية Egypt",|AR|  Cbc Sofra HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/667
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Mekameleen HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Mekameleen HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Mekameleen HD" tvg-logo="" group-title="15 المصرية Egypt",|AR| Mekameleen HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/668
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Nile News" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Nile News
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Nile News" tvg-logo="" group-title="15 المصرية Egypt",|AR| Nile News
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/669
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Nile Cinema HD." tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Nile Cinema HD.
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Nile Cinema HD." tvg-logo="" group-title="15 المصرية Egypt",|AR| Nile Cinema HD.
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/670
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Nile Drama HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Nile Drama HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Nile Drama HD" tvg-logo="" group-title="15 المصرية Egypt",|AR| Nile Drama HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/671
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Nile Sport HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Nile Sport HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Nile Sport HD" tvg-logo="" group-title="15 المصرية Egypt",|AR| Nile Sport HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/672
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Nile Comedy" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Nile Comedy
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Nile Comedy" tvg-logo="" group-title="15 المصرية Egypt",|AR| Nile Comedy
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/673
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Nile Cinema" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Nile Cinema
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Nile Cinema" tvg-logo="" group-title="15 المصرية Egypt",|AR| Nile Cinema
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/674
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Dmc HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Dmc HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Dmc HD" tvg-logo="" group-title="15 المصرية Egypt",|AR| Dmc HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/675
-#EXTINF:-1 tvg-id="" tvg-name="|AR|  Dmc Drama" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR|  Dmc Drama
+#EXTINF:-1 tvg-id="" tvg-name="|AR|  Dmc Drama" tvg-logo="" group-title="15 المصرية Egypt",|AR|  Dmc Drama
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/676
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ON Tv" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| ON Tv
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ON Tv" tvg-logo="" group-title="15 المصرية Egypt",|AR| ON Tv
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/677
-#EXTINF:-1 tvg-id="" tvg-name="|AR| On Drama HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| On Drama HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| On Drama HD" tvg-logo="" group-title="15 المصرية Egypt",|AR| On Drama HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/678
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Sada Ebalad HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Sada Ebalad HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Sada Ebalad HD" tvg-logo="" group-title="15 المصرية Egypt",|AR| Sada Ebalad HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/679
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Alhyat HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Alhyat HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Alhyat HD" tvg-logo="" group-title="15 المصرية Egypt",|AR| Alhyat HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/680
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Cima HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Cima HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Cima HD" tvg-logo="" group-title="15 المصرية Egypt",|AR| Cima HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/681
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Cairo Drama HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Cairo Drama HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Cairo Drama HD" tvg-logo="" group-title="15 المصرية Egypt",|AR| Cairo Drama HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/682
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Cairo Cinema HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Cairo Cinema HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Cairo Cinema HD" tvg-logo="" group-title="15 المصرية Egypt",|AR| Cairo Cinema HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/683
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Free Music HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Free Music HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Free Music HD" tvg-logo="" group-title="15 المصرية Egypt",|AR| Free Music HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/684
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Mazzika HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Mazzika HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Mazzika HD" tvg-logo="" group-title="15 المصرية Egypt",|AR| Mazzika HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/685
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Panorama Drama HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Panorama Drama HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Panorama Drama HD" tvg-logo="" group-title="15 المصرية Egypt",|AR| Panorama Drama HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/686
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Panorama Drama 2 HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Panorama Drama 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Panorama Drama 2 HD" tvg-logo="" group-title="15 المصرية Egypt",|AR| Panorama Drama 2 HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/687
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Panorama Drama 2 HD." tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Panorama Drama 2 HD.
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Panorama Drama 2 HD." tvg-logo="" group-title="15 المصرية Egypt",|AR| Panorama Drama 2 HD.
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/688
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Panorama Film" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Panorama Film
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Panorama Film" tvg-logo="" group-title="15 المصرية Egypt",|AR| Panorama Film
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/689
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Panorama Food HD." tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Panorama Food HD.
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Panorama Food HD." tvg-logo="" group-title="15 المصرية Egypt",|AR| Panorama Food HD.
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/690
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Hawas tv HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Hawas tv HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Hawas tv HD" tvg-logo="" group-title="15 المصرية Egypt",|AR| Hawas tv HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/691
-#EXTINF:-1 tvg-id="" tvg-name="|AR|  The Kingdom Sat HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR|  The Kingdom Sat HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR|  The Kingdom Sat HD" tvg-logo="" group-title="15 المصرية Egypt",|AR|  The Kingdom Sat HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/692
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Watan HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Watan HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Watan HD" tvg-logo="" group-title="15 المصرية Egypt",|AR| Watan HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/693
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Dream Tv" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Dream Tv
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Dream Tv" tvg-logo="" group-title="15 المصرية Egypt",|AR| Dream Tv
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/694
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Maspero Zaman" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Maspero Zaman
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Maspero Zaman" tvg-logo="" group-title="15 المصرية Egypt",|AR| Maspero Zaman
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/695
-#EXTINF:-1 tvg-id="" tvg-name="|AR| TEN" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| TEN
+#EXTINF:-1 tvg-id="" tvg-name="|AR| TEN" tvg-logo="" group-title="15 المصرية Egypt",|AR| TEN
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/696
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Mouled" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Al Mouled
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Mouled" tvg-logo="" group-title="15 المصرية Egypt",|AR| Al Mouled
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/697
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Melody Classic" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Melody Classic
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Melody Classic" tvg-logo="" group-title="15 المصرية Egypt",|AR| Melody Classic
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/698
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Kahera W nass" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Al Kahera W nass
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Kahera W nass" tvg-logo="" group-title="15 المصرية Egypt",|AR| Al Kahera W nass
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/699
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Sada Ebalad Drama" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Sada Ebalad Drama
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Sada Ebalad Drama" tvg-logo="" group-title="15 المصرية Egypt",|AR| Sada Ebalad Drama
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/700
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Star Cinema 1" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Star Cinema 1
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Star Cinema 1" tvg-logo="" group-title="15 المصرية Egypt",|AR| Star Cinema 1
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/701
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Star Cinema 2" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Star Cinema 2
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Star Cinema 2" tvg-logo="" group-title="15 المصرية Egypt",|AR| Star Cinema 2
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/702
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Toktok Aflam" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Toktok Aflam
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Toktok Aflam" tvg-logo="" group-title="15 المصرية Egypt",|AR| Toktok Aflam
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/703
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Mehwar" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Al Mehwar
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Mehwar" tvg-logo="" group-title="15 المصرية Egypt",|AR| Al Mehwar
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/704
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al ahly" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Al ahly
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Al ahly" tvg-logo="" group-title="15 المصرية Egypt",|AR| Al ahly
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/705
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Horreya HD" tvg-logo="" group-title="15قنوات المصرية Egypt",|AR| Al Horreya HD
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Horreya HD" tvg-logo="" group-title="15 المصرية Egypt",|AR| Al Horreya HD
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/706
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Hannibal TV" tvg-logo="" group-title="17 قنوات تونسTUNISIE",|AR| Hannibal TV
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Hannibal TV" tvg-logo="" group-title="17 تونسTUNISIE",|AR| Hannibal TV
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/707
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Watania 1" tvg-logo="" group-title="17 قنوات تونسTUNISIE",|AR| Al Watania 1
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Watania 1" tvg-logo="" group-title="17 تونسTUNISIE",|AR| Al Watania 1
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/708
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Immobilier TV" tvg-logo="" group-title="17 قنوات تونسTUNISIE",|AR| Immobilier TV
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Immobilier TV" tvg-logo="" group-title="17 تونسTUNISIE",|AR| Immobilier TV
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/709
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Aljanobia" tvg-logo="" group-title="17 قنوات تونسTUNISIE",|AR| Aljanobia
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Aljanobia" tvg-logo="" group-title="17 تونسTUNISIE",|AR| Aljanobia
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/710
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Nessma" tvg-logo="" group-title="17 قنوات تونسTUNISIE",|AR| Nessma
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Nessma" tvg-logo="" group-title="17 تونسTUNISIE",|AR| Nessma
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/711
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Radio Jawhara" tvg-logo="" group-title="17 قنوات تونسTUNISIE",|AR| Radio Jawhara
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Radio Jawhara" tvg-logo="" group-title="17 تونسTUNISIE",|AR| Radio Jawhara
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/712
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Tunisie immob" tvg-logo="" group-title="17 قنوات تونسTUNISIE",|AR| Tunisie immob
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Tunisie immob" tvg-logo="" group-title="17 تونسTUNISIE",|AR| Tunisie immob
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/713
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Tunisie immob 2" tvg-logo="" group-title="17 قنوات تونسTUNISIE",|AR| Tunisie immob 2
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Tunisie immob 2" tvg-logo="" group-title="17 تونسTUNISIE",|AR| Tunisie immob 2
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/714
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Hiwar Tunisi" tvg-logo="" group-title="17 قنوات تونسTUNISIE",|AR| Al Hiwar Tunisi
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Hiwar Tunisi" tvg-logo="" group-title="17 تونسTUNISIE",|AR| Al Hiwar Tunisi
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/715
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Sahel tv" tvg-logo="" group-title="17 قنوات تونسTUNISIE",|AR| Sahel tv
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Sahel tv" tvg-logo="" group-title="17 تونسTUNISIE",|AR| Sahel tv
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/716
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Zaytona" tvg-logo="" group-title="17 قنوات تونسTUNISIE",|AR| Al Zaytona
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Zaytona" tvg-logo="" group-title="17 تونسTUNISIE",|AR| Al Zaytona
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/717
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Teassia" tvg-logo="" group-title="17 قنوات تونسTUNISIE",|AR| Al Teassia
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Teassia" tvg-logo="" group-title="17 تونسTUNISIE",|AR| Al Teassia
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/718
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Yemen TV" tvg-logo="" group-title="27قنوات اليمن Yemen",|AR| Yemen TV
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Yemen TV" tvg-logo="" group-title="27 اليمن Yemen",|AR| Yemen TV
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/759
-#EXTINF:-1 tvg-id="" tvg-name="|AR| AlMasira Tv" tvg-logo="" group-title="27قنوات اليمن Yemen",|AR| AlMasira Tv
+#EXTINF:-1 tvg-id="" tvg-name="|AR| AlMasira Tv" tvg-logo="" group-title="27 اليمن Yemen",|AR| AlMasira Tv
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/760
-#EXTINF:-1 tvg-id="" tvg-name="|AR| 7 Stars" tvg-logo="" group-title="27قنوات اليمن Yemen",|AR| 7 Stars
+#EXTINF:-1 tvg-id="" tvg-name="|AR| 7 Stars" tvg-logo="" group-title="27 اليمن Yemen",|AR| 7 Stars
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/761
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Belqees Tv" tvg-logo="" group-title="27قنوات اليمن Yemen",|AR| Belqees Tv
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Belqees Tv" tvg-logo="" group-title="27 اليمن Yemen",|AR| Belqees Tv
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/762
-#EXTINF:-1 tvg-id="" tvg-name="|AR|  Aden TV+" tvg-logo="" group-title="27قنوات اليمن Yemen",|AR|  Aden TV+
+#EXTINF:-1 tvg-id="" tvg-name="|AR|  Aden TV+" tvg-logo="" group-title="27 اليمن Yemen",|AR|  Aden TV+
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/763
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Masirah" tvg-logo="" group-title="27قنوات اليمن Yemen",|AR| Al Masirah
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Masirah" tvg-logo="" group-title="27 اليمن Yemen",|AR| Al Masirah
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/764
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Masirah Mubacher" tvg-logo="" group-title="27قنوات اليمن Yemen",|AR| Al Masirah Mubacher
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Masirah Mubacher" tvg-logo="" group-title="27 اليمن Yemen",|AR| Al Masirah Mubacher
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/765
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Masirah Mubacher+" tvg-logo="" group-title="27قنوات اليمن Yemen",|AR| Al Masirah Mubacher+
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Masirah Mubacher+" tvg-logo="" group-title="27 اليمن Yemen",|AR| Al Masirah Mubacher+
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/766
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Alerth TV" tvg-logo="" group-title="27قنوات اليمن Yemen",|AR| Alerth TV
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Alerth TV" tvg-logo="" group-title="27 اليمن Yemen",|AR| Alerth TV
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/767
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Alghad Almushreq" tvg-logo="" group-title="27قنوات اليمن Yemen",|AR| Alghad Almushreq
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Alghad Almushreq" tvg-logo="" group-title="27 اليمن Yemen",|AR| Alghad Almushreq
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/768
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Suhail TV" tvg-logo="" group-title="27قنوات اليمن Yemen",|AR| Suhail TV
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Suhail TV" tvg-logo="" group-title="27 اليمن Yemen",|AR| Suhail TV
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/769
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Yemen Shabab" tvg-logo="" group-title="27قنوات اليمن Yemen",|AR| Yemen Shabab
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Yemen Shabab" tvg-logo="" group-title="27 اليمن Yemen",|AR| Yemen Shabab
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/770
-#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Mahrah" tvg-logo="" group-title="27قنوات اليمن Yemen",|AR| Al Mahrah
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Al Mahrah" tvg-logo="" group-title="27 اليمن Yemen",|AR| Al Mahrah
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/771
 #EXTINF:-1 tvg-id="" tvg-name="|AR| AL MAJD SPACE" tvg-logo="" group-title="19باقة قنوات المجد",|AR| AL MAJD SPACE
 http://65.21.32.185:80/airmaxtvproalMS/24zykFCSDV/772
@@ -12447,7 +12447,7 @@ https://or149.tooliserver.com/live/699_0.m3u8?session=&location=
 https://or148.tooliserver.com/live/148046_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/music.png" group-title="9 روتانا ROTANA",Rotana Music
 https://or148.tooliserver.com/live/148049_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="10 سوريةSyria",SYR-LANA HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="10قنوات سوريةSyria",SYR-LANA HD
 https://or149.tooliserver.com/live/149096_0.m3u8?session=&location=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3rmSVuM" group-title="11 لبنانLEBANON",|AR| NBN FHD
