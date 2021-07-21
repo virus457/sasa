@@ -2520,7 +2520,7 @@ https://59cba4d34b678.streamlock.net/live/kontv/chunklist.m3u8
 #EXTINF:0 tvg-id="tlc-russia" group-title="TURKEY",TLC
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklistsltur.m3u8
 #EXTINF:0 tvg-id="TRT1.tr" group-title="TURKEY",TRT 1
-https://tv-trt1.live.trt.com.tr/master.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="KralPop.tr" group-title="TURKEY",Kral Pop
 http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
 #EXTINF:0 tvg-id="KralTV.tu" group-title="TURKEY",Kral TV
@@ -2550,7 +2550,7 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:0 tvg-id="TRTAlArabiya.tr" group-title="TURKEY",TRT Arabi
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TRTAVAZ.tr" group-title="TURKEY",TRT Avaz
-https://tv-trtavaz.live.trt.com.tr/master.m3u8
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TRTHaber.tr" group-title="TURKEY",TRT Haber
 https://tv-trthaber.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TRTKurdi.tr" group-title="TURKEY",TRT Kurdi
@@ -2559,6 +2559,8 @@ https://tv-trtkurdi.live.trt.com.tr/master.m3u8
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="UcankusTV.tr" group-title="TURKEY",UçanKuş TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:-1 tvg-id="TVDEN.tr" tvg-name="TV DEN" tvg-country="TR" tvg-language="" tvg-logo="https://i.imgur.com/PFWOkNh.png" group-title="TURKEY",TV DEN
+http://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:0 tvg-id="TRTCocuk.tr" group-title="TURKEY",TRT Cocuk
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="tlc-russia" group-title="TURKEY",TLC
