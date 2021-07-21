@@ -523,9 +523,9 @@ http://65.21.32.185:80/almachdMS/cb8mNAQjPw/780
 #EXTINF:-1 tvg-id="" tvg-name="|AR| ALSUNNAH ALNABAWIYA" tvg-logo="https://lh3.googleusercontent.com/proxy/Ym2p6v-sPwgXpmehH8JCTb7aiO-hcfhlFgxxv6t4CRgtszpGbYM1ixnsX7u_0tfQ0SIBIyIRLxSsQN55qBW0pNWuAKbDqXX43xNrFjnvaMbymIcGchC_QvRSLeYASrsWaJ60" group-title="باقة قنوات المجد",|AR| ALSUNNAH ALNABAWIYA
 http://65.21.32.185:80/almachdMS/cb8mNAQjPw/781
 
-
-
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Nat Geo HD" tvg-logo="https://bit.ly/2UY8o9q" group-title="أطفال Children",|AR|طيور الجنة 
+http://65.21.32.185:80/airmaxalMS/5JSCATQv4G/868
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Nat Geo HD" tvg-logo="https://i.ibb.co/QdbJW3v/Nat-geo-people.png" group-title="أطفال Children",|AR| Bein:Nat Geo HD
 http://65.21.32.185:80/airmaxalMS/5JSCATQv4G/572
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN: Boomerang" tvg-logo="https://i.ibb.co/WzPhZxz/Boomerang-HD-1.png" group-title="أطفال Children",|AR| BEIN: Boomerang
