@@ -78,12 +78,6 @@ http://31.220.41.88:8081/live/fr-beinmax7.stream/playlist.m3u8
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/794
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS HD" tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORTS HD
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/795
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 1 HD" tvg-logo="https://i.ibb.co/rwzvD1H/95f6681b3ad0c0404b04a7c4a8cccb06.png" group-title="1 بين سبور BEIN SPORT",|AR| BEIN SPORTS MAX 1 HD
-http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/796
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 2 HD" tvg-logo="https://i.ibb.co/cwh7myY/max-2.png" group-title="1 بين سبور BEIN SPORT",|AR| BEIN SPORTS MAX 2 HD
-http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/797
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 5 HD Copa Usa" tvg-logo="https://i.ibb.co/3Y1fPVh/max-5.png" group-title="1 بين سبور BEIN SPORT",|AR| BEIN SPORTS MAX 5 HD Copa Usa
-http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/798
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS 1 PREMIUM HD" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORTS 1 PREMIUM HD
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/799
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS 2 PREMIUM HD" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORTS 2 PREMIUM HD
@@ -110,16 +104,6 @@ http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/809
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/810
 #EXTINF:-1 tvg-id="" tvg-name="|AR| RMC SPORT 2 HD" tvg-logo="https://i.ibb.co/T8Gw0JT/HD10.png" group-title="1 بين سبور BEIN SPORT",|AR| RMC SPORT 2 HD
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/811
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 3 HD" tvg-logo="https://i.ibb.co/8DWkDXb/max-3.png" group-title="1 بين سبور BEIN SPORT",|AR| BEIN SPORTS MAX 3 HD
-http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/812
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 4 HD" tvg-logo="https://i.ibb.co/TbBrBR7/max-4.png" group-title="1 بين سبور BEIN SPORT",|AR| BEIN SPORTS MAX 4 HD
-http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/813
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 6 HD" tvg-logo="https://i.ibb.co/Wp4d4Pv/max-6.png" group-title="1 بين سبور BEIN SPORT",|AR| BEIN SPORTS MAX 6 HD
-http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/814
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 1 FHD" tvg-logo="https://i.ibb.co/rwzvD1H/95f6681b3ad0c0404b04a7c4a8cccb06.png" group-title="1 بين سبور BEIN SPORT",|AR| BEIN SPORTS MAX 1 FHD
-http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/815
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 2 FHD" tvg-logo="https://i.ibb.co/cwh7myY/max-2.png" group-title="1 بين سبور BEIN SPORT",|AR| BEIN SPORTS MAX 2 FHD
-http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/816
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BeINSPORTS 1 PREMIUM FHD" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1 بين سبور BEIN SPORT",|AR| BeINSPORTS 1 PREMIUM FHD
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/817
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BeINSPORTS 2 PREMIUM FHD" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1 بين سبور BEIN SPORT",|AR| BeINSPORTS 2 PREMIUM FHD
@@ -146,10 +130,6 @@ http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/827
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/828
 #EXTINF:-1 tvg-id="" tvg-name="|AR| RMC SPORT 2 FHD" tvg-logo="https://i.ibb.co/T8Gw0JT/HD10.png" group-title="1 بين سبور BEIN SPORT",|AR| RMC SPORT 2 FHD
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/829
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 1 4K" tvg-logo="https://i.ibb.co/rwzvD1H/95f6681b3ad0c0404b04a7c4a8cccb06.png" group-title="1 بين سبور BEIN SPORT",|AR| BEIN SPORTS MAX 1 4K
-http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/830
-#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORTS MAX 2 4K" tvg-logo="https://i.ibb.co/cwh7myY/max-2.png" group-title="1 بين سبور BEIN SPORT",|AR| BEIN SPORTS MAX 2 4K
-http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/831
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT NEWS 4K" tvg-logo="https://i.ibb.co/FBg9xDq/news.png" group-title="1 بين سبور BEIN SPORT",|AR| BEIN SPORT NEWS 4K
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/832
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS HD 4K" tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORTS HD 4K
