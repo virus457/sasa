@@ -78,6 +78,10 @@ http://31.220.41.88:8081/live/fr-beinmax7.stream/playlist.m3u8
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/794
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS HD" tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORTS HD
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/795
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS 1 PREMIUM HD" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1 بين سبور BEIN SPORT",bein sport xtra 01
+http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/869
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS 1 PREMIUM HD" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1 بين سبور BEIN SPORT",bein sport xtra 02
+http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/870
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS 1 PREMIUM HD" tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORTS 1 PREMIUM HD
 http://65.21.32.185:80/airmaxtvprobeMS/wQ3SBQEChO/799
 #EXTINF:-1 tvg-id="" tvg-name="|AR| BEINSPORTS 2 PREMIUM HD" tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="1 بين سبور BEIN SPORT",|AR| BEINSPORTS 2 PREMIUM HD
