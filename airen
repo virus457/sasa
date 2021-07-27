@@ -226,23 +226,20 @@ https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="11او اس انOSN",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-#EXTINF:-1 tvg-id="ext" group-title="3 نتفليكسNETFLIX",NETFLIX CHANNELS
+#EXTINF:-1 tvg-id="ext" group-title="3قنوات نتفليكسNETFLIX",NETFLIX CHANNELS
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext" group-title="3 نتفليكسNETFLIX",النسخة المدفوعة AirMax TV
+#EXTINF:-1 tvg-id="ext" group-title="3قنوات نتفليكسNETFLIX",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://omgchannel.net/image/cache/catalog/logo-210x89.png" group-title="3 نتفليكسNETFLIX",Omg Channel TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://omgchannel.net/image/cache/catalog/logo-210x89.png" group-title="3قنوات نتفليكسNETFLIX",Omg Channel TV
 http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://omgchannel.net/image/cache/catalog/logo-210x89.png" group-title="3 نتفليكسNETFLIX",omgseries
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://omgchannel.net/image/cache/catalog/logo-210x89.png" group-title="3قنوات نتفليكسNETFLIX",omgseries
 http://media6.smc-host.com:1935/omgchannel.net/omgseries/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="3 نتفليكسNETFLIX",Ajyal TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="3قنوات نتفليكسNETFLIX",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://i.imgur.com/CulLL7e.png" group-title="3 نتفليكسNETFLIX",Nas Tv
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://i.imgur.com/CulLL7e.png" group-title="3قنوات نتفليكسNETFLIX",Nas Tv
 http://vstream3.hadara.ps:8081/NasRadio_web/web/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qsIF3N" group-title="3 نتفليكسNETFLIX",Canadian Arab TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qsIF3N" group-title="3قنوات نتفليكسNETFLIX",Canadian Arab TV
 http://142.112.39.133:8080/catv.mp4
-
-#EXTINF:-1 tvg-id="ext" group-title="3 نتفليكس بلوس",NETFLIX CHANNELS
-https://bit.ly/3pWtmPO
 
 #EXTINF:-1 tvg-id="ext" group-title="4 رياضية SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
