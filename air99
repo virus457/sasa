@@ -1119,6 +1119,8 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/playl
 http://82.137.248.16:1935/Drama/stream19042021/chunklist_w1020462113.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3uUUuSJ" group-title="سوريةSyria",SYRIA TV SD
 http://82.137.248.16:1935/Sat/stream19042021/chunklist_w1577667525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3uUUuSJ" group-title="سوريةSyria",SYRIA TV HD
+https://linkastream.co/headless?url=https://ok.ru/video/2637418405494
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",SYR-AL EKHBARIYA SD
 http://82.137.248.16:1935/Snews/stream19042021/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eR8QSEt.png" group-title="سوريةSyria",SYR-SOURYANA SD
