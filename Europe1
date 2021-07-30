@@ -121,10 +121,16 @@ https://younghollywood-rakuten.amagi.tv/playlist.m3u8
 https://rockentertainment-zoomoo-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="HBO",2مدفوعه للافلامHBO
 https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YtNKwx" group-title="HBO",HBO SV1
-http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YtNKwx" group-title="HBO",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="HBO" tvg-logo="https://i.imgur.com/BPtN337.png",Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/185px-HBOHits-ASIA.png" group-title="HBO",HBO Hits
+http://103.157.237.18:8000/play/740
+#EXTINF:-1 group-title="HBO" tvg-logo="https://i.imgur.com/t8K7C6u.png",HBO Signature
+http://103.157.237.18:8000/play/741
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="HBO",HBO 2
-http://136.243.177.164/HBO2/playlist.m3u8
+http://103.157.237.18:8000/play/740
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="HBO",HBO 3
 http://136.243.177.164/HBO3/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="HBO",Cinemax 1 HD
@@ -135,8 +141,6 @@ http://136.243.177.164/CINEMAX2/playlist.m3u8
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/romedy_now_in.png" group-title="HBO",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/185px-HBOHits-ASIA.png" group-title="HBO",HBO Hits
-https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/550px-Cinemax_%28Yellow%29.svg.png" group-title="HBO",Cinemax
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://image.roku.com/developer_channels/prod/eec31809f3d6d71fced82e9d9143a57637a6b9b80f5474e67feb1d5ffc482884.png" group-title="HBO",Movie Kingdom (No Break)
