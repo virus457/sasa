@@ -3751,9 +3751,9 @@ http://185.93.1.39/FRCH_W9_HD/tracks-v1a1/mono.m3u8
 http://185.93.1.39/FRCH_6TER_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Séries Films" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="FRANCE",TF1 Séries Films (720p)
 https://s6.tntendirect.com/hd1/live/chunks.m3u8
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" tvg-country="FR;AD;BE;LU;MC;CH" tvg-language="French" tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="FRANCE",TFX (720p)
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="" tvg-country="" tvg-language="French" tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="FRANCE",TFX (720p)
 https://s6.tntendirect.com/nt1/live/chunks.m3u8
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" tvg-country="FR;AD;BE;LU;MC;CH" tvg-language="French" tvg-logo="https://bit.ly/37f9UXK" group-title="FRANCE",NRJ12
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="" tvg-country="" tvg-language="French" tvg-logo="https://bit.ly/37f9UXK" group-title="FRANCE",NRJ12
 https://s2.tntendirect.com/nrj12/live/chunks.m3u8
 #EXTINF:-1 tvg-id="Alsace20.fr" tvg-name="Alsace 20" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/S8TuhyF.png" group-title="FRANCE",Alsace 20 (720p)
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
