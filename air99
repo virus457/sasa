@@ -19,6 +19,37 @@ https://bit.ly/39SJpGk
 https://bit.ly/2RrPh2X
 #EXTINF:0 tvg-id="ext" group-title="قسم الدعم الفني للتطبيق",تحميل airmaxعلى الشاشات الاندرويد
 https://bit.ly/34udaMv
+
+#EXTINF:-1 tvg-id="ext" group-title="أولمبياد طوكيو🎟️",BEIN SPORT
+https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أولمبياد طوكيو🎟️",كيف احصل على الكود
+https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
+#EXTINF:-1 group-title="أولمبياد طوكيو🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 1
+https://rtm-olympic01tv.secureswiftcontent.com/rtm/olympic01_720.mpd
+#EXTINF:-1 group-title="أولمبياد طوكيو🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 2
+https://rtm-olympic02tv.secureswiftcontent.com/rtm/olympic02_720.mpd
+#EXTINF:-1 group-title="أولمبياد طوكيو🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 3
+https://rtm-olympic03tv.secureswiftcontent.com/rtm/olympic03_720.mpd
+#EXTINF:-1 group-title="أولمبياد طوكيو🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 4
+https://rtm-olympic04tv.secureswiftcontent.com/rtm/olympic04_720.mpd
+#EXTINF:-1 group-title="أولمبياد طوكيو🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 5
+https://rtm-olympic05tv.secureswiftcontent.com/rtm/olympic05_720.mpd
+#EXTINF:-1 group-title="أولمبياد طوكيو🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 6 
+http://stream.tvtap.live:8081/live/bein1.stream/chunks.m3u8
+#EXTINF:-1 group-title="أولمبياد طوكيو🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 7
+http://stream.tvtap.live:8081/live/bein2.stream/chunks.m3u8
+#EXTINF:-1 group-title="أولمبياد طوكيو🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 8
+http://stream.tvtap.live:8081/live/bein3.stream/chunks.m3u8
+#EXTINF:-1 group-title="أولمبياد طوكيو🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 9
+http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
+#EXTINF:-1 group-title="أولمبياد طوكيو🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 10
+http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
+#EXTINF:-1 group-title="أولمبياد طوكيو🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 11
+http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
+#EXTINF:-1 group-title="أولمبياد طوكيو🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", F1 [When Live]
+http://31.220.41.90:8081/live/skysportsf1.stream/chunks.m3u8
+
+
 #EXTINF:-1 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORT
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",كيف احصل على الكود
