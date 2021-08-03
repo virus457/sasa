@@ -4,29 +4,6 @@ https://or149.tooliserver.com/live/149008_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3d7xcSu" group-title="باقة وياك VIP",Dizi SD
 https://or149.tooliserver.com/live/149008_3.m3u8?session=&location=
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3guMGRv" group-title="رياضية SPORT",KSA Sports 1+
-https://or.tooliserver.com/live/KSA_SPORTS_1_HD/KSA_SPORTS_1_HD.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3guMGRv" group-title="رياضية SPORT",KSA Sports 1++
-https://or149.tooliserver.com/live/149084_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cBcOsY" group-title="رياضية SPORT",KSA Sports 2+
-https://or.tooliserver.com/live/KSA_SPORTS_2_HD/KSA_SPORTS_2_HD.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cBcOsY" group-title="رياضية SPORT",KSA Sports 2++
-https://or149.tooliserver.com/live/149085_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2SVldRf" group-title="رياضية SPORT",KSA Sports 3
-https://or.tooliserver.com/live/KSA_Sports_p1_HD/KSA_Sports_p1_HD.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2SVldRf" group-title="رياضية SPORT",KSA Sports 4
-https://or149.tooliserver.com/live/149086_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vTCTdo" group-title="رياضية SPORT",KSA Sports 4+
-https://or.tooliserver.com/live/KSA_Sports_p2_HD/KSA_Sports_p2_HD.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vYPM6d" group-title="رياضية SPORT",Al Ahly TV 
-https://or149.tooliserver.com/live/149171_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qnPGDJ" group-title="رياضية SPORT",Zamalek TV
-https://or149.tooliserver.com/live/149221_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/luVrnnhEa2s/hqdefault.jpg" group-title="رياضية SPORT",Jordan SPORT
-https://or149.tooliserver.com/live/149077_0.m3u8?session=&location=
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oD1SxQ" group-title="الوثائقية documentary",ALJazeera الجزيرة الوثائقية++
-https://or149.tooliserver.com/live/149178_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3wP1ykH" group-title="أم بي سيMBC",variety FHD
 https://or149.tooliserver.com/live/149017_0.m3u8?session=&location=
 #EXTINF:0 tvg-id="MBC1.net" group-title="أم بي سيMBC",MBC FHD
