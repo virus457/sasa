@@ -216,13 +216,10 @@ https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.elsafa-nwes.com/wp-content/uploads/2019/10/Oman-TV-Sport.jpg" group-title="رياضية SPORT",Oman SPORT
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sOSuuw" group-title="رياضية SPORT",Maroc SPORT
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/809380693914619904/Ww1MdxsQ_400x400.jpg" group-title="رياضية SPORT",Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3jiZkEA" group-title="رياضية SPORT",Arena Sports 1
 http://stream.tvtap.live:8081/live/arena1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3jiZkEA" group-title="رياضية SPORT",Arena Sports 1+
@@ -633,8 +630,8 @@ https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",SPORT T
 https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",j sport 
-http://193.42.99.130:23455/3660/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="ext" group-title="الاخبارNEWS",الاخبارNEWS
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الاخبارNEWS",كيف احصل على الكود
