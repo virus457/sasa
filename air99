@@ -222,8 +222,16 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadi
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/809380693914619904/Ww1MdxsQ_400x400.jpg" group-title="رياضية SPORT",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3BaQKjt" group-title="رياضية SPORT",WWE 
-http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="رياضية SPORT",[COLOR coral]Arena Sports 1
+http://stream.tvtap.live:8081/live/arena1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="رياضية SPORT",[COLOR coral]Arena Sports 2
+http://stream.tvtap.live:8081/live/arena2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="رياضية SPORT",[COLOR coral]Arena Sports 3
+http://stream.tvtap.live:8081/live/arena3.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="رياضية SPORT",[COLOR coral]Arena Sports 4
+http://stream.tvtap.live:8081/live/arena4.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="رياضية SPORT",[COLOR coral]Arena Sports 5
+http://stream.tvtap.live:8081/live/arena5.stream/chunks.m3u8
 #EXTINF:-1 group-title="رياضية SPORT",Sky 1
 http://stream.tvtap.live:8081/live/de-skysport1.stream/playlist.m3u8
 #EXTINF:-1 group-title="رياضية SPORT",Sky 2
@@ -315,25 +323,13 @@ http://stream.tvtap.live:8081/live/it-skysport-football.stream/playlist.m3u8
 #EXTINF: -1 group-title="رياضية SPORT",SPORT1
 http://stream.tvtap.live:8081/live/de-sport1.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Sky Bundesliga1 DE
-http://185.234.111.37:8880/play/a05e
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Sky Bundesliga1 DE+
-http://185.234.111.37:8880/play/a04w
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Sky Bundesliga1 DE++
 http://31.220.41.88:8081/live/de-skybundes1.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Sky Bundesliga2 DE
-http://185.234.111.37:8880/play/a04p
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Sky Bundesliga2 DE+
-http://185.234.111.37:8880/play/a056
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",Sky Bundesliga2 DE++
 http://31.220.41.88:8081/live/de-skybundes2.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",tigo sports
 https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iJ4CuC" group-title="رياضية SPORT",QAZ SPORT HD
-http://176.222.164.71:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",SPORT TV1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",SPORT TV1
-http://212.224.98.207:2200/NL/sporttv1-por/tracks-v1a1/mono.m3u8?token=linksports
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",SPORT TV1
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",SPORT TV2
@@ -352,8 +348,6 @@ https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",SPORT TV5
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2RmeMW1" group-title="رياضية SPORT",WWE Network
-https://nonton.site:8443/provision/pp/299
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",bt sport1
 https://www.livedoomovie.com:443/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",bt sport2
@@ -388,10 +382,6 @@ http://ott-cdn.ucom.am/s82/index.m3u8
 https://95-213-224-179.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1 group-title="رياضية SPORT" tvg-logo=" https://i.postimg.cc/v8x83271/SETANTA-SPORTS-PLUS.png", Setanta Sports+ (RUS) [SD]
 http://195.158.29.129/live_360/live.stream+_360p.m3u8
-#EXTINF:-1 group-title="رياضية SPORT" tvg-logo=" https://i.postimg.cc/nrQ9YH2T/RMC-SPORT-1.png", RMC SPORT 1 (FR) [HD]
-https://22live00.akamaized.net/RMC_Sports_1/index.m3u8
-#EXTINF:-1 group-title="رياضية SPORT" tvg-logo=" https://i.postimg.cc/5jdYsZkJ/RMC-SPORT-2.png", RMC SPORT 2 (FR) [HD]
-https://22live00.akamaized.net/RMC_Sports_2/index.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/4NtvKbrG/FOOTBALL-1.png" group-title="رياضية SPORT",Football 1 (UKR)
 https://95-213-224-179.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/mZKN26pV/FOOTBALL-2.png" group-title="رياضية SPORT",Football 2 (UKR)
@@ -426,16 +416,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",FOX SPORT 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="رياضية SPORT",186.ESPN 2
-https://gma2.blab.email/espn2.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="رياضية SPORT",186.ESPN ACCN
-https://gma2.blab.email/acc.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="رياضية SPORT",186.ESPN FS2
-https://gma2.blab.email/fs2.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="رياضية SPORT",186.ESPN SEC
-https://gma2.blab.email/sec.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="رياضية SPORT",186.ESPN U
-https://gma2.blab.email/espnu.m3u8 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="رياضية SPORT",187.Eurosports 1
 https://piratesiptv.shortcm.li/euro1.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="رياضية SPORT",187.Eurosports 2
@@ -476,22 +456,6 @@ https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png" group-title="رياضية SPORT",True Sport HD4
 https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport_1.png" group-title="رياضية SPORT",CANAL+SPORT 1
-http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
-EXTINF:-1 tvg-id="ext"tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png" group-title="رياضية SPORT",SKYNET SPORTS HD
-http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports1.png" group-title="رياضية SPORT",SKYNET SPORTS 1
-http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports2.png" group-title="رياضية SPORT",SKYNET SPORTS 2
-http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports3.png" group-title="رياضية SPORT",SKYNET SPORTS 3
-http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports4.png" group-title="رياضية SPORT",SKYNET SPORTS 4
-http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports5.png" group-title="رياضية SPORT",SKYNET SPORTS 5
-http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports6.png" group-title="رياضية SPORT",SKYNET SPORTS 6
-http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg" group-title="رياضية SPORT",SPORT TV 1
 https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg" group-title="رياضية SPORT",SPORT TV 2
