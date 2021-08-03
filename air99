@@ -166,6 +166,26 @@ https://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alkass1
 https://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alkassonline
 #EXTINF:-1 tvg-id="AlKassTwo.qa" tvg-name="Al Kass Two" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://bit.ly/3pR3iHm" group-title="رياضية SPORT",Al Kass Two
 https://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alkass2
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3guMGRv" group-title="رياضية SPORT",KSA Sports 1+
+https://or.tooliserver.com/live/KSA_SPORTS_1_HD/KSA_SPORTS_1_HD.m3u8?session=&location=
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3guMGRv" group-title="رياضية SPORT",KSA Sports 1++
+https://or149.tooliserver.com/live/149084_0.m3u8?session=&location=
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cBcOsY" group-title="رياضية SPORT",KSA Sports 2+
+https://or.tooliserver.com/live/KSA_SPORTS_2_HD/KSA_SPORTS_2_HD.m3u8?session=&location=
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cBcOsY" group-title="رياضية SPORT",KSA Sports 2++
+https://or149.tooliserver.com/live/149085_0.m3u8?session=&location=
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2SVldRf" group-title="رياضية SPORT",KSA Sports 3
+https://or.tooliserver.com/live/KSA_Sports_p1_HD/KSA_Sports_p1_HD.m3u8?session=&location=
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2SVldRf" group-title="رياضية SPORT",KSA Sports 4
+https://or149.tooliserver.com/live/149086_0.m3u8?session=&location=
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vTCTdo" group-title="رياضية SPORT",KSA Sports 4+
+https://or.tooliserver.com/live/KSA_Sports_p2_HD/KSA_Sports_p2_HD.m3u8?session=&location=
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vYPM6d" group-title="رياضية SPORT",Al Ahly TV 
+https://or149.tooliserver.com/live/149171_0.m3u8?session=&location=
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qnPGDJ" group-title="رياضية SPORT",Zamalek TV
+https://or149.tooliserver.com/live/149221_0.m3u8?session=&location=
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/luVrnnhEa2s/hqdefault.jpg" group-title="رياضية SPORT",Jordan SPORT
+https://or149.tooliserver.com/live/149077_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="رياضية SPORT",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="رياضية SPORT",Abu Dhabi Sports 2
