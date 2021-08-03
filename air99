@@ -222,16 +222,30 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadi
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/809380693914619904/Ww1MdxsQ_400x400.jpg" group-title="رياضية SPORT",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="رياضية SPORT",[COLOR coral]Arena Sports 1
+
+
+
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3jiZkEA" group-title="رياضية SPORT",Arena Sports 1
 http://stream.tvtap.live:8081/live/arena1.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="رياضية SPORT",[COLOR coral]Arena Sports 2
+#EXTINF:-1 tvg-logo="https://bit.ly/3jiZkEA" group-title="رياضية SPORT",Arena Sports 1+
+http://93.157.62.180/ArenaSport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3jmTh1F" group-title="رياضية SPORT",Arena Sports 2
 http://stream.tvtap.live:8081/live/arena2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="رياضية SPORT",[COLOR coral]Arena Sports 3
+#EXTINF:-1 tvg-logo="https://bit.ly/3jmTh1F" group-title="رياضية SPORT",Arena Sports 2+
+http://93.157.62.180/ArenaSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3lnHnrc" group-title="رياضية SPORT",Arena Sports 3
 http://stream.tvtap.live:8081/live/arena3.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="رياضية SPORT",[COLOR coral]Arena Sports 4
+#EXTINF:-1 tvg-logo="https://bit.ly/3lnHnrc" group-title="رياضية SPORT",Arena Sports 3+
+http://93.157.62.180/ArenaSport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3xieaA5" group-title="رياضية SPORT",Arena Sports 4
 http://stream.tvtap.live:8081/live/arena4.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="رياضية SPORT",[COLOR coral]Arena Sports 5
+#EXTINF:-1 tvg-logo="https://bit.ly/3xieaA5" group-title="رياضية SPORT",Arena Sports 4+
+http://93.157.62.180/ArenaSport4/index.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/37l2GkO" group-title="رياضية SPORT",Arena Sports 5
 http://stream.tvtap.live:8081/live/arena5.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/37l2GkO" group-title="رياضية SPORT",Arena Sports 5+
+http://93.157.62.180/ArenaSport5/index.m3u8
 #EXTINF:-1 group-title="رياضية SPORT",Sky 1
 http://stream.tvtap.live:8081/live/de-skysport1.stream/playlist.m3u8
 #EXTINF:-1 group-title="رياضية SPORT",Sky 2
