@@ -282,10 +282,14 @@ https://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alkass1
 https://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alkassonline
 #EXTINF:-1 tvg-id="AlKassTwo.qa" tvg-name="Al Kass Two" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://bit.ly/3pR3iHm" group-title="4 رياضية SPORT",Al Kass Two
 https://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alkass2
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3guMGRv" group-title="4 رياضية SPORT",KSA Sports 1
+https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport1
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3guMGRv" group-title="4 رياضية SPORT",KSA Sports 1+
 https://or.tooliserver.com/live/KSA_SPORTS_1_HD/KSA_SPORTS_1_HD.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3guMGRv" group-title="4 رياضية SPORT",KSA Sports 1++
 https://or149.tooliserver.com/live/149084_0.m3u8?session=&location=
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cBcOsY" group-title="4 رياضية SPORT",KSA Sports 2
+https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport2
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cBcOsY" group-title="4 رياضية SPORT",KSA Sports 2+
 https://or.tooliserver.com/live/KSA_SPORTS_2_HD/KSA_SPORTS_2_HD.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cBcOsY" group-title="4 رياضية SPORT",KSA Sports 2++
