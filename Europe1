@@ -221,13 +221,13 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",TURKEY TV
 https://bit.ly/3pWtmPO
-#EXTINF:0 type="stream" group="TURKEY" channelId="" logo="https://i.imgur.com/A6nCXZN.png", TRT 1
+#EXTINF:0 tvg-id="" group-title="TURKEY",TRT 1
 http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd
-#EXTINF:0 type="stream" group="TURKEY" channelId="" logo="https://i.imgur.com/h75ScKT.png", TRT 2
+#EXTINF:0 tvg-id="" group-title="TURKEY",TRT 2
 http://167.114.115.233:8080/trt2fhd/index.m3u8
-#EXTINF:0 type="stream" group="TURKEY" channelId="" logo="https://bit.ly/2VIYmtm",TRT Belgesel
+#EXTINF:0 tvg-id="" group-title="TURKEY",TRT Belgesel
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
-#EXTINF:0 type="stream" group="TURKEY" channelId="" logo="https://i.imgur.com/krwgu8g.png", TRT Spor SD
+#EXTINF:0 tvg-id="" group-title="TURKEY",TRT Spor SD
 http://185.129.1.242:80/trtspor/mpegts
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",TRT Arabi
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
