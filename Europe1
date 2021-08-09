@@ -222,7 +222,7 @@ https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/segli
 #EXTINF:0 tvg-id="ext" group-title="TURKEY",TURKEY TV
 https://bit.ly/3pWtmPO
 #EXTINF:0 tvg-id="" group-title="TURKEY",TRT 1
-http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="" group-title="TURKEY",TRT 2
 http://167.114.115.233:8080/trt2fhd/index.m3u8
 #EXTINF:0 tvg-id="" group-title="TURKEY",TRT Belgesel
@@ -1427,7 +1427,7 @@ http://194.132.85.39/19333-live0/_definst_/push-stortinget_1/chunklist_w11360722
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="FRANCE",M6
-https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="FRANCE",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="FRANCE",France 2
@@ -1466,6 +1466,8 @@ http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8?set-segment-dur
 https://alchimie-atelier-des-chefs-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="FRANCE",BFM Business (480p)
 https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/index_1100_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-name="RMC" tvg-id="" tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="FRANCE",RMC
+https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
 #EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-name="BFM Grand Lille" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="FRANCE",BFM Grand Lille (720p)
 https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BFMGrandLittoral.fr" tvg-name="BFM Grand Littoral" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="FRANCE",BFM Grand Littoral (720p)
