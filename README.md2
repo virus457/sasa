@@ -272,6 +272,10 @@ http://142.112.39.133:8080/catv.mp4
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="4 رياضية SPORT",كيف احصل على الكود
 https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3guMGRv" group-title="4 رياضية SPORT",KSA Sports 1
+https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport1
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cBcOsY" group-title="4 رياضية SPORT",KSA Sports 2
+https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport2
 #EXTINF:-1 tvg-id="AlKassFive.qa" tvg-name="Al Kass Five" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="4 رياضية SPORT",Al Kass Five
 https://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alkass5
 #EXTINF:-1 tvg-id="AlKassFour.qa" tvg-name="Al Kass Four" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="4 رياضية SPORT",Al Kass Four
@@ -282,30 +286,6 @@ https://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alkass1
 https://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alkassonline
 #EXTINF:-1 tvg-id="AlKassTwo.qa" tvg-name="Al Kass Two" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://bit.ly/3pR3iHm" group-title="4 رياضية SPORT",Al Kass Two
 https://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alkass2
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3guMGRv" group-title="4 رياضية SPORT",KSA Sports 1
-https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport1
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3guMGRv" group-title="4 رياضية SPORT",KSA Sports 1+
-https://or.tooliserver.com/live/KSA_SPORTS_1_HD/KSA_SPORTS_1_HD.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3guMGRv" group-title="4 رياضية SPORT",KSA Sports 1++
-https://or149.tooliserver.com/live/149084_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cBcOsY" group-title="4 رياضية SPORT",KSA Sports 2
-https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport2
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cBcOsY" group-title="4 رياضية SPORT",KSA Sports 2+
-https://or.tooliserver.com/live/KSA_SPORTS_2_HD/KSA_SPORTS_2_HD.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cBcOsY" group-title="4 رياضية SPORT",KSA Sports 2++
-https://or149.tooliserver.com/live/149085_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2SVldRf" group-title="4 رياضية SPORT",KSA Sports 3
-https://or.tooliserver.com/live/KSA_Sports_p1_HD/KSA_Sports_p1_HD.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2SVldRf" group-title="4 رياضية SPORT",KSA Sports 4
-https://or149.tooliserver.com/live/149086_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vTCTdo" group-title="4 رياضية SPORT",KSA Sports 4+
-https://or.tooliserver.com/live/KSA_Sports_p2_HD/KSA_Sports_p2_HD.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3vYPM6d" group-title="4 رياضية SPORT",Al Ahly TV 
-https://or149.tooliserver.com/live/149171_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qnPGDJ" group-title="4 رياضية SPORT",Zamalek TV
-https://or149.tooliserver.com/live/149221_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/luVrnnhEa2s/hqdefault.jpg" group-title="4 رياضية SPORT",Jordan SPORT
-https://or149.tooliserver.com/live/149077_0.m3u8?session=&location=
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="4 رياضية SPORT",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="4 رياضية SPORT",Abu Dhabi Sports 2
@@ -340,6 +320,20 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/809380693914619904/Ww1MdxsQ_400x400.jpg" group-title="4 رياضية SPORT",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7tmZnMy.png" group-title="4 رياضية SPORT",Viasat Sport | SD
+http://persik.by/stream/2944/263250/10249.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4 رياضية SPORT",TVP Sport POL
+http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4 رياضية SPORT",Canal Plus Sport POL
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4 رياضية SPORT",Eleven Sport 1 POL
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4 رياضية SPORT",Eleven Sport 2 POL
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4 رياضية SPORT",QAZ Sport KZJ
+http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4 رياضية SPORT",QAZ Sport KZJ (op2)
+http://46.34.209.242/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3jiZkEA" group-title="4 رياضية SPORT",Arena Sports 1
 http://stream.tvtap.live:8081/live/arena1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3jiZkEA" group-title="4 رياضية SPORT",Arena Sports 1+
@@ -750,6 +744,7 @@ https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="4 رياضية SPORT",SPORT T
 https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="ext" group-title="5 الاخبارNEWS",5 الاخبارNEWS
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2L5qamy" group-title="5 الاخبارNEWS",AL JAZEERA HD (الدقة التلقائية)
