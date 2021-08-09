@@ -1511,6 +1511,8 @@ http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/chunklist.m3u8
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oaf25a" group-title="السعودية Saudi-Arabia",Al Sunnah 
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="السعودية Saudi-Arabia",sbc
+https://iptv--iptv.repl.co/Arabic/SBC/
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39SAffa" group-title="الامارات EMIRATES",الامارات EMIRATES 
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="الامارات EMIRATES",كيف احصل على الكود
