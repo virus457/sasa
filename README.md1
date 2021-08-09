@@ -223,6 +223,20 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/809380693914619904/Ww1MdxsQ_400x400.jpg" group-title="رياضية SPORT",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7tmZnMy.png" group-title="رياضية SPORT",Viasat Sport | SD
+http://persik.by/stream/2944/263250/10249.m3u8
+#EXTINF:-1 tvg-logo="" group-title="رياضية SPORT",TVP Sport POL
+http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="رياضية SPORT",Canal Plus Sport POL
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="رياضية SPORT",Eleven Sport 1 POL
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="رياضية SPORT",Eleven Sport 2 POL
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="رياضية SPORT",QAZ Sport KZJ
+http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="رياضية SPORT",QAZ Sport KZJ (op2)
+http://46.34.209.242/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3jiZkEA" group-title="رياضية SPORT",Arena Sports 1
 http://stream.tvtap.live:8081/live/arena1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3jiZkEA" group-title="رياضية SPORT",Arena Sports 1+
