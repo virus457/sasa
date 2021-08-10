@@ -371,67 +371,57 @@ http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/634
 
 
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Netflix sd Arabic ACTION" tvg-logo="https://i.ibb.co/PgzFmkN/Netflix 4K-arabic.png" group-title="نتفليكسNETFLIX",Netflix sd Arabic ACTION
+http://65.21.32.185:80/airmaxneBB/IufpTLjxpK/894
+#EXTINF:-1 tvg-id="" tvg-name="Netflix sd Arabic DRAMA" tvg-logo="https://i.ibb.co/PgzFmkN/Netflix 4K-arabic.png" group-title="نتفليكسNETFLIX",Netflix sd Arabic DRAMA
+http://65.21.32.185:80/airmaxneBB/IufpTLjxpK/895
+#EXTINF:-1 tvg-id="" tvg-name="Netflix sd Arabic MIX" tvg-logo="https://i.ibb.co/PgzFmkN/Netflix 4K-arabic.png" group-title="نتفليكسNETFLIX",Netflix sd Arabic MIX
+http://65.21.32.185:80/airmaxneBB/IufpTLjxpK/896
+#EXTINF:-1 tvg-id="" tvg-name="Netflix sd Arabic COMEDY" tvg-logo="https://i.ibb.co/PgzFmkN/Netflix 4K-arabic.png" group-title="نتفليكسNETFLIX",Netflix sd Arabic COMEDY
+http://65.21.32.185:80/airmaxneBB/IufpTLjxpK/897
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Action" tvg-logo="https://i.ibb.co/S56x0vx/netflix-ac.png" group-title="نتفليكسNETFLIX",Netflix Action
-http://65.21.32.185:80/airmaxneBB/IufpTLjxpK/719
+http://65.21.32.185:80/airmaxneBB/IufpTLjxpK/898
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Horror" tvg-logo="https://i.ibb.co/3hsDZBD/horrnr.png" group-title="نتفليكسNETFLIX",Netflix Horror
-http://65.21.32.185:80/airmaxneBB/IufpTLjxpK/720
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX SCI" tvg-logo="https://i.ibb.co/W6SSNQy/netflix-SCI.png" group-title="نتفليكسNETFLIX",NETFLIX SCI
-http://65.21.32.185:80/airmaxneBB/IufpTLjxpK/721
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX Animation" tvg-logo="https://i.ibb.co/1ZmJhWT/NETFLIX-Animation.png" group-title="نتفليكسNETFLIX",NETFLIX Animation
-http://65.21.32.185:80/airmaxneBB/IufpTLjxpK/722
+http://65.21.32.185:80/airmaxneBB/IufpTLjxpK/899
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy" tvg-logo="https://i.ibb.co/DYvYcF1/netflix-comedy.png" group-title="نتفليكسNETFLIX",Netflix Comedy
-http://65.21.32.185:80/airmaxneBB/IufpTLjxpK/723
+http://65.21.32.185:80/airmaxneBB/IufpTLjxpK/900
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Arabic" tvg-logo="https://i.ibb.co/PgzFmkN/Netflix-arabic.png" group-title="نتفليكسNETFLIX",Netflix Arabic
-http://65.21.32.185:80/airmaxneBB/IufpTLjxpK/724
-#EXTINF:-1 tvg-id="" tvg-name="NetflixAflam" tvg-logo="https://i.ibb.co/PgzFmkN/Netflix-arabic.png" group-title="نتفليكسNETFLIX",NetflixAflam
-http://65.21.32.185:80/airmaxneBB/IufpTLjxpK/725
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Boxoffice 1" tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="نتفليكسNETFLIX",Netflix Boxoffice 1
-http://65.21.32.185:80/airmaxneBB/IufpTLjxpK/726
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Boxoffice 2" tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="نتفليكسNETFLIX",Netflix Boxoffice 2
-http://65.21.32.185:80/airmaxneBB/IufpTLjxpK/727
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Boxoffice 3" tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="نتفليكسNETFLIX",Netflix Boxoffice 3
-http://65.21.32.185:80/airmaxneBB/IufpTLjxpK/728
+http://65.21.32.185:80/airmaxneBB/IufpTLjxpK/901
+#EXTINF:-1 tvg-id="" tvg-name="Netflix  Aflam" tvg-logo="https://i.ibb.co/PgzFmkN/Netflix-arabic.png" group-title="نتفليكسNETFLIX",Netflix  Aflam
+http://65.21.32.185:80/airmaxneBB/IufpTLjxpK/902
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 1" tvg-logo="https://i.ibb.co/g7TZD57/BOXOFFIC-removebg-preview.png" group-title="نتفليكسNETFLIX",BOX OFFICE 1
+http://65.21.32.185:80/airmaxneBB/IufpTLjxpK/903
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 2" tvg-logo="https://i.ibb.co/g7TZD57/BOXOFFIC-removebg-preview.png" group-title="نتفليكسNETFLIX",BOX OFFICE 2
+http://65.21.32.185:80/airmaxneBB/IufpTLjxpK/904
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 3" tvg-logo="https://i.ibb.co/g7TZD57/BOXOFFIC-removebg-preview.png" group-title="نتفليكسNETFLIX",BOX OFFICE 3
+http://65.21.32.185:80/airmaxneBB/IufpTLjxpK/905
 
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Arabia" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Arabia
-http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/729
+http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/906
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Drama 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Drama 1
-http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/730
-#EXTINF:-1 tvg-id="" tvg-name="|AR| SHAHID ADVENTURE 2" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| SHAHID ADVENTURE 2
-http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/731
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID ADVENTURE" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",SHAHID ADVENTURE
-http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/732
+http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/907
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Adventure 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Adventure 1
-http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/733
+http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/908
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Bollywood 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Bollywood 1
-http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/734
+http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/909
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Family 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Family 1
-http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/735
+http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/910
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Horror 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Horror 1
-http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/736
+http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/911
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Thriller 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Thriller 1
-http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/737
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID SCI-FI 1" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",SHAHID SCI-FI 1
-http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/738
+http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/912
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Kids" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Kids
-http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/739
+http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/913
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid Crime" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid Crime
-http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/740
+http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/914
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Shahid COMEDY" tvg-logo="https://i.ibb.co/FX1BPnv/shaidvip.png" group-title="باقة شاهد نت",|AR| Shahid COMEDY
-http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/741
-#EXTINF:-1 tvg-id="" tvg-name="AR:SHAHID_AFLAM_1" tvg-logo="https://i.ibb.co/12Pcv64/shahid.png" group-title="باقة شاهد نت",AR:SHAHID_AFLAM_1
-http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/742
+http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/915
 #EXTINF:-1 tvg-id="" tvg-name="AR:SHAHID_AFLAM_2" tvg-logo="https://i.ibb.co/12Pcv64/shahid.png" group-title="باقة شاهد نت",AR:SHAHID_AFLAM_2
-http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/743
-#EXTINF:-1 tvg-id="" tvg-name="AR:SHAHID:CINEMA" tvg-logo="https://i.ibb.co/12Pcv64/shahid.png" group-title="باقة شاهد نت",AR:SHAHID:CINEMA
-http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/744
-#EXTINF:-1 tvg-id="" tvg-name="AR:SHAHID_ZAMAN" tvg-logo="https://i.ibb.co/12Pcv64/shahid.png" group-title="باقة شاهد نت",AR:SHAHID_ZAMAN
-http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/745
-#EXTINF:-1 tvg-id="" tvg-name="AR:SHAHID_ROAP" tvg-logo="https://i.ibb.co/12Pcv64/shahid.png" group-title="باقة شاهد نت",AR:SHAHID_ROAP
-http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/746
+http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/916
 #EXTINF:-1 tvg-id="" tvg-name="AR:SHAHID_ACTION" tvg-logo="https://i.ibb.co/12Pcv64/shahid.png" group-title="باقة شاهد نت",AR:SHAHID_ACTION
-http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/747
+http://65.21.32.185:80/airmaxshBB/IvW1wPwki2/917
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" group-title="باقة وياك VIP",Weyyak Action
