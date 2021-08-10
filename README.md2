@@ -3807,6 +3807,10 @@ http://194.132.85.39/19333-live0/_definst_/push-stortinget_1/chunklist_w11360722
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="FRANCE",M6
 https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="FR: ACTION 4K" tvg-logo="http://logo.protv.cc/picons/logos/ACTION-.png" group-title="FRANCE",FR: ACTION 4K
+http://185.93.1.39:80/FRCH_Action_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ eMOTION 4K" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-MOTOGP.png" group-title="FRANCE",FR: CANAL+ eMOTION 4K
+http://185.93.1.39:80/FRCH_Cine_Plus_Emotion_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="FRANCE",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="FRANCE",France 2
