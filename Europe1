@@ -1495,6 +1495,12 @@ http://194.132.85.39/19333-live0/_definst_/push-stortinget_1/chunklist_w11360722
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="FR: ACTION 4K" tvg-logo="http://logo.protv.cc/picons/logos/ACTION-.png" group-title="FRANCE",FR: ACTION 4K
+http://185.93.1.39:80/FRCH_Action_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ eMOTION 4K" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-MOTOGP.png" group-title="FRANCE",FR: CANAL+ eMOTION 4K
+http://185.93.1.39:80/FRCH_Cine_Plus_Emotion_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RTl9.mu" tvg-name="FR: RTL 9 4K" tvg-logo="http://logo.protv.cc/picons/logos/rtl9.png" group-title="FRANCE",FR: RTL 9 4K
+http://185.93.1.39:80/FRCH_RTL9_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="FRANCE",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="FRANCE",France 2
@@ -1519,8 +1525,8 @@ http://185.93.1.39/FRCH_6TER_HD/tracks-v1a1/mono.m3u8
 https://s6.tntendirect.com/hd1/live/chunks.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" tvg-country="FR;AD;BE;LU;MC;CH" tvg-language="French" tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="FRANCE",TFX (720p)
 https://s6.tntendirect.com/nt1/live/chunks.m3u8
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" tvg-country="FR;AD;BE;LU;MC;CH" tvg-language="French" tvg-logo="https://bit.ly/37f9UXK" group-title="FRANCE",NRJ12
-https://s2.tntendirect.com/nrj12/live/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="FRANCE",TV5 MONDE
+http://v3plusinfo247hls-i.akamaihd.net:80/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1 tvg-id="Alsace20.fr" tvg-name="Alsace 20" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/S8TuhyF.png" group-title="FRANCE",Alsace 20 (720p)
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AmuseAnimation.fr" tvg-name="Amuse Animation" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/H7GtB0T.jpg" group-title="FRANCE",Amuse Animation (720p)
@@ -2180,7 +2186,8 @@ http://80.24.75.92:5555/udp/239.111.0.1:1234
 http://80.24.75.92:5555/udp/239.111.1.1:1234
 #EXTINF:0 tvg-id="NPO3.nl" group-title="NEDERLAND",NPO 3 HD
 http://80.24.75.92:5555/udp/239.111.0.3:1234
-#EXTINF:0 tvg-id="RTL4.nl" group-title="NEDERLAND",RTL 4 HD
+#EXTINF:0 tvg-id="
+4.nl" group-title="NEDERLAND",RTL 4 HD
 http://80.24.75.92:5555/udp/239.111.2.1:1234
 #EXTINF:0 tvg-id="RTL5.nl" group-title="NEDERLAND",RTL 5 HD
 http://80.24.75.92:5555/udp/239.111.2.2:1234
