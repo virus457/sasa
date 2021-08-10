@@ -4847,8 +4847,6 @@ https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
 http://live.kronopress.com:1935/mediaone_live/teleone/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele Pegaso Catania" tvg-logo="https://i.imgur.com/alKlcEp.png" group-title="Italy",Tele Pegaso Catania
 https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8
-#EXTINF:-1 tvg-name="Tele Pavia" tvg-id="" group-title="Italy" tvg-logo="https://i.imgur.com/3oWB2li.jpg",Tele Pavia
-http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele Pordenone" tvg-logo="" group-title="Italy",Tele Pordenone
 http://213.187.12.18/telepn/telepn.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TeleArena" tvg-logo="" group-title="Italy",TeleArena
