@@ -166,9 +166,28 @@ http://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alkass1
 http://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alkassonline
 #EXTINF:-1 tvg-id="AlKassTwo.qa" tvg-name="Al Kass Two" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://bit.ly/3pR3iHm" group-title="رياضية SPORT",Al Kass Two
 http://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alkass2
-#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 1 4k" tvg-logo="https://sport.al-marsd.com/wp-content/uploads/2021/07/60f87d385ae76.jpg" group-title="رياضية SPORT",SSC SPORT 1 4k
+http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/918
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 2 4k" tvg-logo="https://sport.al-marsd.com/wp-content/uploads/2021/07/60f87d385ae76.jpg" group-title="رياضية SPORT",SSC SPORT 2 4k
+http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/919
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 3 4k" tvg-logo="https://sport.al-marsd.com/wp-content/uploads/2021/07/60f87d385ae76.jpg" group-title="رياضية SPORT",SSC SPORT 3 4k
+http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/920
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 4 4 k" tvg-logo="https://sport.al-mar4 k.com/wp-content/uploads/2021/07/60f87d385ae76.jpg" group-title="رياضية SPORT",SSC SPORT 4 4 k
+http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/921
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 5 4 k" tvg-logo="https://sport.al-mar4 k.com/wp-content/uploads/2021/07/60f87d385ae76.jpg" group-title="رياضية SPORT",SSC SPORT 5 4 k
+http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/922
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 6 4 k" tvg-logo="https://sport.al-mar4 k.com/wp-content/uploads/2021/07/60f87d385ae76.jpg" group-title="رياضية SPORT",SSC SPORT 6 4 k
+http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/923
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 7 4 k" tvg-logo="https://sport.al-mar4 k.com/wp-content/uploads/2021/07/60f87d385ae76.jpg" group-title="رياضية SPORT",SSC SPORT 7 4 k
+http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/924
 #EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 1 Full-HD" tvg-logo="https://i.ibb.co/rtQgxx0/ksa-sports-1.png" group-title="رياضية SPORT",|AR| KSA SPORTS 1 Full-HD
 http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/748
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 2 Full-HD" tvg-logo="http://nooritv.live:25461/images/0588ec79ed14fbbdf282d2e686f6beee.png" group-title="رياضية SPORT",|AR| KSA SPORTS 2 Full-HD
+http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/749
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 3 Full-HD" tvg-logo="http://nooritv.live:25461/images/f0bf833e473abea6f9be140e8dda268e.png" group-title="رياضية SPORT",|AR| KSA SPORTS 3 Full-HD
+http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/750
+#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 4 Full-HD" tvg-logo="http://nooritv.live:25461/images/b747b1bb273910d05de469d4ea2687bd.png" group-title="رياضية SPORT",|AR| KSA SPORTS 4 Full-HD
+http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/751
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Alhilal tv HD" tvg-logo="https://i.pinimg.com/originals/08/f0/46/08f046ce634a9178f4efb7c1d75b85ef.png" group-title="رياضية SPORT",|AR| Alhilal tv HD
 http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/758
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Zamalek Sports HD" tvg-logo="https://i.ibb.co/MfvmNYz/zmalek.png" group-title="رياضية SPORT",|AR| Zamalek Sports HD
@@ -183,12 +202,6 @@ http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/754
 http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/753
 #EXTINF:-1 tvg-id="" tvg-name="|AR| ON-Sport" tvg-logo="http://nooritv.live:25461/images/1be76edc705fd7db5a81f34e6665d6ca.png" group-title="رياضية SPORT",|AR| ON-Sport
 http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/752
-#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 4 Full-HD" tvg-logo="http://nooritv.live:25461/images/b747b1bb273910d05de469d4ea2687bd.png" group-title="رياضية SPORT",|AR| KSA SPORTS 4 Full-HD
-http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/751
-#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 3 Full-HD" tvg-logo="http://nooritv.live:25461/images/f0bf833e473abea6f9be140e8dda268e.png" group-title="رياضية SPORT",|AR| KSA SPORTS 3 Full-HD
-http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/750
-#EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 2 Full-HD" tvg-logo="http://nooritv.live:25461/images/0588ec79ed14fbbdf282d2e686f6beee.png" group-title="رياضية SPORT",|AR| KSA SPORTS 2 Full-HD
-http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/749
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="رياضية SPORT",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="رياضية SPORT",Abu Dhabi Sports 2
