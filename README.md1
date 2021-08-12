@@ -20,20 +20,6 @@ https://bit.ly/2RrPh2X
 #EXTINF:0 tvg-id="ext" group-title="قسم الدعم الفني للتطبيق",تحميل airmaxعلى الشاشات الاندرويد
 https://bit.ly/34udaMv
 
-#EXTINF:-1 tvg-id="ext" group-title="أولمبياد طوكيو🎟️",Bأولمبياد طوكيو
-https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="أولمبياد طوكيو🎟️",كيف احصل على الكود
-https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
-#EXTINF:-1 group-title="أولمبياد طوكيو🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 1
-https://rtm-olympic01tv.secureswiftcontent.com/rtm/olympic01_720.mpd
-#EXTINF:-1 group-title="أولمبياد طوكيو🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 2
-https://rtm-olympic02tv.secureswiftcontent.com/rtm/olympic02_720.mpd
-#EXTINF:-1 group-title="أولمبياد طوكيو🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 3
-https://rtm-olympic03tv.secureswiftcontent.com/rtm/olympic03_720.mpd
-#EXTINF:-1 group-title="أولمبياد طوكيو🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 4
-https://rtm-olympic04tv.secureswiftcontent.com/rtm/olympic04_720.mpd
-#EXTINF:-1 group-title="أولمبياد طوكيو🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 5
-https://rtm-olympic05tv.secureswiftcontent.com/rtm/olympic05_720.mpd
 #EXTINF:-1 group-title="أولمبياد طوكيو🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 6 
 http://stream.tvtap.live:8081/live/bein1.stream/chunks.m3u8
 #EXTINF:-1 group-title="أولمبياد طوكيو🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 7
@@ -46,8 +32,6 @@ http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
 #EXTINF:-1 group-title="أولمبياد طوكيو🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", Live 11
 http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
-#EXTINF:-1 group-title="أولمبياد طوكيو🎟️" tvg-logo="https://image.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg", F1 [When Live]
-http://31.220.41.90:8081/live/skysportsf1.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORT
@@ -118,6 +102,23 @@ http://31.220.41.88:8081/live/fr-beinmax5.stream/playlist.m3u8
 http://31.220.41.88:8081/live/fr-beinmax6.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 7 FR
 http://31.220.41.88:8081/live/fr-beinmax7.stream/playlist.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://bit.ly/3yH98yQ",Bein Sport 1
+http://stream.tvtap.live:8081/live/bein1.stream/chunks.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://bit.ly/3yH98yQ",Bein Sport 2
+http://stream.tvtap.live:8081/live/bein2.stream/chunks.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://bit.ly/3yH98yQ",Bein Sport 3
+http://stream.tvtap.live:8081/live/bein3.stream/chunks.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://bit.ly/3yH98yQ",Bein Sport 4
+http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://bit.ly/3yH98yQ",Bein Sport 5
+http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://bit.ly/3yH98yQ",Bein Sport 6
+http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="SSC SPORT",SPORT CHANNELS
+https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="SSC SPORT",كيف احصل على الكود
+https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
+
 #EXTINF:0 tvg-id="ext" group-title="باقة وياك VIP",▂ ▄ ▅ ▆☆ باقة وياك VIP ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="باقة وياك VIP",النسخة المدفوعة AirMax TV
@@ -150,8 +151,6 @@ http://vstream3.hadara.ps:8081/NasRadio_web/web/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext" group-title="باقه OXN",NETFLIX CHANNELS
 https://bit.ly/3pWtmPO
-
-
 #EXTINF:-1 tvg-id="ext" group-title="رياضية SPORT",SPORT CHANNELS
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="رياضية SPORT",كيف احصل على الكود
@@ -166,20 +165,6 @@ http://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alkass1
 http://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alkassonline
 #EXTINF:-1 tvg-id="AlKassTwo.qa" tvg-name="Al Kass Two" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://bit.ly/3pR3iHm" group-title="رياضية SPORT",Al Kass Two
 http://www.elahmad.com/tv/m3u8/online_tv.m3u8?id=alkass2
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 1 4k" tvg-logo="https://sport.al-marsd.com/wp-content/uploads/2021/07/60f87d385ae76.jpg" group-title="رياضية SPORT",SSC SPORT 1 4k
-http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/918
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 2 4k" tvg-logo="https://sport.al-marsd.com/wp-content/uploads/2021/07/60f87d385ae76.jpg" group-title="رياضية SPORT",SSC SPORT 2 4k
-http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/919
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 3 4k" tvg-logo="https://sport.al-marsd.com/wp-content/uploads/2021/07/60f87d385ae76.jpg" group-title="رياضية SPORT",SSC SPORT 3 4k
-http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/920
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 4 4 k" tvg-logo="https://sport.al-mar4 k.com/wp-content/uploads/2021/07/60f87d385ae76.jpg" group-title="رياضية SPORT",SSC SPORT 4 4 k
-http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/921
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 5 4 k" tvg-logo="https://sport.al-mar4 k.com/wp-content/uploads/2021/07/60f87d385ae76.jpg" group-title="رياضية SPORT",SSC SPORT 5 4 k
-http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/922
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 6 4 k" tvg-logo="https://sport.al-mar4 k.com/wp-content/uploads/2021/07/60f87d385ae76.jpg" group-title="رياضية SPORT",SSC SPORT 6 4 k
-http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/923
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 7 4 k" tvg-logo="https://sport.al-mar4 k.com/wp-content/uploads/2021/07/60f87d385ae76.jpg" group-title="رياضية SPORT",SSC SPORT 7 4 k
-http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/924
 #EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 1 Full-HD" tvg-logo="https://i.ibb.co/rtQgxx0/ksa-sports-1.png" group-title="رياضية SPORT",|AR| KSA SPORTS 1 Full-HD
 http://65.21.32.185:80/airmaxspBB/wTLHfJydP9/748
 #EXTINF:-1 tvg-id="" tvg-name="|AR| KSA SPORTS 2 Full-HD" tvg-logo="http://nooritv.live:25461/images/0588ec79ed14fbbdf282d2e686f6beee.png" group-title="رياضية SPORT",|AR| KSA SPORTS 2 Full-HD
