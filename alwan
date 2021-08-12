@@ -133,116 +133,120 @@ http://65.21.32.185:80/airmaxtvbenBB/oz8LInmesU/866
 http://65.21.32.185:80/airmaxtvbenBB/oz8LInmesU/867
 
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN Ya Hala HD" tvg-logo="https://content.osn.com/logo/channel/cropped/OYA.png" group-title="او اس انOSN",|AR| OSN Ya Hala HD
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/925
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN Ya Hala Al Oula HD" tvg-logo="https://content.osn.com/logo/channel/cropped/OYH.png" group-title="او اس انOSN",|AR| OSN Ya Hala Al Oula HD
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/926
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN Yahala Cinema HD" tvg-logo="https://content.osn.com/logo/channel/cropped/OYC.png" group-title="او اس انOSN",|AR| OSN Yahala Cinema HD
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/927
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN Alfa Yawm HD" tvg-logo="https://content.osn.com/logo/channel/cropped/YAW.png" group-title="او اس انOSN",|AR| OSN Alfa Yawm HD
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/580
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/928
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN MUSALSALAT 1 HD" tvg-logo="https://content.osn.com/logo/channel/cropped/SER.png" group-title="او اس انOSN",|AR| OSN MUSALSALAT 1 HD
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/581
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/929
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN MUSALSALAT 2 HD" tvg-logo="https://content.osn.com/logo/channel/cropped/SE4.png" group-title="او اس انOSN",|AR| OSN MUSALSALAT 2 HD
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/582
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/930
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN ALfa Safwa HD" tvg-logo="https://content.osn.com/logo/channel/cropped/SAF.png" group-title="او اس انOSN",|AR| OSN ALfa Safwa HD
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/931
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN Series HD" tvg-logo="https://content.osn.com/logo/channel/cropped/OBG.png" group-title="او اس انOSN",|AR| OSN Series HD
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/583
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/932
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN Star World HD" tvg-logo="https://content.osn.com/logo/channel/cropped/STW.png" group-title="او اس انOSN",|AR| OSN Star World HD
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/584
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/933
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN  Star Movie HD" tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png" group-title="او اس انOSN",|AR| OSN  Star Movie HD
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/934
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN  Movies HD" tvg-logo="https://content.osn.com/logo/channel/cropped/OPR.png" group-title="او اس انOSN",|AR| OSN  Movies HD
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/935
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN  Movies First HD" tvg-logo="https://content.osn.com/logo/channel/cropped/OFM.png" group-title="او اس انOSN",|AR| OSN  Movies First HD
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/585
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/936
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN  Movies Comedy HD" tvg-logo="https://content.osn.com/logo/channel/cropped/OCO.png" group-title="او اس انOSN",|AR| OSN  Movies Comedy HD
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/586
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/937
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN Fann" tvg-logo="https://content.osn.com/logo/channel/cropped/FAN.png" group-title="او اس انOSN",|AR| OSN Fann
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/938
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN Mezze" tvg-logo="https://content.osn.com/logo/channel/cropped/OMZ.png" group-title="او اس انOSN",|AR| OSN Mezze
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/939
 #EXTINF:-1 tvg-id="" tvg-name="|AR| OSN Series First HD" tvg-logo="https://content.osn.com/logo/channel/cropped/OFH.png" group-title="او اس انOSN",|AR| OSN Series First HD
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/587
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN COMEDY" tvg-logo="" group-title="او اس انOSN",|AR| OSN COMEDY
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/588
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN HISTORY" tvg-logo="" group-title="او اس انOSN",|AR| OSN HISTORY
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/589
-#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN Discovery HD" tvg-logo="" group-title="او اس انOSN",|AR| OSN Discovery HD
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/590
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/940
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN Action HD" tvg-logo="https://content.osn.com/logo/channel/cropped/AHD.png" group-title="او اس انOSN",|AR| OSN Action HD
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/941
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN COMEDY" tvg-logo="https://content.osn.com/logo/channel/cropped/OCO.png" group-title="او اس انOSN",|AR| OSN COMEDY
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/942
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN HISTORY" tvg-logo="https://content.osn.com/logo/channel/cropped/HIS.png" group-title="او اس انOSN",|AR| OSN HISTORY
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/943
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN Movies First +2h" tvg-logo="https://content.osn.com/logo/channel/cropped/OMX.png" group-title="او اس انOSN",|AR| OSN Movies First +2h
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/944
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN WWE Network" tvg-logo="https://i.ibb.co/dmd99Mx/osn-WWE-removebg-preview.png" group-title="او اس انOSN",|AR| OSN WWE Network
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/945
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN Discovery HD" tvg-logo="https://content.osn.com/logo/channel/cropped/DSC.png" group-title="او اس انOSN",|AR| OSN Discovery HD
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/946
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN WOMAN HD" tvg-logo="https://content.osn.com/logo/channel/cropped/OSW.png" group-title="او اس انOSN",|AR| OSN WOMAN HD
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/947
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN  KIDS HD" tvg-logo="https://content.osn.com/logo/channel/cropped/KDZ.png" group-title="او اس انOSN",|AR| OSN  KIDS HD
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/948
+#EXTINF:-1 tvg-id="" tvg-name="|AR|OSN ANIMAL PLANET HD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-1.png" group-title="او اس انOSN",|AR|OSN ANIMAL PLANET HD
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/949
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN TLC" tvg-logo="https://i.ibb.co/nbbB9xq/png-clipart-tlc-life-entertainment-television-show-others-miscellaneous-television.png" group-title="او اس انOSN",|AR| OSN TLC
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/950
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN LIVING HD" tvg-logo="https://content.osn.com/logo/channel/cropped/OLH.png" group-title="او اس انOSN",|AR| OSN LIVING HD
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/951
+#EXTINF:-1 tvg-id="" tvg-name="|AR| OSN NAT GEO WILD" tvg-logo="https://content.osn.com/logo/channel/cropped/NHD.png" group-title="او اس انOSN",|AR| OSN NAT GEO WILD
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/952
+#EXTINF:-1 tvg-id="" tvg-name="|AR| MUSIC HD" tvg-logo="https://content.osn.com/logo/channel/cropped/NOW.png" group-title="او اس انOSN",|AR| MUSIC HD
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/953
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ART Hekayat 1 HD" tvg-logo="https://static.epg.best/sa/Hekayat2En.sa.png" group-title="او اس انOSN",|AR| ART Hekayat 1 HD
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/954
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ART Hekayat 2 HD" tvg-logo="https://static.epg.best/sa/Hekayat2En.sa.png" group-title="او اس انOSN",|AR| ART Hekayat 2 HD
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/955
 #EXTINF:-1 tvg-id="" tvg-name="|AR| ART Aflam 1 HD" tvg-logo="https://static.epg.best/sa/ARTAflam1.sa.png" group-title="او اس انOSN",|AR| ART Aflam 1 HD
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/591
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/956
 #EXTINF:-1 tvg-id="" tvg-name="|AR| ART Aflam 2 HD" tvg-logo="https://static.epg.best/sa/ARTAflam2En.sa.png" group-title="او اس انOSN",|AR| ART Aflam 2 HD
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/592
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/957
 #EXTINF:-1 tvg-id="" tvg-name="|AR| ART Cenima HD" tvg-logo="https://static.epg.best/sa/ARTCinemaEn.sa.png" group-title="او اس انOSN",|AR| ART Cenima HD
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/593
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/958
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ART Cenima 1" tvg-logo="" group-title="او اس انOSN",|AR| ART Cenima 1
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/959
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ART Cenima 2" tvg-logo="" group-title="او اس انOSN",|AR| ART Cenima 2
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/960
 #EXTINF:-1 tvg-id="" tvg-name="|AR| ART Movies America" tvg-logo="" group-title="او اس انOSN",|AR| ART Movies America
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/594
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/961
 #EXTINF:-1 tvg-id="" tvg-name="|AR| ART  Tarab" tvg-logo="" group-title="او اس انOSN",|AR| ART  Tarab
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/595
-#EXTINF:-1 tvg-id="" tvg-name="OSN ALYAWM" tvg-logo="http://www.teledunet.com/logo.php?id=33350" group-title="او اس انOSN",OSN ALYAWM
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/596
-#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA" tvg-logo="http://www.teledunet.com/logo.php?id=1044" group-title="او اس انOSN",OSN YAHALA
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/597
-#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA OULA" tvg-logo="http://www.teledunet.com/logo.php?id=1045" group-title="او اس انOSN",OSN YAHALA OULA
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/598
-#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA CINEMA" tvg-logo="http://www.teledunet.com/logo.php?id=333480" group-title="او اس انOSN",OSN YAHALA CINEMA
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/599
-#EXTINF:-1 tvg-id="" tvg-name="OSN ACTIONS HD" tvg-logo="http://www.teledunet.com/logo.php?id=102256" group-title="او اس انOSN",OSN ACTIONS HD
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/600
-#EXTINF:-1 tvg-id="" tvg-name="OSN ACTIONS" tvg-logo="http://www.teledunet.com/logo.php?id=303560" group-title="او اس انOSN",OSN ACTIONS
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/601
-#EXTINF:-1 tvg-id="" tvg-name="OSN MOVIES" tvg-logo="http://www.teledunet.com/logo.php?id=1053" group-title="او اس انOSN",OSN MOVIES
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/602
-#EXTINF:-1 tvg-id="" tvg-name="OSN STAR MOVIES" tvg-logo="http://www.teledunet.com/logo.php?id=20330" group-title="او اس انOSN",OSN STAR MOVIES
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/603
-#EXTINF:-1 tvg-id="" tvg-name="OSN CINEMA 1" tvg-logo="http://www.teledunet.com/logo.php?id=10295" group-title="او اس انOSN",OSN CINEMA 1
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/604
-#EXTINF:-1 tvg-id="" tvg-name="OSN CINEMA 2" tvg-logo="http://www.teledunet.com/logo.php?id=1050" group-title="او اس انOSN",OSN CINEMA 2
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/605
-#EXTINF:-1 tvg-id="" tvg-name="OSN WWE" tvg-logo="http://www.teledunet.com/logo.php?id=333609" group-title="او اس انOSN",OSN WWE
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/606
-#EXTINF:-1 tvg-id="" tvg-name="OSN MEZZE" tvg-logo="http://www.teledunet.com/logo.php?id=1052" group-title="او اس انOSN",OSN MEZZE
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/607
-#EXTINF:-1 tvg-id="" tvg-name="OSN AL SAFWA" tvg-logo="http://www.teledunet.com/logo.php?id=333589" group-title="او اس انOSN",OSN AL SAFWA
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/608
-#EXTINF:-1 tvg-id="" tvg-name="OSN LIVING HD" tvg-logo="http://www.teledunet.com/logo.php?id=1055" group-title="او اس انOSN",OSN LIVING HD
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/609
-#EXTINF:-1 tvg-id="" tvg-name="OSN TLC" tvg-logo="http://www.teledunet.com/logo.php?id=10309" group-title="او اس انOSN",OSN TLC
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/610
-#EXTINF:-1 tvg-id="" tvg-name="OSN MUSIC" tvg-logo="http://www.teledunet.com/logo.php?id=50299" group-title="او اس انOSN",OSN MUSIC
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/611
-#EXTINF:-1 tvg-id="" tvg-name="OSN FANN" tvg-logo="http://www.teledunet.com/logo.php?id=102276" group-title="او اس انOSN",OSN FANN
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/612
-#EXTINF:-1 tvg-id="" tvg-name="OSN NAT GEO WILD" tvg-logo="http://www.teledunet.com/logo.php?id=10311" group-title="او اس انOSN",OSN NAT GEO WILD
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/613
-#EXTINF:-1 tvg-id="" tvg-name="OSN ANIMAL PLANET" tvg-logo="http://www.teledunet.com/logo.php?id=1056" group-title="او اس انOSN",OSN ANIMAL PLANET
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/614
-#EXTINF:-1 tvg-id="" tvg-name="OSN ART HIKAYAT 1" tvg-logo="http://www.teledunet.com/logo.php?id=101520" group-title="او اس انOSN",OSN ART HIKAYAT 1
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/615
-#EXTINF:-1 tvg-id="" tvg-name="OSN ART HIKAYAT 2" tvg-logo="http://www.teledunet.com/logo.php?id=102270" group-title="او اس انOSN",OSN ART HIKAYAT 2
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/616
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/962
+#EXTINF:-1 tvg-id="" tvg-name="|AR| ART Movies" tvg-logo="" group-title="او اس انOSN",|AR| ART Movies
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/963
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Movies action" tvg-logo="https://i.ibb.co/hsz1bRD/MOVE2.png" group-title="او اس انOSN",|AR| Bein:Movies action
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/617
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/964
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Movies drama" tvg-logo="https://i.ibb.co/cktgTTH/MOV3.png" group-title="او اس انOSN",|AR| Bein:Movies drama
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/618
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/965
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:DRAMA 1HD" tvg-logo="https://i.ibb.co/zJDpXKX/drama.png" group-title="او اس انOSN",|AR| Bein:DRAMA 1HD
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/619
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/966
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Series 2" tvg-logo="https://i.ibb.co/RpQgTf0/SER2.png" group-title="او اس انOSN",|AR| Bein:Series 2
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/620
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/967
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Bein: Animal Planet HD" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-series-drama-logo.png" group-title="او اس انOSN",|AR| Bein: Animal Planet HD
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/621
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/968
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Bein: FOX Movies" tvg-logo="https://i.ibb.co/V9Mx0hV/FOX-Movies-1.png" group-title="او اس انOSN",|AR| Bein: FOX Movies
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/622
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/969
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Bein: FOX_Action_Movies" tvg-logo="https://i.ibb.co/g7Ss7sJ/Fox-Action-Movies-1.png" group-title="او اس انOSN",|AR| Bein: FOX_Action_Movies
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/623
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/970
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Bein: FOX_Crime" tvg-logo="https://i.ibb.co/Hd2r8T0/Fox-Crime-1.png" group-title="او اس انOSN",|AR| Bein: FOX_Crime
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/624
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/971
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:Gourmet" tvg-logo="https://i.ibb.co/cQFw0Nz/concc.png" group-title="او اس انOSN",|AR| Bein:Gourmet
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/625
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/972
 #EXTINF:-1 tvg-id="" tvg-name="|AR| Bein:FATAFEAT" tvg-logo="https://i.ibb.co/Yjhzks2/FATAFEAT-1.png" group-title="او اس انOSN",|AR| Bein:FATAFEAT
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/626
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/973
 #EXTINF:-1 tvg-id="" tvg-name="BExIN MOVIES PREMIERE" tvg-logo="http://www.teledunet.com/logo.php?id=102249" group-title="او اس انOSN",BExIN MOVIES PREMIERE
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/627
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/974
 #EXTINF:-1 tvg-id="" tvg-name="BExIN MOVIES DRAMA HD" tvg-logo="http://www.teledunet.com/logo.php?id=10085" group-title="او اس انOSN",BExIN MOVIES DRAMA HD
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/628
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/975
 #EXTINF:-1 tvg-id="" tvg-name="BExIN MOVIES FAMILY HD" tvg-logo="http://www.teledunet.com/logo.php?id=10086" group-title="او اس انOSN",BExIN MOVIES FAMILY HD
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/629
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/976
 #EXTINF:-1 tvg-id="" tvg-name="BExIN SERIES 1" tvg-logo="http://www.teledunet.com/logo.php?id=333614" group-title="او اس انOSN",BExIN SERIES 1
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/630
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/977
 #EXTINF:-1 tvg-id="" tvg-name="BExIN FOX REWAYAT" tvg-logo="http://www.teledunet.com/logo.php?id=1022" group-title="او اس انOSN",BExIN FOX REWAYAT
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/631
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/978
 #EXTINF:-1 tvg-id="" tvg-name="BExIN FOX FAMILY" tvg-logo="http://www.teledunet.com/logo.php?id=1023" group-title="او اس انOSN",BExIN FOX FAMILY
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/632
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/979
 #EXTINF:-1 tvg-id="" tvg-name="BExIN FOX ACTIONS" tvg-logo="http://www.teledunet.com/logo.php?id=1025" group-title="او اس انOSN",BExIN FOX ACTIONS
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/633
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/980
 #EXTINF:-1 tvg-id="" tvg-name="BExIN GOURMET" tvg-logo="http://www.teledunet.com/logo.php?id=1021" group-title="او اس انOSN",BExIN GOURMET
-http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/634
+http://65.21.32.185:80/airmaxosBB/6W2C5bH32F/981
 
 
 #EXTM3U
