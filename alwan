@@ -315,11 +315,6 @@ https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://content.weyyak.com/25a860af-4bbc-4289-8e1f-b3bed0dcc64a/poster-image" group-title="باقة وياك VIP",Zee Alwan
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3d7xcSu" group-title="باقة وياك VIP",Dizi FHD
-https://or149.tooliserver.com/live/149008_0.m3u8?session=&location=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3d7xcSu" group-title="باقة وياك VIP",Dizi SD
-https://or149.tooliserver.com/live/149008_3.m3u8?session=&location=
-
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="|AR| MAX ACTION" tvg-logo="https://i.ibb.co/JK52D2Q/Untitled.png" group-title="باقه OXN",|AR| MAX ACTION
