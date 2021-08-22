@@ -206,6 +206,20 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/809380693914619904/Ww1MdxsQ_400x400.jpg" group-title="رياضية SPORT",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
+#EXTINF:-1 group-title="رياضية SPORT", BT SPORT ESPN
+http://stream.tvtap.live:8081/live/espnuk.stream/playlist.m3u8
+#EXTINF:-1 group-title="رياضية SPORT", BT SPORT 1 SD
+http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
+#EXTINF:-1 group-title="رياضية SPORT", BT SPORT 1 FHD
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="رياضية SPORT", BT SPORT 2 SD
+http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8
+#EXTINF:-1 group-title="رياضية SPORT", BT SPORT 2 FHD
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="رياضية SPORT", BT SPORT 3 SD
+http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
+#EXTINF:-1 group-title="رياضية SPORT", BT SPORT 3 FHD
+http://77.83.117.60:8888/02_BTSPORTHD_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7tmZnMy.png" group-title="رياضية SPORT",Skysports F1
 #EXTGRP:Deportes
 http://31.220.41.88:8081/live/skysportsf1.stream/playlist.m3u8
@@ -301,14 +315,6 @@ http://stream.tvtap.live:8081/live/klub5.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/klub6.stream/playlist.m3u8
 #EXTINF:-1 group-title="رياضية SPORT", NBCSN
 http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8
-#EXTINF:-1 group-title="رياضية SPORT", BT SPORT ESPN
-http://stream.tvtap.live:8081/live/espnuk.stream/playlist.m3u8
-#EXTINF:-1 group-title="رياضية SPORT", BT SPORT 3
-http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
-#EXTINF:-1 group-title="رياضية SPORT", BT SPORT 2
-http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8
-#EXTINF:-1 group-title="رياضية SPORT", BT SPORT 1
-http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
 #EXTINF:-1 group-title="رياضية SPORT", ESPN
 http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
 #EXTINF:-1 group-title="رياضية SPORT", ESPN 2
