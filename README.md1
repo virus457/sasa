@@ -212,10 +212,14 @@ http://stream.tvtap.live:8081/live/espnuk.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
 #EXTINF:-1 group-title="رياضية SPORT", BT SPORT 1 FHD
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="رياضية SPORT", BT SPORT 1
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="رياضية SPORT", BT SPORT 2 SD
 http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8
 #EXTINF:-1 group-title="رياضية SPORT", BT SPORT 2 FHD
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="رياضية SPORT", BT SPORT 2
+https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="رياضية SPORT", BT SPORT 3 SD
 http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
 #EXTINF:-1 group-title="رياضية SPORT", BT SPORT 3 FHD
