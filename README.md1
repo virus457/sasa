@@ -1340,6 +1340,29 @@ http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c2MHeJ" group-title="المصرية Egypt",elsharqtv
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NileTVCinema.eg" tvg-name="Nile TV Cinema" tvg-country="EG" tvg-language="Arabic" tvg-logo="http://www.niletc.tv/images/cinema/cinema.png" group-title="المصرية Egypt",Nile TV Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+http://livestreaming5.onlinehorizons.net/hls-live/NTNNileCinema/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="NileTVComedy.eg" tvg-name="Nile TV Comedy" tvg-country="EG" tvg-language="Arabic" tvg-logo="http://www.niletc.tv/images/comedy/comedy.png" group-title="المصرية Egypt",Nile TV Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+http://livestreaming5.onlinehorizons.net/hls-live/NTNNileComedy/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="NileTVCulture.eg" tvg-name="Nile TV Culture" tvg-country="EG" tvg-language="Arabic" tvg-logo="http://www.niletc.tv/images/culture/culture.png" group-title="المصرية Egypt",Nile TV Culture
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+http://livestreaming5.onlinehorizons.net/hls-live/NTNNileCulture/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="NileTVFamily.eg" tvg-name="Nile TV Family" tvg-country="EG" tvg-language="Arabic" tvg-logo="http://www.niletc.tv/images/family/family.png" group-title="المصرية Egypt",Nile TV Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+http://livestreaming5.onlinehorizons.net/hls-live/NTNNileFamily/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="NileTVLearning.eg" tvg-name="Nile TV Learning" tvg-country="EG" tvg-language="Arabic" tvg-logo="http://www.niletc.tv/images/learning/learning.png" group-title="المصرية Egypt",Nile TV Learning
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+http://livestreaming5.onlinehorizons.net/hls-live/Learning1/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="NileTVLife.eg" tvg-name="Nile TV Life" tvg-country="EG" tvg-language="Arabic" tvg-logo="http://www.niletc.tv/images/live/live.png" group-title="المصرية Egypt",Nile TV Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+http://livestreaming5.onlinehorizons.net/hls-live/NTNNileLife/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="NileTVSport.eg" tvg-name="Nile TV Sport" tvg-country="EG" tvg-language="Arabic" tvg-logo="http://www.niletc.tv/images/sport/sport.png" group-title="المصرية Egypt",Nile TV Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+http://livestreaming5.onlinehorizons.net/hls-live/NTNNileSport/_definst_/liveevent/livestream.m3u8
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XZmNs" group-title="المغربMAROCCO",المغربMAROCCO 
 https://bit.ly/3pWtmPO
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4tysQ" group-title="المغربMAROCCO",AL_Aoula_InterTV
