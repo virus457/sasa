@@ -1334,10 +1334,11 @@ https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8
 https://listen.radioking.com/radio/96766/stream/136030
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2TSwYIe" group-title="العراق IRAQ",AletejahTV
 https://streaming.aletejahtv.iq:1937/etejah-live/smil:etejah.smil/chunklist.m3u8
-
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3608DDF" group-title="العراق IRAQ",IRQ-Babylon
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/28
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://bit.ly/2CDKh6w" group-title="العراق IRAQ",AlahadTV
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3608DDF" group-title="العراق IRAQ",IRQ-Babylon
+
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3paPPZX" group-title="العراق IRAQ",IRQ-الفرات
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MgS4Mu" group-title="العراق IRAQ",IRQ-AL-RASHEED TV
 
