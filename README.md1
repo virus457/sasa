@@ -206,6 +206,8 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/809380693914619904/Ww1MdxsQ_400x400.jpg" group-title="رياضية SPORT",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ybBJLv" group-title="رياضية SPORT",WWE FHD
+http://89.187.185.100/WWE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="رياضية SPORT", BT SPORT ESPN
 http://stream.tvtap.live:8081/live/espnuk.stream/playlist.m3u8
 #EXTINF:-1 group-title="رياضية SPORT", BT SPORT 1 SD
